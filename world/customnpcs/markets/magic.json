@@ -1,0 +1,294 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 32b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 33b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 35b,
+                "id": "tolkientweaks:gold_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 35b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 15b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 35b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 18b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 9b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 17b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 9b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 17b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 23b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 7b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 9b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 17b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 26b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 15b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 9b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 28b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 17b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 29b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 30b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 31b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "arsmagica2:essence",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 1b,
+                "id": "arsmagica2:essence",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 2b,
+                "id": "arsmagica2:spell_parchment",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "arsmagica2:essence",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 4b,
+                "id": "arsmagica2:essence",
+                "Count": 1b,
+                "Damage": 10s
+            },
+            {
+                "Slot": 5b,
+                "id": "minecraft:enchanted_book",
+                "Count": 1b,
+                "tag": {
+                    "StoredEnchantments": [
+                        {
+                            "lvl": 1s,
+                            "id": 15s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "arsmagica2:essence",
+                "Count": 1b,
+                "Damage": 4s
+            },
+            {
+                "Slot": 7b,
+                "id": "arsmagica2:essence",
+                "Count": 1b,
+                "Damage": 9s
+            },
+            {
+                "Slot": 8b,
+                "id": "minecraft:enchanted_book",
+                "Count": 1b,
+                "tag": {
+                    "StoredEnchantments": [
+                        {
+                            "lvl": 3s,
+                            "id": 8s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "arsmagica2:essence",
+                "Count": 1b,
+                "Damage": 5s
+            },
+            {
+                "Slot": 10b,
+                "id": "arsmagica2:essence",
+                "Count": 1b,
+                "Damage": 6s
+            },
+            {
+                "Slot": 11b,
+                "id": "arsmagica2:mana_potion_bundle",
+                "Count": 1b,
+                "Damage": 515s
+            },
+            {
+                "Slot": 12b,
+                "id": "minecraft:enchanted_book",
+                "Count": 1b,
+                "tag": {
+                    "StoredEnchantments": [
+                        {
+                            "lvl": 1s,
+                            "id": 51s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "id": "minecraft:enchanted_book",
+                "Count": 1b,
+                "tag": {
+                    "StoredEnchantments": [
+                        {
+                            "lvl": 3s,
+                            "id": 21s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "id": "arsmagica2:mana_potion_bundle",
+                "Count": 1b,
+                "Damage": 771s
+            },
+            {
+                "Slot": 15b,
+                "id": "minecraft:enchanted_book",
+                "Count": 1b,
+                "tag": {
+                    "StoredEnchantments": [
+                        {
+                            "lvl": 1s,
+                            "id": 33s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "id": "minecraft:enchanted_book",
+                "Count": 1b,
+                "tag": {
+                    "StoredEnchantments": [
+                        {
+                            "lvl": 4s,
+                            "id": 2s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 17b,
+                "id": "arsmagica2:mana_potion_bundle",
+                "Count": 1b,
+                "Damage": 1027s
+            }
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 18b,
+                "id": "minecraft:rotten_flesh",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "minecraft:blaze_rod",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "minecraft:gunpowder",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "id": "minecraft:bone",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 30b,
+                "id": "minecraft:slime_ball",
+                "Count": 16b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 5b,
+                "Damage": 0s
+            }
+        ]
+    }
+}
