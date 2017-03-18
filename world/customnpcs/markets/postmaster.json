@@ -1,0 +1,120 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 18b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 50b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 28b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 10b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 30b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 31b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 20b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcMailbox",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 16b,
+                "id": "forestry:stamps",
+                "Count": 1b,
+                "Damage": 5s
+            },
+            {
+                "Slot": 1b,
+                "id": "forestry:stamps",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "forestry:stamps",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 6b,
+                "id": "forestry:mailbox",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "forestry:stamps",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 10b,
+                "id": "forestry:stamps",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 12b,
+                "id": "forestry:letters",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "id": "forestry:stamps",
+                "Count": 1b,
+                "Damage": 4s
+            }
+        ]
+    }
+}

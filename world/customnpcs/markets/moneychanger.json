@@ -1,0 +1,60 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 18b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "tolkientweaks:gold_coin",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "tolkientweaks:gold_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 64b,
+                "Damage": 0s
+            }
+        ]
+    }
+}

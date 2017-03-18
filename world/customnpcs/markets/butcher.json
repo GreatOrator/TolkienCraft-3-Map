@@ -1,0 +1,187 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 32b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 10b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 14b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 14b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 21b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 30b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 18b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 23b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 26b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 29b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 30b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 3b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:porkchop",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "minecraft:spawn_egg",
+                "Count": 1b,
+                "tag": {
+                    "EntityTag": {
+                        "id": "Chicken"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "minecraft:mutton",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "minecraft:spawn_egg",
+                "Count": 1b,
+                "tag": {
+                    "EntityTag": {
+                        "id": "Pig"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "minecraft:rabbit",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "minecraft:spawn_egg",
+                "Count": 1b,
+                "tag": {
+                    "EntityTag": {
+                        "id": "Sheep"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "minecraft:chicken",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "minecraft:spawn_egg",
+                "Count": 1b,
+                "tag": {
+                    "EntityTag": {
+                        "id": "Cow"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "id": "minecraft:beef",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "id": "minecraft:spawn_egg",
+                "Count": 1b,
+                "tag": {
+                    "EntityTag": {
+                        "id": "MushroomCow"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    }
+}

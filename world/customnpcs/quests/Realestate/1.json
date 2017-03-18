@@ -1,0 +1,96 @@
+{
+    "CompleterNpc": "Yosil",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 1b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Player Housing I",
+    "Text": "The real estate broker suggested you take a look around and talk to the other broker near the market area after looking at all the houses before buying one.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 25,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1488070895359L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 231s
+            },
+            {
+                "Slot": 1b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 247s
+            },
+            {
+                "Slot": 2b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 100s
+            },
+            {
+                "Slot": 3b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 352s
+            },
+            {
+                "Slot": 4b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 371s
+            },
+            {
+                "Slot": 5b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 657s
+            },
+            {
+                "Slot": 6b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 935s
+            },
+            {
+                "Slot": 7b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 702s
+            },
+            {
+                "Slot": 8b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 1063s
+            }
+        ]
+    },
+    "CompleteText": "Good day to you traveler!  Have you decided on a house yet?",
+    "NextQuestTitle": "",
+    "QuestLocation": "Real Estate Broker"
+}

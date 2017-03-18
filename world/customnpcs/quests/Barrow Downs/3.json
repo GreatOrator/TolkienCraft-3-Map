@@ -1,0 +1,56 @@
+{
+    "CompleterNpc": "Falsir",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Ancient Evil II",
+    "Text": "Falsir has asked you to find two fragments of a key that opens the way into the deepest halls of the Great Barrow from a pair of wights and a creature called a gaunt-man. 
+
+Take the fragments you have won to Falsir.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 8,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 120,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 30,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1489276637851L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 32b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "I know that I promised you the story of the Great Barrow, but your tale has not yet ended. We need to finish the final chapter.",
+    "NextQuestTitle": "",
+    "QuestLocation": "The Camp"
+}

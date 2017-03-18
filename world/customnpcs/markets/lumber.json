@@ -1,0 +1,327 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "tolkientweaks:gold_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 10b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 14b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 14b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 17b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 14b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 18b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 23b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 23b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 25b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 25b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 28b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 29b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 30b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 27b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 31b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 32b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 33b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 29b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 35b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 578s
+            },
+            {
+                "Slot": 1b,
+                "id": "forestry:logs.3",
+                "Count": 64b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 2b,
+                "id": "tconstruct:lumberaxe",
+                "Count": 1b,
+                "tag": {
+                    "StatsOriginal": {
+                        "AttackSpeedMultiplier": 1.0f,
+                        "MiningSpeed": 0.51f,
+                        "FreeModifiers": 3,
+                        "Durability": 16,
+                        "HarvestLevel": 0,
+                        "Attack": 2.05f
+                    },
+                    "Unbreakable": 1b,
+                    "Stats": {
+                        "AttackSpeedMultiplier": 1.0f,
+                        "MiningSpeed": 0.51f,
+                        "FreeModifiers": 0,
+                        "Durability": 16,
+                        "HarvestLevel": 0,
+                        "Attack": 2.05f
+                    },
+                    "Special": {
+                        "Categories": [
+                            "tool",
+                            "harvest"
+                        ]
+                    },
+                    "TinkerData": {
+                        "UsedModifiers": 5,
+                        "Materials": [
+                            "paper",
+                            "paper",
+                            "paper",
+                            "paper"
+                        ],
+                        "Modifiers": [
+                            "toolleveling",
+                            "reinforced"
+                        ]
+                    },
+                    "Modifiers": [
+                        {
+                            "identifier": "writable",
+                            "color": -1,
+                            "level": 2,
+                            "writable2": 1b,
+                            "writable1": 1b
+                        },
+                        {
+                            "identifier": "toolleveling",
+                            "color": 16777215,
+                            "level": 1
+                        },
+                        {
+                            "identifier": "reinforced",
+                            "color": 5254787,
+                            "level": 5
+                        }
+                    ],
+                    "Traits": [
+                        "writable1",
+                        "writable2",
+                        "toolleveling",
+                        "reinforced"
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 579s
+            },
+            {
+                "Slot": 4b,
+                "id": "forestry:logs.0",
+                "Count": 64b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 6b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 576s
+            },
+            {
+                "Slot": 7b,
+                "id": "forestry:logs.3",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 577s
+            },
+            {
+                "Slot": 10b,
+                "id": "forestry:logs.fireproof.4",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "forestry:logs.fireproof.1",
+                "Count": 64b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 12b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 510s
+            },
+            {
+                "Slot": 13b,
+                "id": "arsmagica2:witchwood_log",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "id": "forestry:logs.fireproof.2",
+                "Count": 64b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 15b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 511s
+            },
+            {
+                "Slot": 16b,
+                "id": "forestry:logs.5",
+                "Count": 64b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 17b,
+                "id": "forestry:logs.fireproof.2",
+                "Count": 64b,
+                "Damage": 3s
+            }
+        ]
+    }
+}

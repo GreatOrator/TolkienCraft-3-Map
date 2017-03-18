@@ -1,0 +1,60 @@
+{
+    "CompleterNpc": "Reeve Guibe",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Final Chapter I",
+    "Text": "Reeve Guibe is in Blacksmith's Row, west of The Prancing Pony and south-west of the stables.
+
+Falsir told you to bring the key fragments to Reeve Guibe, a blacksmith who has had a recent run of bad luck.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1488326317590L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcKey",
+                "Count": 2b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "Key Fragment"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Falsir sent you, did he?",
+    "NextQuestTitle": ""
+}

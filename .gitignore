@@ -2,28 +2,85 @@
 
 ## Client and Server ##
 
-**/cofh
-**/HardcoreQuesting
-**/playerdata
-**/players
-**/stats
-**/backpacks
-**/aroma1997
-**/EnderStorage
-**/logisticspipes
 **/logs
-**/LOTR/players
-**/data/POBox_player*
+**/asm
+**/reports
+**/mods/ruins_log.txt
+**/natives
+**/stats/player.uid
+**/backups
+**/crash-reports
+**/template
+**/usernamecache.json
+**/journeymap/data
+**/journeymap/server
+**/journeymap/config
+**/journeymap/icon/entity
+**/journeymap/icon/theme/Vault
+**/journeymap/icon/theme/Victorian
+**/journeymap/colorpalette*
+**/journeymap/journeymap.log
+**/config/MCA/Worlds
+**/.packignore
+**/tclogo.png
+**/config/BetterAchievements/*.dat
+**/world/AM2PowerData
+**/world/region
+
+
+# Server Only
+server/world
+server/server.properties
+server/ops.json
+server/whitelist.json
+server/banned-ips.json
+server/banned-players.json
+server/config/JourneyMapServer
+server/mods/AromaBackup*
+server/mods/CustomMainMenu*
+server/mods/InventoryTweaks*
+server/mods/journeymap*
+server/mods/Lockdown*
+server/mods/NotEnoughKeys*
+server/mods/ResourceLoader*
+server/mods/rpghud*
+server/mods/TiCTooltips*
+server/mods/*DamageIndicatorsMod*
+
+# Client only
+
+screenshots
+client/patches
+client/minecraft/saves
+client/instance.cfg
+client/minecraft/icon.png
+
+
+# Config
+
+**/config/YAMPST.nbt
+**/config/splash.properties
+**/config/IChunUtil_Stats.cfg
+**/config/IChunUtil.cfg
+**/config/InvTweaks.cfg
+**/config/fastcraft.ini
+**/config/hqm/editmode.cfg
+**/config/madhelp/MadHelpContentList.json
+**/config/madhelp/MadHelpSplashScreen.json
+
+# Caches
+
+**/mods/carpentersblocks
+**/customnpcs/assets/customnpcs/textures/cache
+**/usercache.json
+
+
 # Created by https://www.gitignore.io
 
 ### OSX ###
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# Icon must end with two \r
-Icon
-
 
 # Thumbnails
 ._*

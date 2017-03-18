@@ -1,0 +1,138 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 18b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 13b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 30b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 20b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 23b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 30b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 15b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:potion",
+                "Count": 1b,
+                "tag": {
+                    "Potion": "minecraft:long_night_vision"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "minecraft:potion",
+                "Count": 1b,
+                "tag": {
+                    "Potion": "minecraft:strong_healing"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "minecraft:potion",
+                "Count": 1b,
+                "tag": {
+                    "Potion": "minecraft:strong_swiftness"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "minecraft:potion",
+                "Count": 1b,
+                "tag": {
+                    "Potion": "minecraft:long_water_breathing"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "minecraft:potion",
+                "Count": 1b,
+                "tag": {
+                    "Potion": "minecraft:strong_regeneration"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "minecraft:potion",
+                "Count": 1b,
+                "tag": {
+                    "Potion": "minecraft:strong_leaping"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "minecraft:potion",
+                "Count": 1b,
+                "tag": {
+                    "Potion": "minecraft:long_invisibility"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "minecraft:potion",
+                "Count": 1b,
+                "tag": {
+                    "Potion": "extrautils2:xu2.second.chance"
+                },
+                "Damage": 0s
+            }
+        ]
+    }
+}

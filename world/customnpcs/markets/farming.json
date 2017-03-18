@@ -1,0 +1,246 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 32b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 15b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 35b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 18b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 15b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 15b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 15b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 26b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 28b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 15b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 29b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 31b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 15b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:melon_seeds",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "harvestcraft:soggygarden",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "tconstruct:mattock",
+                "Count": 1b,
+                "tag": {
+                    "StatsOriginal": {
+                        "AttackSpeedMultiplier": 1.0f,
+                        "HarvestLevelAxe": 0,
+                        "MiningSpeed": 0.51f,
+                        "FreeModifiers": 3,
+                        "HarvestLevelShovel": 0,
+                        "Durability": 6,
+                        "HarvestLevel": 0,
+                        "Attack": 3.05f
+                    },
+                    "Unbreakable": 1b,
+                    "Stats": {
+                        "AttackSpeedMultiplier": 1.0f,
+                        "HarvestLevelAxe": 0,
+                        "MiningSpeed": 0.51f,
+                        "FreeModifiers": 0,
+                        "HarvestLevelShovel": 0,
+                        "Durability": 6,
+                        "HarvestLevel": 0,
+                        "Attack": 3.05f
+                    },
+                    "Special": {
+                        "Categories": [
+                            "tool",
+                            "harvest"
+                        ]
+                    },
+                    "TinkerData": {
+                        "UsedModifiers": 5,
+                        "Materials": [
+                            "paper",
+                            "paper",
+                            "paper"
+                        ],
+                        "Modifiers": [
+                            "toolleveling",
+                            "reinforced"
+                        ]
+                    },
+                    "Modifiers": [
+                        {
+                            "identifier": "writable",
+                            "color": -1,
+                            "level": 2,
+                            "writable2": 1b,
+                            "writable1": 1b
+                        },
+                        {
+                            "identifier": "toolleveling",
+                            "color": 16777215,
+                            "level": 1
+                        },
+                        {
+                            "identifier": "reinforced",
+                            "color": 5254787,
+                            "level": 5
+                        }
+                    ],
+                    "Traits": [
+                        "writable1",
+                        "writable2",
+                        "toolleveling",
+                        "reinforced"
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "minecraft:pumpkin_seeds",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "harvestcraft:shadedgarden",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "minecraft:nether_wart",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "harvestcraft:frostgarden",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 178s
+            },
+            {
+                "Slot": 10b,
+                "id": "harvestcraft:aridgarden",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 862s
+            },
+            {
+                "Slot": 13b,
+                "id": "harvestcraft:tropicalgarden",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 863s
+            },
+            {
+                "Slot": 16b,
+                "id": "harvestcraft:windygarden",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 17b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 119s
+            }
+        ]
+    }
+}
