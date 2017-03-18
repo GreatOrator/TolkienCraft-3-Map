@@ -65,7 +65,6 @@ client/minecraft/icon.png
 **/config/InvTweaks.cfg
 **/config/fastcraft.ini
 **/config/hqm/editmode.cfg
-**/config/madhelp/MadHelpContentList.json
 **/config/madhelp/MadHelpSplashScreen.json
 
 # Caches
