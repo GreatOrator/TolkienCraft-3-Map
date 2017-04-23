@@ -6,9 +6,9 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 14,
-                "Title": "Ah, ok, thank you for explaining.",
-                "DialogColor": 16777215,
+                "Dialog": 74,
+                "Title": "I will make my way there with all due haste!",
+                "DialogColor": 14737632,
                 "OptionType": 1
             }
         }
@@ -23,7 +23,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 9,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Middle-earth Curency II",
+    "DialogTitle": "Horse and Rider III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are three denominations of coins, Copper, Silver and Gold.  64 copper coins equal 1 Silver, 64 Silver coins equal 1 Gold.  I can help convert your coins so you don’t have to carry around so many or if you need change, I can do that too by converting them backwards.  You get equal amounts so no fees or costs for converting either direction.  Comes in handy if you just don’t have the right amount ready.",
+    "DialogText": "My sons set forth with scouts bound to them by friendship to seek this missing Rider. I ask that you speak with Elladan at their camp of Thorenhad, hidden in the Trollshaws, and lend your aid to the search. We must learn where this Nazgûl has gone, and most importantly, his designs.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1491535309092L,
+        "TimePast": 1492821996959L,
         "Time": 0L,
         "Subject": ""
     }

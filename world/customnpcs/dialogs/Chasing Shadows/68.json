@@ -1,21 +1,21 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 8,
     "Options": [
         {
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 14,
-                "Title": "Ah, ok, thank you for explaining.",
-                "DialogColor": 16777215,
+                "Dialog": 69,
+                "Title": "It indeed was a long journey, especially the river crossing.",
+                "DialogColor": 14737632,
                 "OptionType": 1
             }
         }
     ],
     "DialogHideNPC": 0b,
-    "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityFactionStance": 2,
+    "AvailabilityQuest": 2,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 0,
@@ -30,17 +30,17 @@
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
-    "DialogDisableEsc": 1b,
-    "AvailabilityFaction": 0,
-    "DialogTitle": "Middle-earth Curency II",
-    "AvailabilityDialog": 0,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 2,
+    "DialogTitle": "Troubles of Rivendell I",
+    "AvailabilityDialog": 2,
     "AvailabilityFaction2": 0,
-    "AvailabilityFactionId": -1,
+    "AvailabilityFactionId": 12,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
-    "AvailabilityDialogId": -1,
+    "AvailabilityDialogId": 70,
     "OptionFaction2Points": 100,
-    "DialogText": "There are three denominations of coins, Copper, Silver and Gold.  64 copper coins equal 1 Silver, 64 Silver coins equal 1 Gold.  I can help convert your coins so you don’t have to carry around so many or if you need change, I can do that too by converting them backwards.  You get equal amounts so no fees or costs for converting either direction.  Comes in handy if you just don’t have the right amount ready.",
+    "DialogText": "Welcome to Rivendell, where you will find the Last Homely House east of the Sea, @p. The road to Imladris is not as forgiving as once it was, and I commend you for your efforts.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1491535309092L,
+        "TimePast": 1492821947356L,
         "Time": 0L,
         "Subject": ""
     }

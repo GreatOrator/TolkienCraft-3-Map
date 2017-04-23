@@ -6,9 +6,9 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 14,
-                "Title": "Ah, ok, thank you for explaining.",
-                "DialogColor": 16777215,
+                "Dialog": 78,
+                "Title": "Let’s hope you are right.",
+                "DialogColor": 14737632,
                 "OptionType": 1
             }
         }
@@ -23,7 +23,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 10,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Middle-earth Curency II",
+    "DialogTitle": "Missing Rider III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are three denominations of coins, Copper, Silver and Gold.  64 copper coins equal 1 Silver, 64 Silver coins equal 1 Gold.  I can help convert your coins so you don’t have to carry around so many or if you need change, I can do that too by converting them backwards.  You get equal amounts so no fees or costs for converting either direction.  Comes in handy if you just don’t have the right amount ready.",
+    "DialogText": "Journey south of the road in the Trollshaws, @p, and seek out the missing Rider. The ruins within those narrow channels have a fell reputation and the Nazgûl may have sought it out for that reason.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1491535309092L,
+        "TimePast": 1492822642256L,
         "Time": 0L,
         "Subject": ""
     }

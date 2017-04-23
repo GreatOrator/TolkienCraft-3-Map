@@ -1,15 +1,11 @@
 {
-    "CompleterNpc": "Yosil",
-    "NextQuestId": 5,
+    "CompleterNpc": "Aragorn",
+    "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 1,
-    "Title": "Final Chapter I",
-    "Text": "Falsir has told you he knows the story of the Great Barrow, but that the reality of the place as it exists now must be masked beneath the splendour of legend, lest cautious fear grows into terror.
-
-Zaemrohn is at the furthest end of the Great Barrow, in the deepest halls.
-
-Falsir has asked you to defeat the ancient wight-lord, Zaemrohn.",
+    "Title": "Hiding in the Dark - Bandrith",
+    "Text": "Elladan has determined that the missing Rider may be hiding in one of the many caves near the Black Steed in the Trollshaws and wants you to search several of them with Glorfindel's beryl.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -18,12 +14,12 @@ Falsir has asked you to defeat the ancient wight-lord, Zaemrohn.",
         "OptionFaction1Points": 100,
         "DecreaseFaction2Points": 0b
     },
-    "RewardExp": 0,
+    "RewardExp": 25,
     "QuestCommand": "",
     "QuestDialogs": [
         {
             "Value": 1,
-            "Slot": "Zaemrohn"
+            "Slot": "Bandrith"
         }
     ],
     "ModRev": 18,
@@ -36,7 +32,7 @@ Falsir has asked you to defeat the ancient wight-lord, Zaemrohn.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1491789926843L,
+        "TimePast": 1492797270540L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,6 +40,6 @@ Falsir has asked you to defeat the ancient wight-lord, Zaemrohn.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Falsir is awaiting further word of your deeds outside of the Great Barrow.",
-    "NextQuestTitle": "Final Chapter II"
+    "CompleteText": "You have managed to kill the troll of Bandrith!",
+    "NextQuestTitle": ""
 }

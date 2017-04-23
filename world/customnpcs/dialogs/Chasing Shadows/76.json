@@ -6,10 +6,20 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 14,
-                "Title": "Ah, ok, thank you for explaining.",
-                "DialogColor": 16777215,
+                "Dialog": 77,
+                "Title": "What’s the best place to start then?",
+                "DialogColor": 5305410,
                 "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "I am not sure I want to go up against a Nazgûl honestly.",
+                "DialogColor": 16010050,
+                "OptionType": 0
             }
         }
     ],
@@ -32,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Middle-earth Curency II",
+    "DialogTitle": "Missing Rider II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are three denominations of coins, Copper, Silver and Gold.  64 copper coins equal 1 Silver, 64 Silver coins equal 1 Gold.  I can help convert your coins so you don’t have to carry around so many or if you need change, I can do that too by converting them backwards.  You get equal amounts so no fees or costs for converting either direction.  Comes in handy if you just don’t have the right amount ready.",
+    "DialogText": "We travelled far afield, into lands to the south, and still found no sign of the fleeing Rider. Only on our return journey did we find something: hoofprints in the South Trollshaws, far south of the road. There are many narrow valleys in that region -- the Nazgûl might lie there, sheltered from prying eyes, waiting for his time to strike.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1491535309092L,
+        "TimePast": 1492821734356L,
         "Time": 0L,
         "Subject": ""
     }

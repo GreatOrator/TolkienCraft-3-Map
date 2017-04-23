@@ -6,10 +6,30 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 14,
-                "Title": "Ah, ok, thank you for explaining.",
-                "DialogColor": 16777215,
+                "Dialog": 59,
+                "Title": "Well, I was told you can help me.  What can you do?",
+                "DialogColor": 14737632,
                 "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 52,
+                "Title": "I do need your help, if you can.",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Woops, my mistake, didn’t need anything.",
+                "DialogColor": 16010050,
+                "OptionType": 0
             }
         }
     ],
@@ -32,7 +52,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Middle-earth Curency II",
+    "DialogTitle": "Helping I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are three denominations of coins, Copper, Silver and Gold.  64 copper coins equal 1 Silver, 64 Silver coins equal 1 Gold.  I can help convert your coins so you don’t have to carry around so many or if you need change, I can do that too by converting them backwards.  You get equal amounts so no fees or costs for converting either direction.  Comes in handy if you just don’t have the right amount ready.",
+    "DialogText": "Elen sila lumenn omentilmo, A star shall shine on the hour of our meeting @p. What fate brings us to this meeting?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +77,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1491535309092L,
+        "TimePast": 1490903440193L,
         "Time": 0L,
         "Subject": ""
     }
