@@ -1,21 +1,21 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 8,
     "Options": [
         {
-            "OptionSlot": 0,
+            "OptionSlot": 5,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 14,
-                "Title": "Ah, ok, thank you for explaining.",
-                "DialogColor": 16777215,
-                "OptionType": 1
+                "Dialog": -1,
+                "Title": "I will go speka with him now then, thank you.",
+                "DialogColor": 16010050,
+                "OptionType": 0
             }
         }
     ],
     "DialogHideNPC": 0b,
-    "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityFactionStance": 2,
+    "AvailabilityQuest": 2,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 0,
@@ -23,24 +23,24 @@
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 8,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
-    "DialogDisableEsc": 1b,
-    "AvailabilityFaction": 0,
-    "DialogTitle": "Middle-earth Curency II",
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 2,
+    "DialogTitle": "Troubles of Rivendell III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
-    "AvailabilityFactionId": -1,
+    "AvailabilityFactionId": 12,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are three denominations of coins, Copper, Silver and Gold.  64 copper coins equal 1 Silver, 64 Silver coins equal 1 Gold.  I can help convert your coins so you don’t have to carry around so many or if you need change, I can do that too by converting them backwards.  You get equal amounts so no fees or costs for converting either direction.  Comes in handy if you just don’t have the right amount ready.",
+    "DialogText": "Lord Elrond is the master of this house; he should be given news of your arrival. You will find him in his library to the north of the Last Homely House.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1491535309092L,
+        "TimePast": 1492822708806L,
         "Time": 0L,
         "Subject": ""
     }

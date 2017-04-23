@@ -3,12 +3,12 @@
     "AvailabilityQuestId": -1,
     "Options": [
         {
-            "OptionSlot": 0,
+            "OptionSlot": 5,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 14,
+                "Dialog": 51,
                 "Title": "Ah, ok, thank you for explaining.",
-                "DialogColor": 16777215,
+                "DialogColor": 16010050,
                 "OptionType": 1
             }
         }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Middle-earth Curency II",
+    "DialogTitle": "Helping Ia",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are three denominations of coins, Copper, Silver and Gold.  64 copper coins equal 1 Silver, 64 Silver coins equal 1 Gold.  I can help convert your coins so you don’t have to carry around so many or if you need change, I can do that too by converting them backwards.  You get equal amounts so no fees or costs for converting either direction.  Comes in handy if you just don’t have the right amount ready.",
+    "DialogText": "Well, sometimes the great powers do not quite align as they should so things may fall out of place.  My job is to record all the happenings of Middle-earth and help travellers any time I find something that could potentially cause them trouble with their adventures.
+
+Some things I can do are fixing the story you are a part of (reload the quest book), recover a lost tome of knowledge (give a new quest book), help you when friends have become foe or vice versa (reset certain factions), and in some cases even set you on the correct path (fix a broken quest or continue a quest if an update breaks things).
+
+If it is really needed, I can, one time, present you with supplies to help you on your way (set starting inventory if needed).",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +61,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1491535309092L,
+        "TimePast": 1490903471442L,
         "Time": 0L,
         "Subject": ""
     }

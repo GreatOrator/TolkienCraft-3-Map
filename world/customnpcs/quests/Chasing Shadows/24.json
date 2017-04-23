@@ -1,27 +1,29 @@
 {
-    "CompleterNpc": "Falsir",
+    "CompleterNpc": "Legolas",
     "NextQuestId": -1,
-    "QuestLocation3": "",
     "RandomReward": 0b,
-    "QuestLocation2": "",
     "QuestRepeat": 0,
     "QuestCompletion": 0,
-    "Title": "Ancient Evil II",
-    "Text": "Falsir has asked you to find two fragments of a key that opens the way into the deepest halls of the Great Barrow from a pair of wights and a creature called a gaunt-man. 
-
-Take the fragments you have won to Falsir.",
+    "Title": "Aid of Mirkwood III",
+    "Text": "Legolas recognized the creature you described as a Wood-troll and has agreed to show you where to track the rest down.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
-        "OptionFactions1": 8,
+        "OptionFactions1": 10,
         "OptionFactions2": -1,
-        "OptionFaction1Points": 120,
+        "OptionFaction1Points": 1200,
         "DecreaseFaction2Points": 0b
     },
-    "RewardExp": 30,
+    "RewardExp": 50,
     "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 1,
+            "Slot": "Matuna"
+        }
+    ],
     "ModRev": 18,
-    "Type": 3,
+    "Type": 4,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -30,7 +32,7 @@ Take the fragments you have won to Falsir.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1491790492792L,
+        "TimePast": 1492717469173L,
         "Time": 0L,
         "Subject": ""
     },
@@ -39,18 +41,17 @@ Take the fragments you have won to Falsir.",
             {
                 "Slot": 0b,
                 "id": "tolkientweaks:silver_coin",
-                "Count": 4b,
+                "Count": 8b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
                 "id": "tolkientweaks:brons_coin",
-                "Count": 32b,
+                "Count": 40b,
                 "Damage": 0s
             }
         ]
     },
-    "CompleteText": "I know that I promised you the story of the Great Barrow, but your tale has not yet ended. We need to finish the final chapter.",
-    "NextQuestTitle": "",
-    "QuestLocation": "The Camp"
+    "CompleteText": "You have ended the Nazgûl's designs by slaying the Wood-troll Matuna, but the escape of so great a servant of the Enemy casts a shadow upon my heart.",
+    "NextQuestTitle": ""
 }

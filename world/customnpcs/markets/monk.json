@@ -4,19 +4,49 @@
             {
                 "Slot": 18b,
                 "id": "tolkientweaks:silver_coin",
-                "Count": 1b,
+                "Count": 3b,
                 "Damage": 0s
             },
             {
-                "Slot": 21b,
+                "Slot": 19b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
                 "id": "tolkientweaks:brons_coin",
                 "Count": 16b,
                 "Damage": 0s
             },
             {
-                "Slot": 24b,
+                "Slot": 21b,
                 "id": "tolkientweaks:brons_coin",
                 "Count": 10b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 23b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 26b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 16b,
                 "Damage": 0s
             }
         ]
@@ -32,29 +62,126 @@
                 "Damage": 0s
             },
             {
-                "Slot": 3b,
+                "Slot": 1b,
+                "id": "draconicevolution:dislocator",
+                "Count": 1b,
+                "tag": {
+                    "IsSet": 1b,
+                    "display": {
+                        "Name": "§6Return to Rivendell"
+                    },
+                    "X": 14936.426909376341d,
+                    "Pitch": -0.45004568f,
+                    "Y": 142.0d,
+                    "Z": 6081.054822318874d,
+                    "Dimension": 0,
+                    "Yaw": 180.59984f,
+                    "DimentionName": "§3Middle-earth §d(Overworld)"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
                 "id": "draconicevolution:dislocator",
                 "Count": 1b,
                 "tag": {
                     "IsSet": 1b,
                     "RepairCost": 0,
                     "display": {
-                        "Name": "Return to Rivendell"
+                        "Name": "§cReturn to Gondor Housing"
                     },
-                    "X": 14492.444441408988d,
-                    "Pitch": 13.200011f,
-                    "Y": 44.0d,
-                    "Z": 6296.314990212623d,
-                    "Dimension": 0,
-                    "Yaw": 90.00014f,
-                    "DimentionName": "Overworld"
+                    "X": 1057.6420438320881d,
+                    "Pitch": 6.7500796f,
+                    "Y": 65.0d,
+                    "Z": 1442.3938184077351d,
+                    "Dimension": 52,
+                    "Yaw": -89.399826f,
+                    "DimentionName": "§2Gondor Housing"
                 },
                 "Damage": 0s
             },
             {
-                "Slot": 6b,
+                "Slot": 3b,
                 "id": "minecraft:ender_pearl",
                 "Count": 16b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "draconicevolution:dislocator",
+                "Count": 1b,
+                "tag": {
+                    "IsSet": 1b,
+                    "display": {
+                        "Name": "§6Return to Bree"
+                    },
+                    "X": 9312.154124918736d,
+                    "Pitch": -10.050044f,
+                    "Y": 60.0d,
+                    "Z": 7848.733848717464d,
+                    "Dimension": 0,
+                    "Yaw": 245.84967f,
+                    "DimentionName": "§3Middle-earth §d(Overworld)"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "draconicevolution:dislocator",
+                "Count": 1b,
+                "tag": {
+                    "IsSet": 1b,
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "§cReturn to Rhovanion Housing"
+                    },
+                    "X": 1057.5d,
+                    "Pitch": 6.7500796f,
+                    "Y": 65.0d,
+                    "Z": 1442.5d,
+                    "Dimension": 51,
+                    "Yaw": -89.399826f,
+                    "DimentionName": "§2Rhovanion Housing"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "draconicevolution:dislocator",
+                "Count": 1b,
+                "tag": {
+                    "IsSet": 1b,
+                    "display": {
+                        "Name": "§6Return to Esgaroth"
+                    },
+                    "X": 20565.82557504729d,
+                    "Pitch": -7.6500416f,
+                    "Y": 39.0d,
+                    "Z": 5344.282129854033d,
+                    "Dimension": 0,
+                    "Yaw": 180.7497f,
+                    "DimentionName": "§3Middle-earth §d(Overworld)"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "draconicevolution:dislocator",
+                "Count": 1b,
+                "tag": {
+                    "IsSet": 1b,
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "§cReturn to Eriador Housing"
+                    },
+                    "X": 1057.5d,
+                    "Pitch": 6.7500796f,
+                    "Y": 65.0d,
+                    "Z": 1442.5d,
+                    "Dimension": 50,
+                    "Yaw": -89.399826f,
+                    "DimentionName": "§2Eriador Housing"
+                },
                 "Damage": 0s
             }
         ]
