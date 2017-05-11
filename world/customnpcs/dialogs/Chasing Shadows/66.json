@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Many caves dot the wilderness of the Trollshaws, home to the creatures that give this place its name. The missing Nazgûl suffered some grievous hurt when caught between the fires of Glorfindel and the Ranger Aragorn and the waters of Bruinen, and he must have escaped to some secluded corner of the wild to regain his strength; I believe he fled to one of the troll-caves.",
+    "DialogText": "Many caves dot the wilderness of the Trollshaws, home to the creatures that give this place its name. The missing Nazgûl suffered some grievous hurt when caught between the fires of Glorfindel and the Ranger Aragorn and the waters of the Bruinen, and he must have escaped to some secluded corner of the wild to regain his strength; I believe he fled to one of the troll-caves.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1492989851639L,
+        "TimePast": 1493592605380L,
         "Time": 0L,
         "Subject": ""
     }

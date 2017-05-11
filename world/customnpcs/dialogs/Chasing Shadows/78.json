@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We discovered hoofprints leading into the narrow valleys south of the road through the Trollshaws. Ruins are located within those channels and have a fell name. The missing Rider may be sheltering within those crumbling walls.",
+    "DialogText": "We discovered hoofprints leading into the narrow valleys south of the road through the Trollshaws. Ruins are located within those channels and have a fell name. It seems likely to be located within the wilderness and ruins of the Trollshaws.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 11,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1492993929640L,
+        "TimePast": 1493386288591L,
         "Time": 0L,
         "Subject": ""
     }

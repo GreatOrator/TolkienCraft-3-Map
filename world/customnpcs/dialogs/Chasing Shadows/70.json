@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will go speka with him now then, thank you.",
+                "Title": "I will go speak with him now then, thank you.",
                 "DialogColor": 16010050,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1492822708806L,
+        "TimePast": 1493386185999L,
         "Time": 0L,
         "Subject": ""
     }

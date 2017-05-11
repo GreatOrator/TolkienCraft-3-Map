@@ -8,7 +8,7 @@
 			"This map is for those playing for the first time as this is a complete map download and will overwrite everything!"
 		],
 		"releaseNumber": "3",
-		"downloadURL": "",
+		"downloadURL": "http://repository.a2g.gs/modpacks/tolkiencraft/3/MiddleEarth-DefaultTC3.zip",
 		"isRegional": false,
 		"regionInputPath": "",
 		"regionOutputPath": ""
@@ -24,7 +24,7 @@
 		"releaseNumber": "3",
 		"downloadURL": "",
 		"isRegional": false,
-		"regionInputPath": "",
+		"regionInputPath": "http://repository.a2g.gs/modpacks/tolkiencraft/3/MiddleEarth-OverworldTC3.zip",
 		"regionOutputPath": ""
 	},
 	{
@@ -36,9 +36,9 @@
 			"This download is intended to be ONLY for updating the player housing are if you want to RESET or download to add extra dimensions for large servers. Do not download unless you want to erase the existing player housing dimensions."
 		],
 		"releaseNumber": "3",
-		"downloadURL": "",
-		"isRegional": true,
-		"regionInputPath": "region",
-		"regionOutputPath": "region"
+		"downloadURL": "http://repository.a2g.gs/modpacks/tolkiencraft/3/MiddleEarth-PlayerHousingTC3.zip",
+		"isRegional": false,
+		"regionInputPath": "",
+		"regionOutputPath": ""
 	}
 ]

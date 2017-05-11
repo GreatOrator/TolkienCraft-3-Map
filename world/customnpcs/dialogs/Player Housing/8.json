@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are currently 3 player areas by default the local rulers (admin) may add more if they wish.  Each one has 9 houses for sale and each is in a different theme.  You simply go in, look around at the houses still available, then once you have chosen one you talk to the Broker near the market and buy the key that matches the House address you liked.  Then take the key, go to your house and click on the block near the front door that has a house on it.  Once you do, the doors will change so you can then go inside and a sign will be placed to show you are the new owner!  It’s that simple!",
+    "DialogText": "There are currently 3 player areas by default, the local rulers (admin) may add more if they wish.  Each one has 9 houses for sale and each is in a different theme.  You simply go in, look around at the houses still available, then once you have chosen one you talk to the Broker near the market and buy the key that matches the House address you liked.  Then take the key, go to your house and click on the block near the front door that has a house on it.  Once you do, the doors will change so you can then go inside and a sign will be placed to show you are the new owner!  It’s that simple!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1488070385114L,
+        "TimePast": 1493385794872L,
         "Time": 0L,
         "Subject": ""
     }

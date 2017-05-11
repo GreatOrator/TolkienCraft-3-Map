@@ -1,0 +1,61 @@
+{
+    "CompleterNpc": "Cornerstone",
+    "NextQuestId": 29,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Return to Gundabad I",
+    "Text": "Glóin told you that the Nazgûl you are pursuing can be found in the old dwarf-fortress of Gundabad, in the company of Dugorim Dourhand. The two entered the nearly impregnable inner keep of the fortress. Glóin believes the only way to enter the inner keep is to learn its secret entrance.
+
+The cornerstone containing the plans is located inside Gundabad's Vault, located in the pass going east through the mountains of Gundabad. Glóin's camp is at the east-end of the High Pass north of Rivendell.
+
+Glóin told you that to learn how to access the secret entrance to Gundabad's inner keep, you will need to take the plans for the fortress placed in its cornerstone.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1493941411294L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcAncientScroll",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Seemingly fragile, surprising they survived so long."
+                        ],
+                        "Name": "§3Fortress Plans"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "There it is!  The cornerstone!",
+    "NextQuestTitle": "Return to Gundabad II",
+    "QuestLocation": "Gundabad Vault"
+}

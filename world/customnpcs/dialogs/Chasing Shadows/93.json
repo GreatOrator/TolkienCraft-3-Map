@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Travel west along the road that runs through the South Trollshaws. Barachen has scouts along the road, and one of them can direct you to his camp. Barachen can then tell you where to find our wayward Giant.",
+    "DialogText": "Travel east along the road then south at the fork that runs through the South Trollshaws. Barachen has scouts along the road, and one of them can direct you to his camp. Barachen can then tell you where to find our wayward Giant.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1492994122339L,
+        "TimePast": 1494212632062L,
         "Time": 0L,
         "Subject": ""
     }

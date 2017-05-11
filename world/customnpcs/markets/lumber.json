@@ -26,6 +26,12 @@
                 "Damage": 0s
             },
             {
+                "Slot": 8b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 10b,
                 "id": "tolkientweaks:brons_coin",
                 "Count": 5b,
@@ -267,6 +273,12 @@
                 "id": "forestry:logs.3",
                 "Count": 64b,
                 "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "minecraft:coal",
+                "Count": 64b,
+                "Damage": 1s
             },
             {
                 "Slot": 9b,
