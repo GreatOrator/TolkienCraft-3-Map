@@ -3,7 +3,7 @@
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
-    "QuestCompletion": 0,
+    "QuestCompletion": 1,
     "Title": "Marcus Hairyfoot",
     "Text": "Gaffer Gamgee is sure to know which hobbits have the best stories to tell of Bilbo's disappearance and his adventures and whereabouts since then.
 
@@ -37,7 +37,7 @@ Marcus Hairyfoot has agreed to share a tale about Bilbo Baggins and his adventur
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1494371267832L,
+        "TimePast": 1495154969921L,
         "Time": 0L,
         "Subject": ""
     },
@@ -47,6 +47,21 @@ Marcus Hairyfoot has agreed to share a tale about Bilbo Baggins and his adventur
                 "Slot": 0b,
                 "id": "tolkientweaks:brons_coin",
                 "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcLetter",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Story told by a hobbit after Bilbo disappeared on his birthday."
+                        ],
+                        "Name": "§3Hobbit Story"
+                    }
+                },
                 "Damage": 0s
             }
         ]

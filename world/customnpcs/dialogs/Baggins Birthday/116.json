@@ -2,6 +2,26 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": 38,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 117,
+                "Title": "You seem to know everyone, don’t you?",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Well, guess I’ll come back then.",
+                "DialogColor": 16010050,
+                "OptionType": 0
+            }
+        }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
@@ -47,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1494113580708L,
+        "TimePast": 1495145257270L,
         "Time": 0L,
         "Subject": ""
     }

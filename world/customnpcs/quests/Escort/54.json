@@ -1,0 +1,42 @@
+{
+    "CompleterNpc": "Munce",
+    "NextQuestId": 55,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Daring Rescue II",
+    "Text": "Ayduin has asked you to escort her to the arch leading out of the ruins and to freedom. She was in a makeshift prison in the ruins southeast of the Forsaken Inn",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 12,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 251,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1495205777237L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Freedom at last! Munce will find a way to reward you for your assistance.",
+    "NextQuestTitle": "Daring Rescue III",
+    "QuestLocation": "Western Arch"
+}

@@ -1,0 +1,61 @@
+{
+    "CompleterNpc": "Glóin",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Troublesome Goblins II",
+    "Text": "The goblins have repopulated their cave, far to the west of Glóin's camp along the path through the Misty Mountains..
+
+Glóin told you that if you search the goblins' cave in the Misty Mountains, you should find a goblin named Ulmug. He appears to be their leader, and by defeating him, you should throw the goblins into disarray and perhaps find the trail of the Nazgûl.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 13,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 700,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 1,
+            "Slot": "Ulmug"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1493941326644L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 33b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "Glóin is at his camp at the east-end of the pass that leads through the Misty Mountains.
+
+In defeating Ulmug, you find him accompanied by hostile Dourhand dwarves. Glóin should be made known of this development",
+    "NextQuestTitle": ""
+}

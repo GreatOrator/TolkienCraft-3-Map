@@ -2,6 +2,26 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 118,
+                "Title": "I will keep that in mind.",
+                "DialogColor": 2682523,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "There’s going to be a lot of them aren’t there?",
+                "DialogColor": 16010050,
+                "OptionType": 0
+            }
+        }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
@@ -47,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1494113595658L,
+        "TimePast": 1495145332670L,
         "Time": 0L,
         "Subject": ""
     }

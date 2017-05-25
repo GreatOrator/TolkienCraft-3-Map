@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The gullibility of hobbits is something not to be believed. They'll latch onto any story they hear, and the more exotic the better! Can you imaging Bilbo doing any of those things at his age? Gracious, he's a unique sort of hobbit but he's got limits!
+    "DialogText": "The gullibility of hobbits is something not to be believed. They'll latch onto any story they hear, and the more exotic the better! Can you imagine Bilbo doing any of those things at his age? Gracious, he's a unique sort of hobbit but he's got limits!
 
 I can see you're the sensible sort, so I'll tell you the real truth - Bilbo's always had a terrible fondness for Elves. Downright unsettling if you ask me, but he was never one to hold with convention. Anyway, he decided to spend the rest of his days with them, invited by the Elvish leaders and all!",
     "AvailabilityQuest4Id": -1,
@@ -59,7 +59,7 @@ I can see you're the sensible sort, so I'll tell you the real truth - Bilbo's al
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1494289560180L,
+        "TimePast": 1495203381004L,
         "Time": 0L,
         "Subject": ""
     }

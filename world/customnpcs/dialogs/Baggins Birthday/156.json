@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 157,
-                "Title": "hat do you think happened?",
+                "Title": "What do you think happened?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -59,7 +59,7 @@ Folks say that at night you can sometimes see him, clothed in black, face hidden
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1494381115588L,
+        "TimePast": 1495158472819L,
         "Time": 0L,
         "Subject": ""
     }

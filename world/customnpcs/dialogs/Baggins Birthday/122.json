@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hah! A series of secret dwarf-tunnels below Bag End! Delightful, and not far off from the truth of the mysterious burrow I left there. Have folks found that yet? and if that weren't enough, now I'm fighting evil in a mask and cape, roaming the Shire at night? Oh my, what will they come up with next?",
+    "DialogText": "Hah! A series of secret dwarf-tunnels below Bag End! Delightful, and not far off from the truth of the mysterious burrow I left there. Have folks found that yet? And if that weren't enough, now I'm fighting evil in a mask and cape, roaming the Shire at night? Oh my, what will they come up with next?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1494115011095L,
+        "TimePast": 1495159394455L,
         "Time": 0L,
         "Subject": ""
     }

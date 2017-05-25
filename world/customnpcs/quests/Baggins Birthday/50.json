@@ -3,7 +3,7 @@
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
-    "QuestCompletion": 0,
+    "QuestCompletion": 1,
     "Title": "Gomatrudis Proudmead",
     "Text": "",
     "QuestFactionPoints": {
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1494371971181L,
+        "TimePast": 1495154964871L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,6 +42,21 @@
                 "Slot": 0b,
                 "id": "tolkientweaks:brons_coin",
                 "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcLetter",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Story told by a hobbit after Bilbo disappeared on his birthday."
+                        ],
+                        "Name": "§3Hobbit Story"
+                    }
+                },
                 "Damage": 0s
             }
         ]

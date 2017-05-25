@@ -1,5 +1,5 @@
 {
-    "DialogShowWheel": 1b,
+    "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
         {
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1489078972195L,
+        "TimePast": 1495206027387L,
         "Time": 0L,
         "Subject": ""
     }

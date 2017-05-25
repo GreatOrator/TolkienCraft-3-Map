@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 115,
-                "Title": "I will keep that in mind.",
+                "Title": "Absolutely Frodo!",
                 "DialogColor": 5305410,
                 "OptionType": 1
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "In that moment, Bilbo instantly became the subject of many a tall tale, and increasingly exaggerated legend. I know he’d be amused to no end to hear these stores, but I myself can’t go collect them. The next time you’re in the Shire, could you do this for me?",
+    "DialogText": "In that moment, Bilbo instantly became the subject of many a tall tale, and increasingly exaggerated legend. I know he’d be amused to no end to hear these stories, but I myself can’t go collect them. The next time you’re in the Shire, could you do this for me?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1494113454359L,
+        "TimePast": 1495203283653L,
         "Time": 0L,
         "Subject": ""
     }

@@ -2,6 +2,16 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Consider it done!",
+                "DialogColor": 16010050,
+                "OptionType": 0
+            }
+        }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
@@ -30,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "In that moment, Bilbo instantly became the subject of many a tall tale, and increasingly exaggerated legend. I know he’d be amused to no end to hear these stores, but I myself can’t go collect them. The next time you’re in the Shire, could you do this for me?",
+    "DialogText": "Were I you, I’d start at the Gaffer. He hears most everything worth hearing and he will surely know who you should talk to in order to obtain the very best tales.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1494113458059L,
+        "TimePast": 1495144252335L,
         "Time": 0L,
         "Subject": ""
     }

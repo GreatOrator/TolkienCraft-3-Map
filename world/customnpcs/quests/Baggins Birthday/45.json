@@ -1,11 +1,9 @@
 {
     "CompleterNpc": "Nick Greenhill",
     "NextQuestId": -1,
-    "QuestLocation3": "",
     "RandomReward": 0b,
-    "QuestLocation2": "",
     "QuestRepeat": 0,
-    "QuestCompletion": 0,
+    "QuestCompletion": 1,
     "Title": "Nick Greenhill",
     "Text": "Gaffer Gamgee is sure to know which hobbits have the best stories to tell of Bilbo's disappearance and his adventures and whereabouts since then.
 
@@ -22,8 +20,14 @@ Nick Greenhill has agreed to share a story about Bilbo Baggins and his adventure
     },
     "RewardExp": 100,
     "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 139,
+            "Slot": 0
+        }
+    ],
     "ModRev": 18,
-    "Type": 3,
+    "Type": 1,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -32,7 +36,7 @@ Nick Greenhill has agreed to share a story about Bilbo Baggins and his adventure
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1494115481552L,
+        "TimePast": 1495154973271L,
         "Time": 0L,
         "Subject": ""
     },
@@ -43,10 +47,24 @@ Nick Greenhill has agreed to share a story about Bilbo Baggins and his adventure
                 "id": "tolkientweaks:brons_coin",
                 "Count": 12b,
                 "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcLetter",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Story told by a hobbit after Bilbo disappeared on his birthday."
+                        ],
+                        "Name": "§3Hobbit Story"
+                    }
+                },
+                "Damage": 0s
             }
         ]
     },
     "CompleteText": "Oh, you’re wondering what Mad Baggins has been up to? Hah! He was all cleverness and no sense, if you ask me. I know a right amusing story of what mischief he's gotten himself into, I surely do.",
-    "NextQuestTitle": "",
-    "QuestLocation": "Nick Greenhill"
+    "NextQuestTitle": ""
 }

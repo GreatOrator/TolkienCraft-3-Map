@@ -3,7 +3,7 @@
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
-    "QuestCompletion": 0,
+    "QuestCompletion": 1,
     "Title": "Melissa Headstrong",
     "Text": "Gaffer Gamgee is sure to know which hobbits have the best stories to tell of Bilbo's disappearance and his adventures and whereabouts since then.
 
@@ -36,7 +36,7 @@ Melissa Headstrong has agreed to share a story about Bilbo Baggins and his adven
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1494371276480L,
+        "TimePast": 1495156949420L,
         "Time": 0L,
         "Subject": ""
     },
@@ -47,9 +47,24 @@ Melissa Headstrong has agreed to share a story about Bilbo Baggins and his adven
                 "id": "tolkientweaks:brons_coin",
                 "Count": 12b,
                 "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcLetter",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Story told by a hobbit after Bilbo disappeared on his birthday."
+                        ],
+                        "Name": "§3Hobbit Story"
+                    }
+                },
+                "Damage": 0s
             }
         ]
     },
-    "CompleteText": "Ah! You're collecting stories about Bilbo Baggins? I know a grand of one for ya, that fellow's been some places and seen some things, yes he most certainly has!",
+    "CompleteText": "Ah! You're collecting stories about Bilbo Baggins? I know a grand 'ol one for ya, that fellow's been some places and seen some things, yes he most certainly has!",
     "NextQuestTitle": ""
 }
