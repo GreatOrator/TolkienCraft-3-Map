@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Aye, that's what needs to be done. Slay this Ulmug, and the goblins will be in such a disarray they won't present a problem to anyone -- and maybe you'll find the trail of this Rider you seek. Seek out the goblin fires to the north and east along the Pinnath Fenui, and you'll likely find Ulmug holed up deep in one of the camps. I wish I could help you more, but as I said, there's a more pressing task from Dáin that I must give my attention to.",
+    "DialogText": "Aye, that's what needs to be done. Slay this Ulmug, and the goblins will be in such a disarray they won't present a problem to anyone -- and maybe you'll find the trail of this Rider you seek. Seek out the goblin fires to the north and east along the Pinnath Fenui, and you'll likely find Ulmug holed up deep in one of the camps. I wish I could help you more, but as I said, there's a more pressing task from Dáin that I must give my attention to.Take this key we found, it may help you get into the caves.  One of my men found it along the mountain pass.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1494983137307L,
+        "TimePast": 1495846990963L,
         "Time": 0L,
         "Subject": ""
     }

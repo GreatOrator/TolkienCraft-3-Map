@@ -2,6 +2,26 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 205,
+                "Title": "Was it that bad?",
+                "DialogColor": 5305410,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "I need to get things prepared.  I’ll come back.",
+                "DialogColor": 16010050,
+                "OptionType": 0
+            }
+        }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
@@ -30,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "",
+    "DialogText": "I know little more, for the message to me was brief, but Guthwine has asked me to come at once. My time here is short, and I cannot return now to confer with my people. My path lies to the north and to the east. Will you go to Mitheithel in my stead and learn what tidings have come there? Speak to Guthwine, for it was he who sent the message to me.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1495205868786L,
+        "TimePast": 1496717979325L,
         "Time": 0L,
         "Subject": ""
     }

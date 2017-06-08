@@ -1,0 +1,62 @@
+{
+    "CompleterNpc": "William",
+    "NextQuestId": 67,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "The Priest’s Doom I",
+    "Text": "While the stone-heart you found was cracked and useless, another path still remains open. Corunir has learned of a ritual taking place at the fortress of Dol Guldur, which may yield a whole heart if interrupted.
+
+Corunir has sent you to Dol Guldur to wrest a stone-heart from a sorcerer of Angmar named Narmos.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 1,
+            "Slot": "Narmos"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1496802950398L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:palantir_shard",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6This heart has a disturbing and fearful energy."
+                        ],
+                        "Name": "§5Stone-heart"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "This does appear to be such a stone as the runes described, but it is of little use. The heart is cracked.",
+    "NextQuestTitle": "The Priest’s Doom II"
+}
