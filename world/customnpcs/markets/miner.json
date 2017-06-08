@@ -2,39 +2,15 @@
     "TraderCurrency": {
         "NpcMiscInv": [
             {
-                "Slot": 32b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 15b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 33b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 13b,
-                "Damage": 0s
-            },
-            {
                 "Slot": 1b,
                 "id": "tolkientweaks:brons_coin",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
-                "Slot": 34b,
-                "id": "tolkientweaks:silver_coin",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
                 "Slot": 2b,
                 "id": "tolkientweaks:silver_coin",
                 "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 35b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 15b,
                 "Damage": 0s
             },
             {
@@ -98,6 +74,12 @@
                 "Damage": 0s
             },
             {
+                "Slot": 23b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 20b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 24b,
                 "id": "tolkientweaks:brons_coin",
                 "Count": 12b,
@@ -107,6 +89,12 @@
                 "Slot": 25b,
                 "id": "tolkientweaks:silver_coin",
                 "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 26b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 20b,
                 "Damage": 0s
             },
             {
@@ -122,6 +110,12 @@
                 "Damage": 0s
             },
             {
+                "Slot": 29b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 30b,
                 "id": "tolkientweaks:brons_coin",
                 "Count": 13b,
@@ -131,6 +125,30 @@
                 "Slot": 31b,
                 "id": "tolkientweaks:silver_coin",
                 "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 32b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 15b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 33b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 13b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 35b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 15b,
                 "Damage": 0s
             }
         ]
@@ -234,6 +252,12 @@
                 "Damage": 9s
             },
             {
+                "Slot": 5b,
+                "id": "minecraft:sand",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 6b,
                 "id": "atlcraft:atlcraft_chandelier1_stone",
                 "Count": 1b,
@@ -242,6 +266,12 @@
             {
                 "Slot": 7b,
                 "id": "bloodmagic:BlockPillarCap2",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "minecraft:gravel",
                 "Count": 64b,
                 "Damage": 0s
             },
@@ -256,6 +286,12 @@
                 "id": "bloodmagic:BlockPillar2",
                 "Count": 64b,
                 "Damage": 2s
+            },
+            {
+                "Slot": 11b,
+                "id": "minecraft:coal",
+                "Count": 64b,
+                "Damage": 0s
             },
             {
                 "Slot": 12b,

@@ -10,7 +10,7 @@
             {
                 "Slot": 33b,
                 "id": "tolkientweaks:brons_coin",
-                "Count": 10b,
+                "Count": 8b,
                 "Damage": 0s
             },
             {
@@ -112,7 +112,7 @@
             {
                 "Slot": 30b,
                 "id": "tolkientweaks:brons_coin",
-                "Count": 10b,
+                "Count": 16b,
                 "Damage": 0s
             },
             {
@@ -201,9 +201,9 @@
             },
             {
                 "Slot": 12b,
-                "id": "minecraft:red_flower",
-                "Count": 1b,
-                "Damage": 5s
+                "id": "minecraft:clay",
+                "Count": 32b,
+                "Damage": 0s
             },
             {
                 "Slot": 13b,
@@ -219,9 +219,9 @@
             },
             {
                 "Slot": 15b,
-                "id": "minecraft:red_flower",
-                "Count": 1b,
-                "Damage": 7s
+                "id": "minecraft:dirt",
+                "Count": 64b,
+                "Damage": 0s
             },
             {
                 "Slot": 16b,

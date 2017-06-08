@@ -1,0 +1,70 @@
+{
+    "CompleterNpc": "Ingunde Silentfoot",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Ingunde Silentfoot",
+    "Text": "Gaffer Gamgee is sure to know which hobbits have the best stories to tell of Bilbo's disappearance and his adventures and whereabouts since then.
+
+Return to Gaffer after speaking to all of the hobbits.
+
+Ingunde Silentfoot has agreed to share a story about Bilbo Baggins and his adventures.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 100,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 160,
+            "Slot": 0
+        }
+    ],
+    "ModRev": 18,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1495154966023L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcLetter",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Story told by a hobbit after Bilbo disappeared on his birthday."
+                        ],
+                        "Name": "§3Hobbit Story"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "Scuse me? What’s that you’re asking about? Oh yes! I know lots of stories about Bilbo! My mum tells me them some nights when I can’t get to sleep.",
+    "NextQuestTitle": ""
+}

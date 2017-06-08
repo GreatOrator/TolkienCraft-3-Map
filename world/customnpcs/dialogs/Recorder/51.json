@@ -23,6 +23,16 @@
             }
         },
         {
+            "OptionSlot": 2,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 199,
+                "Title": "Do you have anything else to offer?",
+                "DialogColor": 49601602,
+                "OptionType": 1
+            }
+        },
+        {
             "OptionSlot": 5,
             "Option": {
                 "DialogCommand": "",
@@ -77,7 +87,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1490903440193L,
+        "TimePast": 1495127050073L,
         "Time": 0L,
         "Subject": ""
     }

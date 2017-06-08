@@ -2,6 +2,30 @@
     "TraderCurrency": {
         "NpcMiscInv": [
             {
+                "Slot": 32b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 33b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 35b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 16b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 18b,
                 "id": "tolkientweaks:brons_coin",
                 "Count": 8b,
@@ -10,7 +34,7 @@
             {
                 "Slot": 19b,
                 "id": "tolkientweaks:brons_coin",
-                "Count": 4b,
+                "Count": 32b,
                 "Damage": 0s
             },
             {
@@ -28,7 +52,7 @@
             {
                 "Slot": 22b,
                 "id": "tolkientweaks:brons_coin",
-                "Count": 4b,
+                "Count": 32b,
                 "Damage": 0s
             },
             {
@@ -46,7 +70,7 @@
             {
                 "Slot": 25b,
                 "id": "tolkientweaks:brons_coin",
-                "Count": 4b,
+                "Count": 32b,
                 "Damage": 0s
             },
             {
@@ -64,7 +88,7 @@
             {
                 "Slot": 28b,
                 "id": "tolkientweaks:brons_coin",
-                "Count": 4b,
+                "Count": 32b,
                 "Damage": 0s
             },
             {
@@ -82,31 +106,7 @@
             {
                 "Slot": 31b,
                 "id": "tolkientweaks:brons_coin",
-                "Count": 4b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 32b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 16b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 33b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 8b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 34b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 4b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 35b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 16b,
+                "Count": 32b,
                 "Damage": 0s
             }
         ]
@@ -124,7 +124,7 @@
             {
                 "Slot": 1b,
                 "id": "minecraft:sapling",
-                "Count": 16b,
+                "Count": 2b,
                 "Damage": 0s
             },
             {
@@ -142,7 +142,7 @@
             {
                 "Slot": 4b,
                 "id": "minecraft:sapling",
-                "Count": 16b,
+                "Count": 2b,
                 "Damage": 1s
             },
             {
@@ -160,7 +160,7 @@
             {
                 "Slot": 7b,
                 "id": "minecraft:sapling",
-                "Count": 16b,
+                "Count": 2b,
                 "Damage": 2s
             },
             {
@@ -178,7 +178,7 @@
             {
                 "Slot": 10b,
                 "id": "minecraft:sapling",
-                "Count": 16b,
+                "Count": 2b,
                 "Damage": 3s
             },
             {
@@ -196,7 +196,7 @@
             {
                 "Slot": 13b,
                 "id": "minecraft:sapling",
-                "Count": 16b,
+                "Count": 2b,
                 "Damage": 5s
             },
             {
@@ -214,7 +214,7 @@
             {
                 "Slot": 16b,
                 "id": "minecraft:sapling",
-                "Count": 16b,
+                "Count": 2b,
                 "Damage": 4s
             },
             {
