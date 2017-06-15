@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Secrets of the Watchers I",
-    "Text": "The Watchers are statues that guard the eastern exit from Moria.Manwyn believes that the secret of of the Watchers can be revealed by investigating one of the pedestals they rest on. He has instructed you to carefully approach one of the Watchers and take a rubbing of the runes upon it. He warned you to be very careful of the fell and deadly Watchers.",
+    "Text": "The Watchers are statues that guard the eastern exit from Moria.Manwyn believes that the secret of the Watchers can be revealed by investigating one of the pedestals they rest on. He has instructed you to carefully approach one of the Watchers and take a rubbing of the runes upon it. He warned you to be very careful of the fell and deadly Watchers.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1496531874177L,
+        "TimePast": 1497058177918L,
         "Time": 0L,
         "Subject": ""
     },

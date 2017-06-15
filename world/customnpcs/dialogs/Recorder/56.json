@@ -37,10 +37,10 @@
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "",
+    "DialogCommand": "/bq_admin edit false",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "**Placeholder**",
+    "DialogText": "You may now continue your journey knowing that all of your deeds will be recorded properly.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1492433590142L,
+        "TimePast": 1497396865721L,
         "Time": 0L,
         "Subject": ""
     }

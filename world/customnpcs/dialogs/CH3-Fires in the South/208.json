@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Aragorn forbade any to go there, for that land still had an ill-name, though it has been barren for decades. Nevertheless, Cromhes gathered those who would go with him and passed out of our memory -- until a few weeks ago. A wounded falcon arrived, bearing a message from Manwyn, one of Cromhes' company, stating that he has been dwelling at a place called Stoneyford, a village of lmen somewhere east of Khazad-dûm.",
+    "DialogText": "Aragorn forbade any to go there, for that land still had an ill-name, though it has been barren for decades. Nevertheless, Cromhes gathered those who would go with him and passed out of our memory -- until a few weeks ago. A wounded falcon arrived, bearing a message from Manwyn, one of Cromhes' company, stating that he has been dwelling at a place called Stoneyford, a village of men somewhere east of Khazad-dûm.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1496718658158L,
+        "TimePast": 1497053122810L,
         "Time": 0L,
         "Subject": ""
     }
