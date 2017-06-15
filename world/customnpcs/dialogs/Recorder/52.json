@@ -37,7 +37,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 56,
-                "Title": "**Placeholder**",
+                "Title": "I can not complete my journey. (BQ in Edit mode)",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -107,7 +107,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1492433614643L,
+        "TimePast": 1497396808922L,
         "Time": 0L,
         "Subject": ""
     }

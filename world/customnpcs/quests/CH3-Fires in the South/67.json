@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "The Priest’s Doom II",
-    "Text": "While the stone-heart you found was cracked and useless, another path still remains open. Corunir has learned of a ritual taking place at the fortress of Dol Guldur, which may yield a whole heart if interrupted.
+    "Text": "While the stone-heart you found was cracked and useless, another path still remains open. Manwyn has learned of a ritual taking place at the fortress of Dol Guldur, which may yield a whole heart if interrupted.
 
 Collected the stone-heart.",
     "QuestFactionPoints": {
@@ -29,7 +29,7 @@ Collected the stone-heart.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1496882357556L,
+        "TimePast": 1497059179318L,
         "Time": 0L,
         "Subject": ""
     },

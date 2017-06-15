@@ -8,7 +8,7 @@
     "Title": "Heart of the Watchers II",
     "Text": "The rubbing you made showed runes of a foul nature, written in the Black Speech, which Manwyn is not well-versed in; however, he was able to make out something about the \"heart\" of the stone.
 
-You should return to Corunir with the stone-heart that you discovered.",
+You should return to Manwyn with the stone-heart that you discovered.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -29,7 +29,7 @@ You should return to Corunir with the stone-heart that you discovered.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1496532609527L,
+        "TimePast": 1497058084918L,
         "Time": 0L,
         "Subject": ""
     },

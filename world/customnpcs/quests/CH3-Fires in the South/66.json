@@ -5,9 +5,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "The Priest’s Doom I",
-    "Text": "While the stone-heart you found was cracked and useless, another path still remains open. Corunir has learned of a ritual taking place at the fortress of Dol Guldur, which may yield a whole heart if interrupted.
+    "Text": "While the stone-heart you found was cracked and useless, another path still remains open. Manwyn has learned of a ritual taking place at the fortress of Dol Guldur, which may yield a whole heart if interrupted.
 
-Corunir has sent you to Dol Guldur to wrest a stone-heart from a sorcerer of Angmar named Narmos.",
+Manwyn has sent you to Dol Guldur to wrest a stone-heart from a sorcerer of Angmar named Narmos.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -34,7 +34,7 @@ Corunir has sent you to Dol Guldur to wrest a stone-heart from a sorcerer of Ang
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1496802950398L,
+        "TimePast": 1497059178217L,
         "Time": 0L,
         "Subject": ""
     },
@@ -57,6 +57,6 @@ Corunir has sent you to Dol Guldur to wrest a stone-heart from a sorcerer of Ang
             }
         ]
     },
-    "CompleteText": "This does appear to be such a stone as the runes described, but it is of little use. The heart is cracked.",
+    "CompleteText": "This does appear to be such a stone as the runes described.",
     "NextQuestTitle": "The Priest’s Doom II"
 }

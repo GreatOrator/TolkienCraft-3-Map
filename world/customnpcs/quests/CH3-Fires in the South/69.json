@@ -9,7 +9,7 @@
     "Title": "Into the Darkness of Khazad-dûm",
     "Text": "The Watchers lie far to the west of Stoneyford, at the base of the Misty Mountains. Manwyn suggested you look for a dwarf encampment within Khazad-dûm.
 
-Corunir bade you pass through the Watchers, for you no longer have cause to fear the deadly stones. He hopes that you may find a remnant of the force Cromes led through the stones somewhere on the other side.",
+Manwyn bade you pass through the Watchers, for you no longer have cause to fear the deadly stones. He hopes that you may find a remnant of the force Cromhes led through the stones somewhere on the other side.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -30,7 +30,7 @@ Corunir bade you pass through the Watchers, for you no longer have cause to fear
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1496800043563L,
+        "TimePast": 1497062863684L,
         "Time": 0L,
         "Subject": ""
     },

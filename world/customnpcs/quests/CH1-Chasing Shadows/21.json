@@ -34,7 +34,7 @@ Barachen reported seeing one of the Onodrim somewhere in the Trollshaws, and Ell
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1493077013539L,
+        "TimePast": 1496963489571L,
         "Time": 0L,
         "Subject": ""
     },
@@ -54,7 +54,7 @@ Barachen reported seeing one of the Onodrim somewhere in the Trollshaws, and Ell
             }
         ]
     },
-    "CompleteText": "The Giant attacked you? The tree-herders of old were peaceful and more wont to stand unnoticed among the tree than treat with strangers, with peace or violence.
+    "CompleteText": "The Giant attacked you? The tree-herders of old were peaceful and more wont to stand unnoticed among the trees than treat with strangers, with peace or violence.
 I do not know the meaning of these signs, @p. Our problems may be more far-reaching than I had supposed.",
     "NextQuestTitle": ""
 }
