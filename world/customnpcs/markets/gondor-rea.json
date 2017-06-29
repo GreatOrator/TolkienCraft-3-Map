@@ -1,0 +1,246 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 36b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 36b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 36b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 58b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 18b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 7b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 29b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 3b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "1 Whitby Path"
+                    },
+                    "Bound": "Bound to [x:818 ,y:97 ,z:1196]",
+                    "KeyCode": 528609514
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "1 Sheffield Lane"
+                    },
+                    "Bound": "Bound to [x:825 ,y:101 ,z:944]",
+                    "KeyCode": 539402277
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "1 Scarborough Place"
+                    },
+                    "Bound": "Bound to [x:1204 ,y:111 ,z:338]",
+                    "KeyCode": 243768225
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "2 Whitby Path"
+                    },
+                    "Bound": "Bound to [x:669 ,y:93 ,z:1129]",
+                    "KeyCode": 1365028277
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "2 Sheffield Lane"
+                    },
+                    "Bound": "Bound to [x:921 ,y:101 ,z:1013]",
+                    "KeyCode": 461129939
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "3 Whitby Path"
+                    },
+                    "Bound": "Bound to [x:678 ,y:95 ,z:846]",
+                    "KeyCode": 1875071417
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "3 Sheffield Lane"
+                    },
+                    "Bound": "Bound to [x:1007 ,y:101 ,z:1006]",
+                    "KeyCode": 59730465
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "4 Whitby Path"
+                    },
+                    "Bound": "Bound to [x:721 ,y:81 ,z:680]",
+                    "KeyCode": 1848239622
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "1 Harrogate Way"
+                    },
+                    "Bound": "Bound to [x:1320 ,y:83 ,z:1315]",
+                    "KeyCode": 1161544846
+                },
+                "Damage": 0s
+            }
+        ]
+    }
+}

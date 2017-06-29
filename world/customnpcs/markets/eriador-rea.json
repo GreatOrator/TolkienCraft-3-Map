@@ -1,0 +1,246 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 36b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 36b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 36b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 58b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 18b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 7b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 29b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 3b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "1 Dolmed Way"
+                    },
+                    "Bound": "Bound to [x:815 ,y:97 ,z:1202]",
+                    "KeyCode": 1985813564
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "1 Gladwhen Way"
+                    },
+                    "Bound": "Bound to [x:822 ,y:101 ,z:948]",
+                    "KeyCode": 728669103
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "1 Tawarwaith Place"
+                    },
+                    "Bound": "Bound to [x:1183 ,y:110 ,z:347]",
+                    "KeyCode": 1399060134
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "2 Dolmed Way"
+                    },
+                    "Bound": "Bound to [x:666 ,y:94 ,z:1103]",
+                    "KeyCode": 936823023
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "2 Gladwhen Way"
+                    },
+                    "Bound": "Bound to [x:863 ,y:102 ,z:1000]",
+                    "KeyCode": 919239450
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "3 Dolmed Way"
+                    },
+                    "Bound": "Bound to [x:685 ,y:95 ,z:821]",
+                    "KeyCode": 353896882
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "3 Gladwhen Way"
+                    },
+                    "Bound": "Bound to [x:991 ,y:101 ,z:1035]",
+                    "KeyCode": 901293467
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "4 Dolmed Way"
+                    },
+                    "Bound": "Bound to [x:732 ,y:81 ,z:688]",
+                    "KeyCode": 944685158
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "1 Adanedhel Place"
+                    },
+                    "Bound": "Bound to [x:1328 ,y:83 ,z:1318]",
+                    "KeyCode": 364572016
+                },
+                "Damage": 0s
+            }
+        ]
+    }
+}
