@@ -23,8 +23,8 @@
 		],
 		"releaseNumber": "25",
 		"downloadURL": "http://repository.a2g.gs/modpacks/tolkiencraft/3/MiddleEarth-OverworldTC3.zip",
-		"isRegional": false,
-		"regionInputPath": "",
+		"isRegional": true,
+		"regionInputPath": "world",
 		"regionOutputPath": ""
 	},
 	{
@@ -37,8 +37,8 @@
 		],
 		"releaseNumber": "15",
 		"downloadURL": "http://repository.a2g.gs/modpacks/tolkiencraft/3/MiddleEarth-PlayerHousingTC3.zip",
-		"isRegional": false,
-		"regionInputPath": "",
+		"isRegional": true,
+		"regionInputPath": "world",
 		"regionOutputPath": ""
 	}
 ]
