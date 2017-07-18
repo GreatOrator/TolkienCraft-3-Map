@@ -1,0 +1,246 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 36b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 36b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 36b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 58b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 18b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 7b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 29b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 3b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "1 Mablung Trail"
+                    },
+                    "Bound": "Bound to [x:817 ,y:99 ,z:1195]",
+                    "KeyCode": 218161109
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "1 Sirannon Circle"
+                    },
+                    "Bound": "Bound to [x:821 ,y:102 ,z:952]",
+                    "KeyCode": 559308167
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "1 Tindobel Terrace"
+                    },
+                    "Bound": "Bound to [x:1189 ,y:109 ,z:352]",
+                    "KeyCode": 1559049926
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "2 Mablung Trail"
+                    },
+                    "Bound": "Bound to [x:676 ,y:94 ,z:1136]",
+                    "KeyCode": 520553443
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "2 Sirannon Circle"
+                    },
+                    "Bound": "Bound to [x:918 ,y:101 ,z:1017]",
+                    "KeyCode": 1413632134
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "3 Mablung Trail"
+                    },
+                    "Bound": "Bound to [x:673 ,y:95 ,z:855]",
+                    "KeyCode": 1342489427
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "3 Sirannon Circle"
+                    },
+                    "Bound": "Bound to [x:993 ,y:103 ,z:1002]",
+                    "KeyCode": 729607501
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "4 Mablung Trail"
+                    },
+                    "Bound": "Bound to [x:731 ,y:82 ,z:680]",
+                    "KeyCode": 2031394051
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "townbuilder:house_key",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "1 Faradrim Court"
+                    },
+                    "Bound": "Bound to [x:1316 ,y:83 ,z:1312]",
+                    "KeyCode": 417090378
+                },
+                "Damage": 0s
+            }
+        ]
+    }
+}

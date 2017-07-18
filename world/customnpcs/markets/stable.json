@@ -2,12 +2,6 @@
     "TraderCurrency": {
         "NpcMiscInv": [
             {
-                "Slot": 33b,
-                "id": "tolkientweaks:gold_coin",
-                "Count": 3b,
-                "Damage": 0s
-            },
-            {
                 "Slot": 1b,
                 "id": "tolkientweaks:brons_coin",
                 "Count": 16b,
@@ -17,24 +11,6 @@
                 "Slot": 2b,
                 "id": "tolkientweaks:silver_coin",
                 "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 4b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 4b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 7b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 4b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 9b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 3b,
                 "Damage": 0s
             },
             {
@@ -50,6 +26,12 @@
                 "Damage": 0s
             },
             {
+                "Slot": 4b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 20b,
                 "id": "tolkientweaks:gold_coin",
                 "Count": 2b,
@@ -62,9 +44,21 @@
                 "Damage": 0s
             },
             {
+                "Slot": 7b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 24b,
                 "id": "tolkientweaks:brons_coin",
                 "Count": 48b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 3b,
                 "Damage": 0s
             },
             {
@@ -293,12 +287,6 @@
                 "id": "extrautils2:goldenlasso",
                 "Count": 1b,
                 "Damage": 1s
-            },
-            {
-                "Slot": 15b,
-                "id": "extrautils2:angelring",
-                "Count": 1b,
-                "Damage": 0s
             }
         ]
     }
