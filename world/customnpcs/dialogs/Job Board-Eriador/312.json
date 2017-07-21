@@ -1,0 +1,74 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": 37,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 313,
+                "Title": "Is there no other way?",
+                "DialogColor": 3458846,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 313,
+                "Title": "That does not sound like something I want to be a part of.",
+                "DialogColor": 16531714,
+                "OptionType": 0
+            }
+        }
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 1,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 18,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "A Cauldron of Iron I",
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "This is war, friend, and in war you make choices that you might regret when all is done. Yet, if we do not make these difficult decisions, then there may be no tomorrow for regret. It is a terrible and confusing situation sometimes, but I follow my orders, and they are clear. I am to charge you with collecting iron ore. Either way, the iron is to be used to craft a giant cauldron. We will fill the cauldron with oil and boil it to douse The White Hand’s forces when they try to attack.",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1500655173177L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 32b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 35b,
+                "id": "tolkientweaks:gold_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 26b,
+                "id": "customnpcs:npcSkull",
+                "Count": 32b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Dark symbol dropped by a minion."
+                        ],
+                        "Name": "§5Dark Sigil"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "customnpcs:npcSkull",
+                "Count": 32b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Dark symbol dropped by a minion."
+                        ],
+                        "Name": "§5Dark Sigil"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 29b,
+                "id": "customnpcs:npcSkull",
+                "Count": 64b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Dark symbol dropped by a minion."
+                        ],
+                        "Name": "§5Dark Sigil"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 7b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 17b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 8b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Used to increase faction standing at specific vendors"
+                        ],
+                        "Name": "§9Faction Token"
+                    }
+                },
+                "Damage": 101s
+            },
+            {
+                "Slot": 11b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 14b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Used to increase faction standing at specific vendors"
+                        ],
+                        "Name": "§9Faction Token"
+                    }
+                },
+                "Damage": 101s
+            }
+        ]
+    }
+}

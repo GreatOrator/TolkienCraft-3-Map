@@ -1,0 +1,64 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": 71,
+    "Options": [
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "I shall be careful, await my return!",
+                "DialogColor": 16010050,
+                "OptionType": 0
+            }
+        }
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 1,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 2,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 18,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": 72,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 1b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Crossing the Darkness VI",
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Be wary, though...he will be waiting just south of the fast travel near the 1st hall. Most of his people are in the service of Angmar so please, be careful. I will mark the meeting place on your map.",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": 73,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1500398386751L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

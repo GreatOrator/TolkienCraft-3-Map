@@ -1,0 +1,64 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 273,
+                "Title": "So how can I help you escape?",
+                "DialogColor": 5305410,
+                "OptionType": 1
+            }
+        }
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 18,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 1b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Hidden in Shadow III",
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "We marched on, but ere we ever came unto Khazad Dûm, we were beset by Orcs and creatures more terrible. Cromhes was lost and our numbers were scattered. The scarce remnant that remains has barely managed to avoid the snares of the Enemy for these last few years, but I fear the Witch-king has grown too strong, and we will not be able to hide forever.",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1500420004007L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

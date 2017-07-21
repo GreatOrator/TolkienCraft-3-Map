@@ -113,7 +113,7 @@
         ]
     },
     "SpecialAggroRange": 14,
-    "TraderMarket": "",
+    "TraderMarket": "FactionOddities",
     "Fire": -1s,
     "ArmorItems": [
         {
@@ -137,7 +137,7 @@
             }
         ]
     },
-    "HurtByTimestamp": 1115,
+    "HurtByTimestamp": 31625,
     "TraderCurrency": {
         "NpcMiscInv": [
         ]
@@ -208,6 +208,26 @@
     "Weapons": [
     ],
     "NPCDialogOptions": [
+        {
+            "NPCDialog": {
+                "DialogCommand": "",
+                "Dialog": 246,
+                "Title": "Unknown",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            },
+            "DialogSlot": 0
+        },
+        {
+            "NPCDialog": {
+                "DialogCommand": "",
+                "Dialog": 247,
+                "Title": "Known",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            },
+            "DialogSlot": 1
+        }
     ],
     "AggroRange": 16,
     "DirectLOS": 1b,
@@ -412,9 +432,9 @@
     "NpcDeathSound": "minecraft:entity.player.hurt",
     "FactionID": 13,
     "Title": "Faction Curiosities",
-    "TotalTicksAlive": 7636L,
+    "TotalTicksAlive": 340006L,
     "Rotation": [
-        151.45868f,
+        92.4962f,
         0.0f
     ],
     "ShowName": 0,

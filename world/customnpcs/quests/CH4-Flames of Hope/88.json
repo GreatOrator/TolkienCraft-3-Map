@@ -1,0 +1,56 @@
+{
+    "CompleterNpc": "Cromhes",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Into the Dungeon IV",
+    "Text": "Cromhes is at the Dwarven Ember Camp.
+
+You have rescued Cromhes, but at a terrible cost, The False King, Brimgak, appeared and slew her. You were able to weaken Brimgak and escape with Cromhes back to the Dwarven Embers camp.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 500,
+        "OptionFactions1": 8,
+        "OptionFactions2": 13,
+        "OptionFaction1Points": 1000,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1500426222256L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 16b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "Why did you come?",
+    "NextQuestTitle": "",
+    "QuestLocation": "Dwarven Ember Camp"
+}

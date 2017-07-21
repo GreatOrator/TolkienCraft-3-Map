@@ -1,0 +1,42 @@
+{
+    "CompleterNpc": "Layles",
+    "NextQuestId": 87,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Into the Dungeon I",
+    "Text": "With the key to the dungeons of Moria in hand, the time has come to move against the forces of the False King and try to rescue Cromhes.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1500426206656L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Are you ready to leave, @p? Who knows how long we have before my father is moved once more.",
+    "NextQuestTitle": "Into the Dungeon II",
+    "QuestLocation": "Entrance to Dungeons"
+}

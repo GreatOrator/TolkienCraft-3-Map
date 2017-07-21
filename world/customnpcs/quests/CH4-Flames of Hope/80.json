@@ -1,0 +1,78 @@
+{
+    "CompleterNpc": "Elssuli",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Needed Supplies II",
+    "Text": "Elssuli can be found by the forge near the throne of Thorin's Hall.
+
+Now that you have recovered the mithril and the bandit’s key, Elssuli, one of Dwalin's smiths, can begin work on the key.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 13,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 50,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1500426199958L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "allomancy:nuggetLerasium",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Token Bilbo took from his adventures in the Lonely Mountain"
+                        ],
+                        "Name": "§5Bilbo's Nugget"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcKey2",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Ruined key found on the body of a bandit captain"
+                        ],
+                        "Name": "§5Bandit's Key"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "So you are the one Dain II was talking about.",
+    "NextQuestTitle": ""
+}
