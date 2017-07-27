@@ -7,8 +7,8 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Is that all?  Too easy!",
-                "DialogColor": 12730133,
+                "Title": "Look for me soon!",
+                "DialogColor": 16717312,
                 "OptionType": 0
             }
         }
@@ -23,7 +23,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": 101,
+    "DialogQuest": 113,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "A Daily Hunt II",
+    "DialogTitle": "Forging a new sword VIII",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Skeletons pour through the mountains nearby daily, making the area around Dale especially deadly. Can you defeat skeletons and hopefully make this area safer?",
+    "DialogText": "Thank you so much!  You don’t know how much this means to me and my family!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501166287878L,
+        "TimePast": 1501121382975L,
         "Time": 0L,
         "Subject": ""
     }

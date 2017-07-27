@@ -3,12 +3,22 @@
     "AvailabilityQuestId": -1,
     "Options": [
         {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 356,
+                "Title": "Brigands are pushovers…",
+                "DialogColor": 3145231,
+                "OptionType": 1
+            }
+        },
+        {
             "OptionSlot": 5,
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Is that all?  Too easy!",
-                "DialogColor": 12730133,
+                "Title": "Maybe this was a bad idea for me to get involved.",
+                "DialogColor": 16459267,
                 "OptionType": 0
             }
         }
@@ -23,16 +33,16 @@
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": 101,
+    "DialogQuest": -1,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
-    "DialogDisableEsc": 0b,
+    "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "A Daily Hunt II",
+    "DialogTitle": "A Sword for a Life II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Skeletons pour through the mountains nearby daily, making the area around Dale especially deadly. Can you defeat skeletons and hopefully make this area safer?",
+    "DialogText": "You must save her! Please! Get the sword from Thonrum, then go to Pierce’s camp. It's [place], up [direction] of Dale. I'm sure he'll release my daughter when he has the sword.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501166287878L,
+        "TimePast": 1501124244077L,
         "Time": 0L,
         "Subject": ""
     }

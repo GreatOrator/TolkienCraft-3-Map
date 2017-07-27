@@ -1,0 +1,64 @@
+{
+    "CompleterNpc": "Lucious Warrer",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Getting the Sword Back II",
+    "Text": "Threatened by Giles, a lackey of a brigand named Pierce, that he must provide him a sword or his family would be harmed, Lucious Warrer stole Thonrum's blade.
+
+You found the brigand Giles, who stole Thonrum's blade. Unfortunately for him, the blade broke and he was slain by unknown assailants. You should speak to Lucious Warrer and let him know that Giles will no longer trouble his family.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1501118837831L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tconstruct:wide_guard",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6All that remains of the dwarf-made sword"
+                        ],
+                        "Name": "§5Sword Hilt"
+                    },
+                    "Material": "knightslime"
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 1b,
+    "CompleteText": "What? The blade broke, and Giles is dead?",
+    "NextQuestTitle": ""
+}

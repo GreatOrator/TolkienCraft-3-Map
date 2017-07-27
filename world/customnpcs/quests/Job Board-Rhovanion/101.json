@@ -1,11 +1,11 @@
 {
-    "CompleterNpc": "Magnus",
+    "CompleterNpc": "Charlice",
     "NextQuestId": -1,
     "RandomReward": 1b,
     "QuestRepeat": 2,
     "QuestCompletion": 0,
     "Title": "A Daily Hunt",
-    "Text": "[Mob] can be found roaming everywhere. You should defeat [Number] of [Mob]s then return back to [NPC].",
+    "Text": "Skeletons can be found roaming everywhere. You should defeat 25 of them then return back to Charlice in Dale.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -17,6 +17,10 @@
     "RewardExp": 50,
     "QuestCommand": "",
     "QuestDialogs": [
+        {
+            "Value": 25,
+            "Slot": "Skeleton"
+        }
     ],
     "ModRev": 18,
     "Type": 4,
@@ -28,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1500576583708L,
+        "TimePast": 1501166301838L,
         "Time": 0L,
         "Subject": ""
     },
@@ -78,6 +82,6 @@
             }
         ]
     },
-    "CompleteText": "Thank you @p, thank you for defeating those [Mob]s, unfortunately they will return, so I may need your help again in the future.",
+    "CompleteText": "Thank you @p, thank you for defeating those skeletons, unfortunately they will return, so I may need your help again in the future.",
     "NextQuestTitle": ""
 }

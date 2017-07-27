@@ -1,38 +1,48 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 110,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 345,
+                "Title": "Are you sure there’s nothing you can do?",
+                "DialogColor": 130358,
+                "OptionType": 1
+            }
+        },
         {
             "OptionSlot": 5,
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Is that all?  Too easy!",
-                "DialogColor": 12730133,
+                "Title": "Yeah, well hopefully you don’t steal the next one too.",
+                "DialogColor": 15945480,
                 "OptionType": 0
             }
         }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 1,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
+    "AvailabilityQuest2": 2,
     "AvailabilityQuest3": 0,
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": 101,
+    "DialogQuest": -1,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
-    "DialogDisableEsc": 0b,
+    "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "A Daily Hunt II",
+    "DialogTitle": "Getting the sword back I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,10 +50,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Skeletons pour through the mountains nearby daily, making the area around Dale especially deadly. Can you defeat skeletons and hopefully make this area safer?",
+    "DialogText": "Oh this is bad...very, very bad. What if Pierce comes looking for his sword? I won't have one to give him, and they'll do something terrible to my family! I need a sword to give him! If only I had another blade to give them.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
-    "AvailabilityQuest2Id": -1,
+    "AvailabilityQuest2Id": 111,
     "AvailabilityDialog2Id": -1,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
@@ -57,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501166287878L,
+        "TimePast": 1501118601479L,
         "Time": 0L,
         "Subject": ""
     }
