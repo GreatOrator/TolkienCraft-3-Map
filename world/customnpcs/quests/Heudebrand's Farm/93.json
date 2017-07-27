@@ -1,0 +1,61 @@
+{
+    "CompleterNpc": "Aliz Heudebrand",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Betan's Revenge",
+    "Text": "You rescued Betan Heudebrand from the Orcs, battered and beaten, but he is not satisfied with rescue. He wants retribution.
+
+Tristan Storm is in the Orc-stockade east of the ruined town, north of Heudebrand’s farm.
+
+On behalf of her husband, Aliz Heudebrand has offered you a reward if you would go to the stockade and slay Tristan Storm.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 8,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 350,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 100,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 1,
+            "Slot": "Tristan Storm"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1500563506712L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 11b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "It is done then, thank you.",
+    "NextQuestTitle": ""
+}

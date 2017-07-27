@@ -1,0 +1,52 @@
+{
+    "CompleterNpc": "Thonrum Ironsword",
+    "NextQuestId": 108,
+    "QuestLocation3": "Roger Flax",
+    "RandomReward": 0b,
+    "QuestLocation2": "Lucious Warrer",
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "A Dwarf-made Sword I",
+    "Text": "Thonrum Ironsword has told you that someone has stolen his newest blade. He has asked you to find out who stole it and return it to him as quickly as possible!
+
+Most of the smiths of Dale work in the Market.
+
+Thonrum has told you that he thinks his latest blade was stolen by one of the Man-smiths. He thinks that a warrior, such as yourself, might intimidate the thief into confessing and returning the stolen blade.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 13,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1501123658929L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 15b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "Lucious Warrer seemed a bit nervous, you should go back and talk to him again.",
+    "NextQuestTitle": "A Dwarf-made Sword II",
+    "QuestLocation": "Crawford Baker"
+}

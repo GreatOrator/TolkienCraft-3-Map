@@ -1,0 +1,47 @@
+{
+    "CompleterNpc": "Cromhes",
+    "NextQuestId": 88,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Into the Dungeon III",
+    "Text": "Cromhes is waiting to talk to you.
+
+You have found Cromhes and driven off Brimigak, but at a terrible cost.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "/scoreboard players set @dp Cromhes_Save 2",
+    "QuestDialogs": [
+        {
+            "Integer": 271,
+            "Slot": 0
+        }
+    ],
+    "ModRev": 18,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1500426201956L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Cromhes speaks through choking sobs, 'No, no…Layles!'",
+    "NextQuestTitle": "Into the Dungeon IV"
+}

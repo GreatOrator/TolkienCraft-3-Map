@@ -1,0 +1,77 @@
+{
+    "CompleterNpc": "Aliz Heudebrand",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Betan's Rescue",
+    "Text": "Betan Heudebrand, a Bree-land farmer, has been captured by marauding Orcs.
+
+Betan Heudebrand has asked you to help him escape from the Orc camp.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 8,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 350,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 100,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1500489023729L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:diamond_chestplate",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 4s,
+                            "id": 0s
+                        }
+                    ],
+                    "RepairCost": 1,
+                    "display": {
+                        "Lore": [
+                            "§6Reward for helping Betan Heudebrand"
+                        ],
+                        "Name": "§3Heudebrand's Robe"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 5b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "I'm so thankful you rescued Betan!",
+    "NextQuestTitle": "",
+    "QuestLocation": "Bree-West Gate"
+}

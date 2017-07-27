@@ -1,0 +1,65 @@
+{
+    "CompleterNpc": "Layles Burgess",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Thrór's Hammer IV",
+    "Text": "After retrieving Thrór's Hammer and the necessary materials, Dwalin's smith, Elssuli, forged for you a mithril key that should allow you to pass into the dungeon of Moria.
+
+Layles awaits your return at the Dwarven Ember Camp in Moria..
+
+You should return with the key to Layles.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 13,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 1500,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "/scoreboard players set @dp Cromhes_Save 0",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1500420065409L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcKey",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Key made by Elssuli from the items you collected"
+                        ],
+                        "Name": "§3Dungeon Key"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "You have returned with the key! Let us hope, my friend, that the key from which this was cast was not a false guide….",
+    "NextQuestTitle": ""
+}
