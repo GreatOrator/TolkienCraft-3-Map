@@ -1,0 +1,76 @@
+{
+    "CompleterNpc": "Pelleas",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Rekindling Hope III",
+    "Text": "You managed to recover Cromhes' equipment, but as Thurdan pointed out to you, the gear was corroded and decayed beyond use.
+
+Guthwine is at Mitheithel in the South Downs, far to the south and west of Rivendell.
+
+Reclaim Cromhes’ sword and shield from Pelleas in Mitheithel.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 10,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 50,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1503078846367L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcRapier",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Item stolen from Cromes while he was held captive"
+                        ],
+                        "Name": "§5Cromhes’ Sword"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcFullBronzeShield",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6This shield hails from an unknown origin though it belongs to Cromhes"
+                        ],
+                        "Name": "§5Cromhes’ Shield (Repaired)"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "Hmm, the sword looks of Elf-make… the shield though, that's something I could repair.",
+    "NextQuestTitle": "",
+    "QuestLocation": "Pelleas"
+}

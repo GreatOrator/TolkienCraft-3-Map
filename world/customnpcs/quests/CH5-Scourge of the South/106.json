@@ -3,10 +3,11 @@
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
-    "QuestCompletion": 0,
-    "IgnoreNBT": 0b,
-    "Title": "New",
-    "Text": "testing item count quest",
+    "QuestCompletion": 1,
+    "Title": "The Spirit Broken (Outpost I)",
+    "Text": "Cromhes’ gear was given to Envoys of the Captains of the Haradrim. These Envoys can be found in Harad to the South of Osgiliath.
+
+As a first step in his plan to renew Cromhes’ spirit, Thurdan has asked you to retrieve the Ranger's weapons and gear from the emissaries within the Outposts in Harad.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -15,10 +16,16 @@
         "OptionFaction1Points": 100,
         "DecreaseFaction2Points": 0b
     },
-    "RewardExp": 0,
+    "RewardExp": 50,
     "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 1,
+            "Slot": "Khaldoon"
+        }
+    ],
     "ModRev": 18,
-    "Type": 0,
+    "Type": 4,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -27,20 +34,29 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1500588067069L,
+        "TimePast": 1503079423641L,
         "Time": 0L,
         "Subject": ""
     },
-    "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcFullWoodenShield",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Item stolen from Cromes while he was held captive"
+                        ],
+                        "Name": "§5Cromhes’ Shield"
+                    }
+                },
+                "Damage": 0s
+            }
         ]
     },
-    "Items": {
-        "NpcMiscInv": [
-        ]
-    },
-    "LeaveItems": 0b,
-    "CompleteText": "booger",
+    "CompleteText": "You have defeated the Envoy!",
     "NextQuestTitle": ""
 }

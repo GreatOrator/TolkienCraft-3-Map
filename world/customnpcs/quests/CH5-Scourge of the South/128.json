@@ -1,0 +1,45 @@
+{
+    "CompleterNpc": "Cromhes",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Brimigak’s Fall I",
+    "Text": "You have travelled deep into the Moria Dungeons with Cromhes, into the very sanctuary of this False-king himself. Here Cromhes hopes to confront Brimigak and shatter the Iron Crown forever.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 250,
+        "OptionFactions1": 10,
+        "OptionFactions2": 8,
+        "OptionFaction1Points": 50,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 407,
+            "Slot": 0
+        }
+    ],
+    "ModRev": 18,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1503093910600L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "You should speak with Cromhes at once.",
+    "NextQuestTitle": ""
+}

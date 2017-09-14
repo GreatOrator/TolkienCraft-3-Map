@@ -1,0 +1,65 @@
+{
+    "CompleterNpc": "Guthwine",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Rekindling Hope I",
+    "Text": "You managed to recover Cromhes' equipment, but as Thurdan pointed out to you, the gear was corroded and decayed beyond use.
+
+Guthwine is at Mitheithel in the South Downs, far to the south and west of Rivendell.
+
+Thurdan instructed you to take Cromhes' equipment to the Ranger Guthwine to be repaired.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 10,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 200,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1503078833768L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcAssassinChest",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Item stolen from Cromes while he was held captive"
+                        ],
+                        "Name": "§5Cromhes’ Armor"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Cromhes’ equipment? I will help however I can.",
+    "NextQuestTitle": ""
+}

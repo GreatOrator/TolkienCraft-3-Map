@@ -1,0 +1,87 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 18b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 13b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 11b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "roots:oldRoot",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "minecraft:tallgrass",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 2b,
+                "id": "roots:runedTablet",
+                "Count": 1b,
+                "tag": {
+                    "currentGroup": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "roots:verdantSprig",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "roots:dragonsEye",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "roots:infernalStem",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    }
+}
