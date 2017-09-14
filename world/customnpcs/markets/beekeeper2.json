@@ -1,0 +1,36 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 20b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 10b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 23b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 16b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 2b,
+                "id": "forestry:bee_house",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "forestry:apiary",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    }
+}

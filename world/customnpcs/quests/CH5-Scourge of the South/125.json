@@ -1,0 +1,65 @@
+{
+    "CompleterNpc": "Thurdan",
+    "NextQuestId": 126,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Reforging the Sword III",
+    "Text": "The Rangers of Mitheithel were able to repair Cromhes' shield and armor, but the sword was of Elf-craft beyond their skill.
+
+Castien can be found near Rivendell's forges.
+
+Collect Cromhes’ sword from Castien.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 10,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 50,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 362,
+            "Slot": 0
+        }
+    ],
+    "ModRev": 18,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1503084059462L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcMithrilSword",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6The smith has done an amazing job on this sword"
+                        ],
+                        "Name": "§5Cromhes’ Sword (Repaired)"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "The work is done, @p. It little resembles the weapon from which it was birthed, but I believe it will better serve its master.
+Take it now to Master Elrond for his approval.",
+    "NextQuestTitle": "Reforging the Sword IV"
+}

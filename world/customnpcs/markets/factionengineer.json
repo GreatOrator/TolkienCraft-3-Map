@@ -1,12 +1,293 @@
 {
     "TraderCurrency": {
         "NpcMiscInv": [
+            {
+                "Slot": 33b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 2b,
+                "id": "tolkientweaks:gold_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 18b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 19b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 20b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 21b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 22b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 24b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 25b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 27b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 28b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 30b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 31b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            }
         ]
     },
     "TraderIgnoreDamage": 0b,
     "TraderIgnoreNBT": 0b,
     "TraderSold": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "draconicevolution:tool_upgrade",
+                "Count": 1b,
+                "Damage": 8s
+            },
+            {
+                "Slot": 1b,
+                "id": "draconicevolution:tool_upgrade",
+                "Count": 1b,
+                "Damage": 4s
+            },
+            {
+                "Slot": 2b,
+                "id": "draconicevolution:dislocator_advanced",
+                "Count": 1b,
+                "tag": {
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "draconicevolution:tool_upgrade",
+                "Count": 1b,
+                "Damage": 9s
+            },
+            {
+                "Slot": 4b,
+                "id": "draconicevolution:tool_upgrade",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 6b,
+                "id": "draconicevolution:tool_upgrade",
+                "Count": 1b,
+                "Damage": 10s
+            },
+            {
+                "Slot": 7b,
+                "id": "draconicevolution:tool_upgrade",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 9b,
+                "id": "draconicevolution:tool_upgrade",
+                "Count": 1b,
+                "Damage": 11s
+            },
+            {
+                "Slot": 10b,
+                "id": "draconicevolution:tool_upgrade",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 12b,
+                "id": "draconicevolution:tool_upgrade",
+                "Count": 1b,
+                "Damage": 5s
+            },
+            {
+                "Slot": 13b,
+                "id": "draconicevolution:tool_upgrade",
+                "Count": 1b,
+                "Damage": 6s
+            },
+            {
+                "Slot": 15b,
+                "id": "draconicevolution:tool_upgrade",
+                "Count": 1b,
+                "Damage": 7s
+            },
+            {
+                "Slot": 16b,
+                "id": "draconicevolution:tool_upgrade",
+                "Count": 1b,
+                "Damage": 0s
+            }
         ]
     }
 }

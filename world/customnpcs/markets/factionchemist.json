@@ -1,12 +1,171 @@
 {
     "TraderCurrency": {
         "NpcMiscInv": [
+            {
+                "Slot": 2b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 20b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 23b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 10b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 26b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 20b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 28b,
+                "id": "thermalfoundation:coin",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            },
+            {
+                "Slot": 29b,
+                "id": "thermalfoundation:coin",
+                "Count": 3b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Use this at certain faction sellers to purchase powerful items."
+                        ],
+                        "Name": "§3Faction Coin"
+                    }
+                },
+                "Damage": 70s
+            }
         ]
     },
     "TraderIgnoreDamage": 0b,
     "TraderIgnoreNBT": 0b,
     "TraderSold": {
         "NpcMiscInv": [
+            {
+                "Slot": 1b,
+                "id": "arsmagica2:item_ore",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "arsmagica2:infinity_orb",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "arsmagica2:item_ore",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 5b,
+                "id": "arsmagica2:infinity_orb",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 7b,
+                "id": "arsmagica2:item_ore",
+                "Count": 1b,
+                "Damage": 7s
+            },
+            {
+                "Slot": 8b,
+                "id": "arsmagica2:infinity_orb",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 10b,
+                "id": "arsmagica2:item_ore",
+                "Count": 1b,
+                "Damage": 6s
+            },
+            {
+                "Slot": 11b,
+                "id": "arsmagica2:mana_potion_bundle",
+                "Count": 1b,
+                "Damage": 1027s
+            }
         ]
     }
 }

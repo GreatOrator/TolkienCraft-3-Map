@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 88,
     "Options": [
         {
             "OptionSlot": 0,
@@ -25,10 +25,10 @@
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 1,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
+    "AvailabilityQuest2": 2,
     "AvailabilityQuest3": 0,
     "AvailabilityQuest4": 0,
     "ModRev": 18,
@@ -53,7 +53,7 @@
     "DialogText": "Why did you allow Layles to come? I would sooner have dwelt there in torment for a thousand years, than to see my only daughter perish at the hands of that fell creature.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
-    "AvailabilityQuest2Id": -1,
+    "AvailabilityQuest2Id": 130,
     "AvailabilityDialog2Id": -1,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1500425004458L,
+        "TimePast": 1503092563331L,
         "Time": 0L,
         "Subject": ""
     }

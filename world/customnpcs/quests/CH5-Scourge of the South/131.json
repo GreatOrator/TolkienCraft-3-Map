@@ -1,0 +1,60 @@
+{
+    "CompleterNpc": "Aragorn",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Keeping Watch I",
+    "Text": "With your aid Cromhes has greatly weakened Brimigak, the Steward of Angmar, and avenged the death of Layles.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 1250,
+        "OptionFactions1": 10,
+        "OptionFactions2": 8,
+        "OptionFaction1Points": 1500,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 150,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1503095969311L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 21b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "minecraft:golden_apple",
+                "Count": 5b,
+                "Damage": 1s
+            }
+        ]
+    },
+    "CompleteText": "So Cromhes did not perish...",
+    "NextQuestTitle": "",
+    "QuestLocation": "Last Homely House"
+}

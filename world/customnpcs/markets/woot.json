@@ -1,6 +1,186 @@
 {
     "TraderCurrency": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 10b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 7b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 18b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 9b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 13b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 9b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 13b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 23b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 7b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 9b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 26b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 7b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 9b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 28b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 29b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 7b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 30b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 9b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 31b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 32b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 7b,
+                "Damage": 0s
+            }
         ]
     },
     "TraderIgnoreDamage": 0b,

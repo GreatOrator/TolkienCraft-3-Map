@@ -1,0 +1,90 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "forestry:beehives",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 1b,
+                "id": "forestry:beehives",
+                "Count": 1b,
+                "Damage": 4s
+            },
+            {
+                "Slot": 2b,
+                "id": "forestry:smoker",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "forestry:beehives",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "forestry:scoop",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "forestry:beehives",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 8b,
+                "id": "forestry:apiaristHelmet",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "id": "forestry:beehives",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 11b,
+                "id": "forestry:apiaristChest",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "id": "forestry:beehives",
+                "Count": 1b,
+                "Damage": 6s
+            },
+            {
+                "Slot": 14b,
+                "id": "forestry:apiaristLegs",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 15b,
+                "id": "forestry:beehives",
+                "Count": 1b,
+                "Damage": 5s
+            },
+            {
+                "Slot": 17b,
+                "id": "forestry:apiaristBoots",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    }
+}
