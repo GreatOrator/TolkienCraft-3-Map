@@ -1,24 +1,34 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": 15,
+    "AvailabilityQuestId": -1,
     "Options": [
         {
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 91,
-                "Title": "I certainly hope so.",
+                "Dialog": 421,
+                "Title": "So, where do I come in?",
                 "DialogColor": 14737632,
                 "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Well, that’s quaint.  Thanks you for sharing.",
+                "DialogColor": 16538114,
+                "OptionType": 0
             }
         }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 1,
+    "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 2,
+    "AvailabilityQuest2": 0,
     "AvailabilityQuest3": 0,
     "AvailabilityQuest4": 0,
     "ModRev": 18,
@@ -30,9 +40,9 @@
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
-    "DialogDisableEsc": 1b,
+    "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Knowledge of the Giants I",
+    "DialogTitle": "Keeping with Tradition II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,10 +50,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I will take Glorfindel's beryl and return it to him. For you, I have another avenue of inquiry, and it could be this one will bear fruit.",
+    "DialogText": "There is a practice among the people here  to honour the Land of Draconis with tribute baskets given to the river's current.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
-    "AvailabilityQuest2Id": 20,
+    "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
@@ -57,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1508207344410L,
+        "TimePast": 1506615986995L,
         "Time": 0L,
         "Subject": ""
     }
