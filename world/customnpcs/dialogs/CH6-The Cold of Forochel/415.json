@@ -2,13 +2,33 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": 132,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 416,
+                "Title": "What makes her so troubling to a wizard?",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Well, good thing you’re a wizard then I suppose.",
+                "DialogColor": 16717312,
+                "OptionType": 0
+            }
+        }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
     "AvailabilityQuest": 1,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
+    "AvailabilityQuest2": 2,
     "AvailabilityQuest3": 0,
     "AvailabilityQuest4": 0,
     "ModRev": 18,
@@ -30,10 +50,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "What's this you say? The palantír, stolen?",
+    "DialogText": "@p, I need to speak with you. I have heard of your adventures at Khazad Dûm, and I am concerned. Besides your strange encounters with her during your travels, I have never heard of this Nerea Aubertin, and I am troubled by her.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
-    "AvailabilityQuest2Id": -1,
+    "AvailabilityQuest2Id": 133,
     "AvailabilityDialog2Id": -1,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
@@ -47,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503098001750L,
+        "TimePast": 1516296975114L,
         "Time": 0L,
         "Subject": ""
     }

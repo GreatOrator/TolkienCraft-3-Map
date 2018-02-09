@@ -1,0 +1,61 @@
+{
+    "CompleterNpc": "Talacnun",
+    "NextQuestId": 156,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Dreulhara’s Hope II",
+    "Text": "Talacnun has informed you that there has been a recent growth in the number of Angmarim outside of Annúminas.
+
+Talacnun has asked you to find Dreulhara and discover her plans. He has sent you to Annúminas with five tokens to request the aid of Rangers to help fight off the Angmarim.
+
+Defeat Dreulhara’s Orc Guard",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 100,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 1,
+            "Slot": "Woghuglat"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1517788204727L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 10b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "Dreulhara: Your victory will not last @p!",
+    "NextQuestTitle": "Dreulhara’s Hope III"
+}
