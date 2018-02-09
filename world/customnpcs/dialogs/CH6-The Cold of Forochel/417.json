@@ -2,6 +2,16 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Wish me well on this journey then.",
+                "DialogColor": 16717312,
+                "OptionType": 0
+            }
+        }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
@@ -13,7 +23,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 133,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -30,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are few now in this age who have even heard of the palantíri, much less be concerned enough with them to steal them. Moreso, they have now become dangerous, for Sauron possesses the Ithil-stone, which he has certainly bent to his will.",
+    "DialogText": "Return to Cromhes who has returned to Mitheithel and help him search for Nerea Aubertin and the palantír. I fear that only evil will come of these events.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503098110654L,
+        "TimePast": 1516297063311L,
         "Time": 0L,
         "Subject": ""
     }

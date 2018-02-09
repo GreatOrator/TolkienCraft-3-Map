@@ -2,6 +2,26 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 417,
+                "Title": "What would you have me do then?",
+                "DialogColor": 392996,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Oh yeah, definitely work for a wizard…",
+                "DialogColor": 16717312,
+                "OptionType": 0
+            }
+        }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
@@ -30,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I have heard of your adventures at Moria, and I am concerned. Besides your strange encounters, I have never heard of this Nerea Aubertin, and I am troubled by her.",
+    "DialogText": "There are few now in this age who have even heard of the palantíri, much less be concerned enough with them to steal them. Moreso, they have now become dangerous, for Sauron possesses the Ithil-stone, which he has certainly bent to his will.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503097979139L,
+        "TimePast": 1516296998259L,
         "Time": 0L,
         "Subject": ""
     }

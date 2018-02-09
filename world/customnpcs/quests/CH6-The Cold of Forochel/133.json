@@ -1,12 +1,15 @@
 {
-    "CompleterNpc": "Gandalf",
+    "CompleterNpc": "Cromhes",
     "NextQuestId": -1,
+    "QuestLocation3": "",
     "RandomReward": 0b,
+    "QuestLocation2": "",
     "QuestRepeat": 0,
     "QuestCompletion": 0,
-    "IgnoreNBT": 0b,
-    "Title": "News of the Palantír I",
-    "Text": "",
+    "Title": "Aubertin Unhidden I",
+    "Text": "Brimigak, the False King, has been defeated and sent back to Mordor houseless, but the mysterious Nerea Aubertin stole the palantír Brimigak had in his possession. This greatly concerns Gandalf the Grey.
+
+Cromhes is at Mitheithel in Eriador, far to the south of Rivendell.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -15,10 +18,10 @@
         "OptionFaction1Points": 100,
         "DecreaseFaction2Points": 0b
     },
-    "RewardExp": 0,
+    "RewardExp": 50,
     "QuestCommand": "",
     "ModRev": 18,
-    "Type": 0,
+    "Type": 3,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -27,20 +30,27 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503097671288L,
+        "TimePast": 1517587544730L,
         "Time": 0L,
         "Subject": ""
     },
-    "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 5b,
+                "Damage": 0s
+            }
         ]
     },
-    "Items": {
-        "NpcMiscInv": [
-        ]
-    },
-    "LeaveItems": 0b,
-    "CompleteText": "",
-    "NextQuestTitle": ""
+    "CompleteText": "Gandalf sent you to help him search for Nerea Aubertin and the missing palantír?",
+    "NextQuestTitle": "",
+    "QuestLocation": "Mitheithel"
 }

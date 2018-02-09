@@ -1,0 +1,58 @@
+{
+    "CompleterNpc": "Talacnun",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Dreulhara’s Hope III",
+    "Text": "Talacnun has informed you that there has been a recent growth in the number of Angmarim outside of Annúminas.
+
+Talacnun has asked you to find Dreulhara and discover her plans. He has sent you to Annúminas with five tokens to request the aid of Rangers to help fight off the Angmarim.
+
+Dreulhara has escaped.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 500,
+        "OptionFactions1": 8,
+        "OptionFactions2": 10,
+        "OptionFaction1Points": 500,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 100,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1517786933522L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:brons_coin",
+                "Count": 9b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "There can be no greater insult than this, @p!",
+    "NextQuestTitle": "",
+    "QuestLocation": "Arnor Camp"
+}
