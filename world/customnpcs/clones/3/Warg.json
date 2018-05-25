@@ -1,6 +1,60 @@
 {
     "ReturnToStart": 1b,
     "NpcInv": [
+        {
+            "Slot": 0b,
+            "id": "tolkientweaks:brons_coin",
+            "Count": 7b,
+            "Damage": 0s
+        },
+        {
+            "Slot": 1b,
+            "id": "tolkientweaks:silver_coin",
+            "Count": 2b,
+            "Damage": 0s
+        },
+        {
+            "Slot": 2b,
+            "id": "tolkientweaks:gold_coin",
+            "Count": 1b,
+            "Damage": 0s
+        },
+        {
+            "Slot": 3b,
+            "id": "thermalfoundation:coin",
+            "Count": 1b,
+            "tag": {
+                "RepairCost": 0,
+                "display": {
+                    "Lore": [
+                        "§6Use this at certain faction sellers to purchase powerful items."
+                    ],
+                    "Name": "§3Faction Coin"
+                }
+            },
+            "Damage": 70s
+        },
+        {
+            "Slot": 4b,
+            "id": "thermalfoundation:coin",
+            "Count": 1b,
+            "tag": {
+                "RepairCost": 0,
+                "display": {
+                    "Lore": [
+                        "§6Used to increase faction standing at specific vendors"
+                    ],
+                    "Name": "§9Faction Token"
+                }
+            },
+            "Damage": 101s
+        },
+        {
+            "Slot": 5b,
+            "id": "xreliquary:mob_ingredient",
+            "Count": 1b,
+            "Damage": 13s
+        }
     ],
     "BossColor": 0,
     "PotionEffect": 0,
@@ -14,7 +68,7 @@
     },
     "BossBar": 0b,
     "RespawnTime": 20,
-    "NpcAngrySound": "",
+    "NpcAngrySound": "minecraft:entity.wolf.growl",
     "ReactsToFire": 0b,
     "IgnoreCobweb": 0b,
     "PositionOffsetZ": 5.0f,
@@ -30,7 +84,7 @@
         "Lines": [
         ]
     },
-    "DefendFaction": 0b,
+    "DefendFaction": 1b,
     "FireIndirect": 0,
     "NpcVisible": 0,
     "LinkedNpcName": "",
@@ -60,9 +114,9 @@
     ],
     "BurnInSun": 0b,
     "StandingState": 0,
-    "AttackInvisible": 0b,
+    "AttackInvisible": 1b,
     "HurtTime": 0s,
-    "WalkingRange": 10,
+    "WalkingRange": 5,
     "ShotCount": 1,
     "pDur": 5,
     "AttackRange": 2,
@@ -72,7 +126,7 @@
     },
     "PotionImmune": 0b,
     "AvoidsSun": 0b,
-    "Texture": "customnpcs:textures/CustomSkins/Rangers/RangerLord 3.png",
+    "Texture": "customnpcs:textures/CustomSkins/Mobs/warg_new.png",
     "NpcJob": 0,
     "BurstCount": 1,
     "NpcAttackLines": {
@@ -91,12 +145,12 @@
         -0.0784000015258789d,
         0.0d
     ],
-    "CombatRegen": 100,
+    "CombatRegen": 1,
     "NpcsTimers": [
     ],
     "pEffect": 0,
     "DistanceToMelee": 0,
-    "NpcStepSound": "",
+    "NpcStepSound": "minecraft:entity.wolf.step",
     "FireRate": 5,
     "LeftHanded": 0b,
     "pEffAmp": 0,
@@ -131,9 +185,9 @@
             }
         ]
     },
-    "HurtByTimestamp": 12404,
+    "HurtByTimestamp": 9287,
     "pSpin": 0b,
-    "NpcHurtSound": "minecraft:entity.player.hurt",
+    "NpcHurtSound": "minecraft:entity.wolf.hurt",
     "pTrail": 0,
     "CreatureType": 0,
     "Attributes": [
@@ -158,7 +212,7 @@
             "Name": "am2.xpMultiplier"
         },
         {
-            "Base": 2000.0d,
+            "Base": 65.0d,
             "Name": "generic.maxHealth"
         },
         {
@@ -191,25 +245,17 @@
     "NoFallDamage": 0b,
     "AbsorptionAmount": 0.0f,
     "TransformHasRole": 0b,
-    "Name": "Talacnun",
+    "Name": "Warg",
     "FallDistance": 0.0f,
     "SkinColor": 16777215,
-    "NpcIdleSound": "",
+    "NpcIdleSound": "minecraft:entity.wolf.ambient",
     "Weapons": [
-        {
-            "Slot": 2b,
-            "id": "bloodmagic:ItemSentientBow",
-            "Count": 1b,
-            "tag": {
-            },
-            "Damage": 0s
-        }
     ],
     "NPCDialogOptions": [
     ],
     "AggroRange": 16,
-    "DirectLOS": 1b,
-    "HealthRegen": 100,
+    "DirectLOS": 0b,
+    "HealthRegen": 10,
     "ForgeCaps": {
         "tinkertoolleveling:entityxp": [
         ],
@@ -269,10 +315,11 @@
             "PositionY": 1,
             "SkinColor": 11830381,
             "PlayerTexture": 0b,
-            "Color": 10791096,
-            "BrowColor": 328708,
-            "BrowThickness": 8
+            "Color": 15066419,
+            "BrowColor": 5982516,
+            "BrowThickness": 4
         },
+        "EntityClass": "net.minecraft.entity.passive.EntityWolf",
         "LegParts": {
             "Pattern": 0b,
             "Type": 0b,
@@ -291,6 +338,7 @@
             "ScaleX": 1.0f
         },
         "ExtraData": {
+            "Angry": 1b
         },
         "HeadConfig": {
             "NotShared": 0b,
@@ -311,7 +359,7 @@
     "SkinUrl": "",
     "CanSwim": 1b,
     "GroundSound": "minecraft:block.stone.break",
-    "MaxHealth": 2000,
+    "MaxHealth": 65,
     "HideBodyWhenKilled": 0b,
     "AttackSpeed": 20,
     "PotionDuration": 5,
@@ -320,27 +368,27 @@
     "Role": 0,
     "DropChance": [
         {
-            "Integer": 100,
+            "Integer": 80,
             "Slot": 0
         },
         {
-            "Integer": 100,
+            "Integer": 60,
             "Slot": 1
         },
         {
-            "Integer": 100,
+            "Integer": 20,
             "Slot": 2
         },
         {
-            "Integer": 100,
+            "Integer": 15,
             "Slot": 3
         },
         {
-            "Integer": 100,
+            "Integer": 15,
             "Slot": 4
         },
         {
-            "Integer": 100,
+            "Integer": 20,
             "Slot": 5
         },
         {
@@ -368,23 +416,23 @@
     "KilledTime": 0L,
     "AimWhileShooting": 0b,
     "CanPickUpLoot": 0b,
-    "AttackOtherFactions": 0b,
+    "AttackOtherFactions": 1b,
     "CanDrown": 1b,
     "pSize": 5,
     "CanSprint": 0b,
-    "CanLeap": 0b,
+    "CanLeap": 1b,
     "TransformIsActive": 0b,
     "ForgeData": {
         "PlayerPersisted": {
         }
     },
-    "MovingState": 0,
+    "MovingState": 1,
     "MovingPos": 0,
     "PotionAmp": 0,
     "OnAttack": 0,
     "TacticalRadius": 8,
     "FallFlying": 0b,
-    "MaxExp": 0,
+    "MaxExp": 18,
     "OrderedLines": 0b,
     "PortalCooldown": 0,
     "pGlows": 0b,
@@ -394,7 +442,7 @@
     "FiringSound": "minecraft:entity.arrow.shoot",
     "ModRev": 18,
     "Accuracy": 60,
-    "MinExp": 0,
+    "MinExp": 10,
     "Armor": [
     ],
     "CloakTexture": "",
@@ -403,15 +451,15 @@
     "pXlr8": 0b,
     "Scripts": [
     ],
-    "Health": 2000.0f,
+    "Health": 65.0f,
     "pStick": 0b,
     "MovingPause": 1b,
-    "NpcDeathSound": "minecraft:entity.player.hurt",
-    "FactionID": 7,
-    "Title": "Dúnedain Ranger",
-    "TotalTicksAlive": 12434L,
+    "NpcDeathSound": "minecraft:entity.wolf.death",
+    "FactionID": 9,
+    "Title": "",
+    "TotalTicksAlive": 9379L,
     "Rotation": [
-        269.08447f,
+        180.0f,
         0.0f
     ],
     "ShowName": 0,

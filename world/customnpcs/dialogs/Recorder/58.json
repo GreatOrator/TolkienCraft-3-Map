@@ -37,7 +37,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 57,
-                "Title": "**Placeholder**",
+                "Title": "Glorfindel does not want to help me. (Beryl Missing)",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -107,7 +107,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1492433594093L,
+        "TimePast": 1525626142807L,
         "Time": 0L,
         "Subject": ""
     }
