@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 15,
     "Options": [
         {
             "OptionSlot": 5,
@@ -15,7 +15,7 @@
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 2,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 0,
@@ -33,14 +33,14 @@
     "DialogDisableEsc": 1b,
     "AvailabilityFaction": 0,
     "DialogTitle": "Helping IIId",
-    "AvailabilityDialog": 0,
+    "AvailabilityDialog": 1,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
-    "AvailabilityDialogId": -1,
+    "AvailabilityDialogId": 84,
     "OptionFaction2Points": 100,
-    "DialogText": "**Placeholder**",
+    "DialogText": "Ahhh, yes.One of our scouts found this shiny bauble laying about and I was about to send it back to him but it appears it was meant for other tasks.The runner I tasked with returning this will send it to you in the mail.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -50,15 +50,36 @@
     "AvailabilityMinPlayerLevel": 0,
     "DecreaseFaction2Points": 0b,
     "DialogMail": {
-        "Sender": "",
+        "Sender": "Darage",
         "BeenRead": 0b,
         "Message": {
+            "pages": [
+                "Here is the jewel the scout found.
+
+Please take better care of this as it is very precious to Lord Glorfindel."
+            ]
         },
         "MailItems": [
+            {
+                "Slot": 0b,
+                "id": "arsmagica2:item_ore",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§eMagical gem loaned to you to help on your search"
+                        ],
+                        "Name": "§3Glorfindel's Beryl"
+                    },
+                    "CUSTOM": 1b
+                },
+                "Damage": 2s
+            }
         ],
         "MailQuest": -1,
-        "TimePast": 1492433606794L,
+        "TimePast": 1525626585663L,
         "Time": 0L,
-        "Subject": ""
+        "Subject": "Lost Jewel"
     }
 }

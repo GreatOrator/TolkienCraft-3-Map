@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Many events have transpired since you helped set up the Council of the North.  While I am eager to have your help I think you may want to speak to a few people to get a feel for how things work nowadays.  I’ll mark your journal with the locations and people to speak to. Speak to the scholars I have noted in your journal and come back to me.
+    "DialogText": "Many events have transpired since you helped set up the Council of the North.  While I am eager to have your help I think you may want to speak to a few people to get a feel for how things work nowadays.  I’ll mark your journal with the locations and people to speak to. Speak to the scholars of Middle-earth I have noted in your journal (Quest Book) and come back to me.
 
 We will speak further upon your return.",
     "AvailabilityQuest4Id": -1,
@@ -59,7 +59,7 @@ We will speak further upon your return.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501768824685L,
+        "TimePast": 1527208055766L,
         "Time": 0L,
         "Subject": ""
     }
