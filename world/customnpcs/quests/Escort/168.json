@@ -1,0 +1,48 @@
+{
+    "CompleterNpc": "Aragorn",
+    "NextQuestId": -1,
+    "QuestLocation3": "Elvish Recorder",
+    "RandomReward": 0b,
+    "QuestLocation2": "Stablemaster",
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Lay of the land",
+    "Text": "Aragorn has requested to reach out to the various Scholars of Middle-earth before he continues since so much has changed since you last set foot in middle-earth.You should go check out the realestate agents, the stablemaster and the recorder to continue.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 100,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1527988725028L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkientweaks:gold_coin",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "Wow, so much has changed!Return to Aragorn and see how things are now.",
+    "NextQuestTitle": "",
+    "QuestLocation": "Real Estate Broker"
+}

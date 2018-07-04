@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 168,
     "Options": [
         {
             "OptionSlot": 0,
@@ -25,7 +25,7 @@
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 2,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 2,
     "AvailabilityDialog4": 2,
     "AvailabilityDialog3": 2,
     "AvailabilityQuest2": 0,
@@ -41,11 +41,11 @@
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
-    "AvailabilityFaction": 1,
+    "AvailabilityFaction": 0,
     "DialogTitle": "Started I",
     "AvailabilityDialog": 2,
     "AvailabilityFaction2": 0,
-    "AvailabilityFactionId": 12,
+    "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
     "AvailabilityDialogId": 14,
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525625713707L,
+        "TimePast": 1527988087840L,
         "Time": 0L,
         "Subject": ""
     }
