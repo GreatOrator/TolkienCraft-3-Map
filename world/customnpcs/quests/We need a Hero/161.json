@@ -1,0 +1,81 @@
+{
+    "CompleterNpc": "Estz",
+    "NextQuestId": 162,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Merovech Hornwood",
+    "Text": "Someone has sent you mail.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "Merovech Hornwood",
+        "BeenRead": 0b,
+        "Message": {
+            "pages": [
+                "Esteemed Hero,
+
+I have heard many tales of your adventures and it had made me decide to let you in on some research I have been doing these many years.
+
+",
+                "My peers have thought me a bit mad, reading ancient texts from ages long past for clues to a secret treasure of great power.  They mocked me and laughed at my research.
+
+",
+                "Well no more!  I have finally stumbled on to the whereabouts of this artifact.  The problem is the location.
+
+",
+                "This is where you come in.  Should you be willing, I need you to come speak to me at Brandy Hall in Bucklebury.  I can fill you in on all of the details once you arrive.
+
+Wishing you the best,
+
+Merovech Hornwood"
+            ]
+        },
+        "MailItems": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcLetter",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 0,
+                    "display": {
+                        "Lore": [
+                            "§6Doesn't this guy sound a little crazy?"
+                        ],
+                        "Name": "§5§oLetter from Merovech"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkientweaks:silver_coin",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ],
+        "MailQuest": -1,
+        "TimePast": 1527947324502L,
+        "Time": 0L,
+        "Subject": "In need of a Hero"
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Merovech Hornwood has sent you a letter, better seek out a mail box or Postman to see what he wants.",
+    "NextQuestTitle": "Adventure Lads I",
+    "QuestLocation": "Eriador Job Board"
+}
