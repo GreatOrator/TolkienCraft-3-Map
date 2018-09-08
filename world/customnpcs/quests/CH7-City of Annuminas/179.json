@@ -1,0 +1,42 @@
+{
+    "CompleterNpc": "Elrond",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "The Fellowship Departs I",
+    "Text": "Elrond has offered for you to go with him and his house to see the fellowship off on their journey.When you are ready to begin speak to Elrond to complete this quest.NOTE: This will immediately teleport you to a new area for an automatic scene to play out so make sure you are ready.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "/tp @dp 14320 42 5904",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1535234234466L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "It is time, @p. Let us go with my household to wish the Company well.",
+    "NextQuestTitle": "",
+    "QuestLocation": "Elrond’s Library"
+}
