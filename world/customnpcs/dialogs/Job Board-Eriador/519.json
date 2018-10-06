@@ -1,24 +1,34 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 37,
     "Options": [
         {
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
+                "Dialog": 520,
+                "Title": "What do you plan to do?",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Close Chest",
-                "DialogColor": 16720896,
+                "Title": "When a craftsman, is it ever enough?",
+                "DialogColor": 16717313,
                 "OptionType": 0
             }
         }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 1,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
+    "AvailabilityQuest2": 2,
     "AvailabilityQuest3": 0,
     "AvailabilityQuest4": 0,
     "ModRev": 18,
@@ -30,9 +40,9 @@
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
-    "DialogDisableEsc": 1b,
+    "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Artifact Chest II",
+    "DialogTitle": "Tulips by the River I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,10 +50,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You grab the Powerful Artifact and marvel at it's beauty and decide it is time to leave.",
+    "DialogText": "I have decided to craft a necklace for my Elf-maid, @p.  The feather I found is a fine addition, it is not yet enough.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
-    "AvailabilityQuest2Id": -1,
+    "AvailabilityQuest2Id": 182,
     "AvailabilityDialog2Id": -1,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
@@ -57,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1537323938811L,
+        "TimePast": 1538521964561L,
         "Time": 0L,
         "Subject": ""
     }

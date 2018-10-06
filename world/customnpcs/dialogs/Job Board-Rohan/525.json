@@ -3,12 +3,12 @@
     "AvailabilityQuestId": -1,
     "Options": [
         {
-            "OptionSlot": 0,
+            "OptionSlot": 5,
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Close Chest",
-                "DialogColor": 16720896,
+                "Title": "Fair enough, I will return.",
+                "DialogColor": 16720897,
                 "OptionType": 0
             }
         }
@@ -23,16 +23,16 @@
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 183,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
-    "DialogDisableEsc": 1b,
+    "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Artifact Chest II",
+    "DialogTitle": "Pungent Herbs III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You grab the Powerful Artifact and marvel at it's beauty and decide it is time to leave.",
+    "DialogText": "Tis a simple matter to gather it, and I would do so myself, but the brewing is at a delicate stage right now, and I must keep a close eye upon it. Would you gather the herbs I need, @p?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1537323938811L,
+        "TimePast": 1538781151485L,
         "Time": 0L,
         "Subject": ""
     }

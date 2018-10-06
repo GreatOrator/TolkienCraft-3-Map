@@ -1,21 +1,31 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 57,
     "Options": [
         {
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
+                "Dialog": 530,
+                "Title": "Sure, what do I have to do?",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Close Chest",
-                "DialogColor": 16720896,
+                "Title": "Sadly, not right now...",
+                "DialogColor": 16720897,
                 "OptionType": 0
             }
         }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 1,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 0,
@@ -30,9 +40,9 @@
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
-    "DialogDisableEsc": 1b,
+    "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Artifact Chest II",
+    "DialogTitle": "The Ancient Diviner I",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You grab the Powerful Artifact and marvel at it's beauty and decide it is time to leave.",
+    "DialogText": "Welcome to The Ancient Diviner! I'm sure you'll be wanting a draught of my Witch's Tongue brew, won't you? Say, you're that one what's been helping folks around here, aren't you? Maybe you can help me out some too.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1537323938811L,
+        "TimePast": 1538772434501L,
         "Time": 0L,
         "Subject": ""
     }

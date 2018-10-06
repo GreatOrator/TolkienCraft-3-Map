@@ -6,9 +6,19 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
+                "Dialog": 525,
+                "Title": "Why don’t you go get it?",
+                "DialogColor": 392996,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Close Chest",
-                "DialogColor": 16720896,
+                "Title": "I think I see where this is going…",
+                "DialogColor": 16720897,
                 "OptionType": 0
             }
         }
@@ -30,9 +40,9 @@
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
-    "DialogDisableEsc": 1b,
+    "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Artifact Chest II",
+    "DialogTitle": "Pungent Herbs II",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You grab the Powerful Artifact and marvel at it's beauty and decide it is time to leave.",
+    "DialogText": "I have most of the ingredients I need, but there is one remaining herb -- a pungent herb that grows on the shores of the river near this town.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1537323938811L,
+        "TimePast": 1538757373472L,
         "Time": 0L,
         "Subject": ""
     }
