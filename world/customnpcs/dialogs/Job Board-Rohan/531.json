@@ -3,12 +3,12 @@
     "AvailabilityQuestId": -1,
     "Options": [
         {
-            "OptionSlot": 0,
+            "OptionSlot": 5,
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Close Chest",
-                "DialogColor": 16720896,
+                "Title": "Well, I've listened this far, I'll be back!",
+                "DialogColor": 16720897,
                 "OptionType": 0
             }
         }
@@ -23,24 +23,24 @@
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 185,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
-    "DialogDisableEsc": 1b,
+    "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Artifact Chest II",
+    "DialogTitle": "The Ancient Diviner III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "",
+    "DialogCommand": "/tellraw @dp {\"text\":\"[name:\\\"Nindalf Swamp\\\", x:17547, y:38, z:12190]\"}",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You grab the Powerful Artifact and marvel at it's beauty and decide it is time to leave.",
+    "DialogText": "Well, anyways, these hops grow around the Nindalf east of here. I'm not sure what it is, but them old Hags get mean when you pick the hops. Now I'm not one for getting poisoned you know, so I wonder if you'd be so kind as to pick a peck of Hag Hops for me? I'd be much obliged....",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1537323938811L,
+        "TimePast": 1538781286395L,
         "Time": 0L,
         "Subject": ""
     }
