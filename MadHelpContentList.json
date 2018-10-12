@@ -7,7 +7,7 @@
 			"[c]This is the complete map for TolkienCraft III",
 			"This map is for those playing for the first time as this is a complete map download and will overwrite everything!"
 		],
-		"releaseNumber": "40",
+		"releaseNumber": "41",
 		"downloadURL": "http://repository.a2g.gs/modpacks/tolkiencraft/3/MiddleEarth-DefaultTC3.zip",
 		"isRegional": false,
 		"regionInputPath": "",
@@ -21,7 +21,7 @@
 			"[c]This is ONLY the overworld for TolkienCraft III",
 			"This download is intended to be ONLY for updating existing worlds during map updates and will only replace the overworld."
 		],
-		"releaseNumber": "40",
+		"releaseNumber": "41",
 		"downloadURL": "http://repository.a2g.gs/modpacks/tolkiencraft/3/MiddleEarth-OverworldTC3.zip",
 		"isRegional": true,
 		"regionInputPath": "world",

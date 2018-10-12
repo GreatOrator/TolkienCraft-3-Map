@@ -23,7 +23,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 168,
     "AvailabilityDialog2": 0,
     "OptionFactions1": 12,
     "AvailabilityDayTime": 0,
@@ -59,7 +59,7 @@ We will speak further upon your return.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1538763073863L,
+        "TimePast": 1539126287573L,
         "Time": 0L,
         "Subject": ""
     }
