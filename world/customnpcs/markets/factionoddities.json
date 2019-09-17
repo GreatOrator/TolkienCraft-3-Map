@@ -3,318 +3,323 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:gold_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
                 "Count": 8b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:gold_coin",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 2b,
-                "id": "tolkientweaks:gold_coin",
-                "Count": 32b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 3b,
-                "id": "tolkientweaks:gold_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
                 "Count": 8b,
                 "Damage": 0s
             },
             {
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 4b,
-                "id": "tolkientweaks:gold_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 6b,
-                "id": "tolkientweaks:gold_coin",
-                "Count": 8b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 32b,
                 "Damage": 0s
             },
             {
-                "Slot": 7b,
-                "id": "tolkientweaks:gold_coin",
-                "Count": 1b,
+                "Slot": 8b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 9b,
-                "id": "tolkientweaks:gold_coin",
-                "Count": 8b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 32b,
                 "Damage": 0s
             },
             {
                 "Slot": 10b,
-                "id": "tolkientweaks:gold_coin",
-                "Count": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 8b,
                 "Damage": 0s
             },
             {
                 "Slot": 12b,
-                "id": "tolkientweaks:gold_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
                 "Count": 8b,
                 "Damage": 0s
             },
             {
                 "Slot": 13b,
-                "id": "tolkientweaks:gold_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 14b,
-                "id": "tolkientweaks:gold_coin",
-                "Count": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 15b,
-                "id": "tolkientweaks:gold_coin",
-                "Count": 8b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 16b,
-                "id": "tolkientweaks:gold_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 17b,
-                "id": "tolkientweaks:gold_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 18b,
-                "id": "thermalfoundation:coin",
-                "Count": 2b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 2b,
+                "Damage": 0s
             },
             {
                 "Slot": 19b,
-                "id": "thermalfoundation:coin",
-                "Count": 3b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 2b,
+                "Damage": 0s
             },
             {
                 "Slot": 20b,
-                "id": "thermalfoundation:coin",
-                "Count": 10b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 2b,
+                "Damage": 0s
             },
             {
                 "Slot": 21b,
-                "id": "thermalfoundation:coin",
-                "Count": 2b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 3b,
+                "Damage": 0s
             },
             {
                 "Slot": 22b,
-                "id": "thermalfoundation:coin",
-                "Count": 3b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 23b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 3b,
+                "Damage": 0s
             },
             {
                 "Slot": 24b,
-                "id": "thermalfoundation:coin",
-                "Count": 2b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 10b,
+                "Damage": 0s
             },
             {
-                "Slot": 25b,
-                "id": "thermalfoundation:coin",
-                "Count": 3b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "Slot": 26b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 3b,
+                "Damage": 0s
             },
             {
                 "Slot": 27b,
-                "id": "thermalfoundation:coin",
-                "Count": 2b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 10b,
+                "Damage": 0s
             },
             {
                 "Slot": 28b,
-                "id": "thermalfoundation:coin",
-                "Count": 3b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 29b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 2b,
+                "Damage": 0s
             },
             {
                 "Slot": 30b,
-                "id": "thermalfoundation:coin",
-                "Count": 2b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 2b,
+                "Damage": 0s
             },
             {
                 "Slot": 31b,
-                "id": "thermalfoundation:coin",
-                "Count": 3b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 3b,
+                "Damage": 0s
             },
             {
                 "Slot": 32b,
-                "id": "thermalfoundation:coin",
-                "Count": 3b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 3b,
+                "Damage": 0s
             },
             {
                 "Slot": 33b,
-                "id": "thermalfoundation:coin",
-                "Count": 2b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
-            },
-            {
-                "Slot": 34b,
-                "id": "thermalfoundation:coin",
+                "id": "tolkienmobs:item_coin2",
                 "Count": 3b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
-                    }
-                },
-                "Damage": 70s
+                "Damage": 0s
             },
             {
                 "Slot": 35b,
-                "id": "thermalfoundation:coin",
-                "Count": 3b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 3b,
+                "Damage": 0s
             }
         ]
     },
@@ -324,100 +329,188 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "extrautils2:angelring",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "xreliquary:fortune_coin",
-                "Count": 1b,
-                "tag": {
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
                 },
-                "Damage": 0s
-            },
-            {
-                "Slot": 2b,
-                "id": "tconstruct:materials",
-                "Count": 1b,
-                "Damage": 50s
-            },
-            {
-                "Slot": 3b,
-                "id": "extrautils2:angelring",
-                "Count": 1b,
-                "Damage": 1s
-            },
-            {
-                "Slot": 4b,
-                "id": "xreliquary:hero_medallion",
-                "Count": 1b,
-                "tag": {
-                },
-                "Damage": 0s
-            },
-            {
-                "Slot": 6b,
                 "id": "extrautils2:angelring",
                 "Count": 1b,
                 "Damage": 2s
             },
             {
-                "Slot": 7b,
-                "id": "xreliquary:kraken_shell",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 9b,
-                "id": "extrautils2:angelring",
-                "Count": 1b,
-                "Damage": 3s
-            },
-            {
-                "Slot": 10b,
-                "id": "xreliquary:infernal_claws",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 12b,
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "extrautils2:angelring",
                 "Count": 1b,
                 "Damage": 4s
             },
             {
-                "Slot": 13b,
+                "Slot": 3b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:fortune_coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:kraken_shell",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "xreliquary:sojourner_staff",
                 "Count": 1b,
-                "tag": {
-                },
                 "Damage": 0s
             },
             {
-                "Slot": 14b,
+                "Slot": 6b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tconstruct:ore",
+                "Count": 8b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 8b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "xreliquary:lantern_of_paranoia",
                 "Count": 1b,
-                "tag": {
-                },
                 "Damage": 0s
             },
             {
-                "Slot": 15b,
+                "Slot": 9b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tconstruct:ore",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 10b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "extrautils2:angelring",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 11b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "extrautils2:angelring",
                 "Count": 1b,
                 "Damage": 5s
             },
             {
-                "Slot": 16b,
+                "Slot": 12b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "extrautils2:angelring",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 13b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:infernal_claws",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "xreliquary:emperor_chalice",
                 "Count": 1b,
-                "tag": {
+                "Damage": 0s
+            },
+            {
+                "Slot": 15b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
                 },
+                "id": "xreliquary:hero_medallion",
+                "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 17b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "xreliquary:phoenix_down",
                 "Count": 1b,
                 "Damage": 0s

@@ -18,7 +18,7 @@
     "QuestCommand": "",
     "QuestDialogs": [
         {
-            "Integer": 424,
+            "Integer": 426,
             "Slot": 0
         }
     ],
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1506620708351L,
+        "TimePast": 1557358869421L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,18 +40,13 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "props:props",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Baskets woven to pay tribute"
-                        ],
-                        "Name": "§2Woven Basket"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 30s
+                "id": "tolkienmobs:item_wovenbasket",
+                "Count": 1b,
+                "Damage": 0s
             }
         ]
     },

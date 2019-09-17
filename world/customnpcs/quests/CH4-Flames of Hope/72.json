@@ -32,7 +32,7 @@ Lorniel told you that she had heard from a Hillman named Fridli who was seeking 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1502981238299L,
+        "TimePast": 1567093116623L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,17 +40,14 @@ Lorniel told you that she had heard from a Hillman named Fridli who was seeking 
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcAncientScroll",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6A tattered scroll, covered in small runes."
-                        ],
-                        "Name": "§5Ashen Scroll"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_scroll",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

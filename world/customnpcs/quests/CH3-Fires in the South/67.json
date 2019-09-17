@@ -29,7 +29,7 @@ Collected the stone-heart.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095565952L,
+        "TimePast": 1566419104330L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,7 +38,11 @@ Collected the stone-heart.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 6b,
                 "Damage": 0s
             }
@@ -48,17 +52,14 @@ Collected the stone-heart.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:palantir_shard",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6This heart has a disturbing and fearful energy."
-                        ],
-                        "Name": "§5Stone-heart"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_watcherheart",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

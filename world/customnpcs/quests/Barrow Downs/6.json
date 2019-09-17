@@ -29,7 +29,7 @@ Falsir told you to bring the key fragments to Reeve Guibe, a blacksmith who has 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501727548046L,
+        "TimePast": 1563494876693L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,14 +42,12 @@ Falsir told you to bring the key fragments to Reeve Guibe, a blacksmith who has 
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcKey",
-                "Count": 2b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Name": "Key Fragment"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_keyfragment",
+                "Count": 2b,
                 "Damage": 0s
             }
         ]

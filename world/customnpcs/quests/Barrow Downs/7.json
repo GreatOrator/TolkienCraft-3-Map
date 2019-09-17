@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501727555943L,
+        "TimePast": 1563494900037L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,13 +36,21 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 12b,
                 "Damage": 0s
             }
@@ -52,13 +60,14 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcKey2",
-                "Count": 1b,
-                "tag": {
-                    "display": {
-                        "Name": "Oil-covered Key"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_oilykey",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

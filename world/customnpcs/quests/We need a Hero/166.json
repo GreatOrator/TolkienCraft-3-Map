@@ -29,7 +29,7 @@ Somewhere down in the sewers lay powerful artifacts...maybe.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1527958081328L,
+        "TimePast": 1565221034673L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,6 +42,10 @@ Somewhere down in the sewers lay powerful artifacts...maybe.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:hype_horn",
                 "Count": 1b,
                 "tag": {

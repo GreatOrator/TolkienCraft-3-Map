@@ -1,12 +1,12 @@
 {
-    "CompleterNpc": "Magnus",
+    "CompleterNpc": "Reinfridus",
     "NextQuestId": -1,
     "RandomReward": 1b,
     "QuestRepeat": 2,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "In Need of Supplies",
-    "Text": "You accepted a task with finding [Mob Drop] from [Mob] making [Region] their home. [NPC] awaits the delivery of these items at [Area in Location] in [Location].",
+    "Text": "You accepted a task with finding Mumakil Hide from Mumakil making Umbar their home. Reinfridus awaits the delivery of these items at the Docks in Pelargrir.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1500576582906L,
+        "TimePast": 1562862457525L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,43 +36,81 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 38b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 1s
             },
             {
                 "Slot": 3b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 2s
             },
             {
                 "Slot": 4b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 3s
             },
             {
                 "Slot": 5b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 4s
             },
             {
                 "Slot": 6b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 2b,
                 "Damage": 0s
             }
@@ -80,6 +118,16 @@
     },
     "Items": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:leather_mumakil",
+                "Count": 24b,
+                "Damage": 0s
+            }
         ]
     },
     "LeaveItems": 0b,

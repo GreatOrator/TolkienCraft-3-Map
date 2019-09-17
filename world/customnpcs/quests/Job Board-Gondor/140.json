@@ -18,7 +18,7 @@
     "QuestCommand": "",
     "QuestDialogs": [
         {
-            "Integer": 425,
+            "Integer": 429,
             "Slot": 0
         }
     ],
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1506620717699L,
+        "TimePast": 1557359556626L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,18 +40,13 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tconstruct:materials",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Finely woven cloth for decoration"
-                        ],
-                        "Name": "§2Fine Cloth"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 15s
+                "id": "tolkienmobs:item_fancycloth",
+                "Count": 1b,
+                "Damage": 0s
             }
         ]
     },

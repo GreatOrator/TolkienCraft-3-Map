@@ -3,55 +3,55 @@
         "NpcMiscInv": [
             {
                 "Slot": 18b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 34b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 50b,
                 "Damage": 0s
             },
             {
                 "Slot": 19b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 22b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 24b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 25b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 28b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 10b,
                 "Damage": 0s
             },
             {
                 "Slot": 30b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 31b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 20b,
                 "Damage": 0s
             }

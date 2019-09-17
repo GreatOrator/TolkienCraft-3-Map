@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 57,
     "Options": [
         {
             "OptionSlot": 0,
@@ -10,6 +10,16 @@
                 "Title": "What Exactly did you need done?",
                 "DialogColor": 3079950,
                 "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "I would just like to see what you have.",
+                "DialogColor": 15196682,
+                "OptionType": 3
             }
         },
         {
@@ -23,13 +33,18 @@
             }
         }
     ],
+    "AvailabilityScoreboardType": 0,
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityScoreboard2Value": 0,
+    "DialogId": 328,
+    "AvailabilityQuest": 1,
     "AvailabilityDialog4": 0,
+    "AvailabilityScoreboardObjective": "",
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
+    "AvailabilityQuest2": 2,
     "AvailabilityQuest3": 0,
+    "AvailabilityScoreboard2Objective": "",
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
@@ -40,10 +55,12 @@
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
+    "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "A Daily Hunt I",
     "AvailabilityDialog": 0,
+    "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
@@ -53,7 +70,7 @@
     "DialogText": "Thank the maker for you @p.  I had hoped to get a response to my job posting, just glad it was you.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
-    "AvailabilityQuest2Id": -1,
+    "AvailabilityQuest2Id": 104,
     "AvailabilityDialog2Id": -1,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
@@ -67,7 +84,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1500577162506L,
+        "TimePast": 1557276015978L,
         "Time": 0L,
         "Subject": ""
     }

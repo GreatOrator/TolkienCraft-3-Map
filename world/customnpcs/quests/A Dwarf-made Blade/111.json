@@ -31,7 +31,7 @@ Return to Thonrum Ironsword to see if he can reforge the sword.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551614070L,
+        "TimePast": 1563068446728L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,7 +40,11 @@ Return to Thonrum Ironsword to see if he can reforge the sword.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 31b,
                 "Damage": 0s
             }
@@ -50,18 +54,14 @@ Return to Thonrum Ironsword to see if he can reforge the sword.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tconstruct:wide_guard",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6All that remains of the dwarf-made sword"
-                        ],
-                        "Name": "§5Sword Hilt"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
                     },
-                    "Material": "knightslime"
+                    "customnpcs:itemscripteddata": {
+                    }
                 },
+                "id": "tolkienmobs:item_brokensword",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

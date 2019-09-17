@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095554149L,
+        "TimePast": 1566265863271L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,18 +36,32 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 33b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "xreliquary:fortune_coin",
                 "Count": 1b,
                 "tag": {

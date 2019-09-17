@@ -29,7 +29,7 @@ Castien will be delighted to see that you have found a tulip of exquisite beauty
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1538772272506L,
+        "TimePast": 1565219608482L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,13 +38,21 @@ Castien will be delighted to see that you have found a tulip of exquisite beauty
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 27b,
                 "Damage": 0s
             }
@@ -54,20 +62,13 @@ Castien will be delighted to see that you have found a tulip of exquisite beauty
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "minecraft:red_flower",
-                "Count": 1b,
-                "tag": {
-                    "ench": [
-                    ],
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§dTulip of Unsurpassed Beauty"
-                        ],
-                        "Name": "§cAmazing Pink Tulip"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 7s
+                "id": "tolkienmobs:flower",
+                "Count": 1b,
+                "Damage": 6s
             }
         ]
     },

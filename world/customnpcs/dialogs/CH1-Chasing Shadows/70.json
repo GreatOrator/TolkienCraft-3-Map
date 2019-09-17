@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": 8,
+    "AvailabilityQuestId": 168,
     "Options": [
         {
             "OptionSlot": 5,
@@ -13,13 +13,18 @@
             }
         }
     ],
+    "AvailabilityScoreboardType": 0,
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 2,
-    "AvailabilityQuest": 2,
+    "AvailabilityScoreboard2Value": 0,
+    "DialogId": 70,
+    "AvailabilityQuest": 1,
     "AvailabilityDialog4": 0,
+    "AvailabilityScoreboardObjective": "",
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
+    "AvailabilityQuest2": 2,
     "AvailabilityQuest3": 0,
+    "AvailabilityScoreboard2Objective": "",
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
@@ -30,12 +35,14 @@
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
+    "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 0b,
-    "AvailabilityFaction": 2,
+    "AvailabilityFaction": 0,
     "DialogTitle": "Troubles of Rivendell III",
     "AvailabilityDialog": 0,
+    "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
-    "AvailabilityFactionId": 12,
+    "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
@@ -43,7 +50,7 @@
     "DialogText": "Lord Elrond is the master of this house; he should be given news of your arrival. You will find him in his library to the north of the Last Homely House.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
-    "AvailabilityQuest2Id": -1,
+    "AvailabilityQuest2Id": 8,
     "AvailabilityDialog2Id": -1,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
@@ -57,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525625664861L,
+        "TimePast": 1566407942436L,
         "Time": 0L,
         "Subject": ""
     }

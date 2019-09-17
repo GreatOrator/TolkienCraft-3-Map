@@ -29,7 +29,7 @@ You should return the herbs you collected to Bald-bri.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1538771965800L,
+        "TimePast": 1556591751168L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,51 +38,53 @@ You should return the herbs you collected to Bald-bri.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 9b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
-                "id": "tolkientweaks:gold_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 3b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
                 "Slot": 4b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Used to increase faction standing at specific vendors"
-                        ],
-                        "Name": "§9Faction Token"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 101s
+                "id": "tolkienmobs:item_coin1",
+                "Count": 1b,
+                "Damage": 0s
             }
         ]
     },
@@ -90,19 +92,12 @@ You should return the herbs you collected to Bald-bri.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcHeart",
-                "Count": 3b,
-                "tag": {
-                    "ench": [
-                    ],
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§dIngredient used in potion brewing"
-                        ],
-                        "Name": "§cPungent Herb"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_pungentherb",
+                "Count": 3b,
                 "Damage": 0s
             }
         ]

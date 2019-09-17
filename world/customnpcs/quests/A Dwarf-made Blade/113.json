@@ -31,7 +31,7 @@ Lucious can repair the items you brought from Thonrum, but needs your help gathe
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551601869L,
+        "TimePast": 1563068489267L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,12 +40,22 @@ Lucious can repair the items you brought from Thonrum, but needs your help gathe
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 32b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tconstruct:slimesling",
                 "Count": 1b,
                 "tag": {
@@ -61,6 +71,12 @@ Lucious can repair the items you brought from Thonrum, but needs your help gathe
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tconstruct:slime_boots",
                 "Count": 1b,
                 "tag": {
@@ -80,18 +96,30 @@ Lucious can repair the items you brought from Thonrum, but needs your help gathe
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:iron_ingot",
                 "Count": 6b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:rabbit_hide",
                 "Count": 8b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "projectred-core:resource_item",
                 "Count": 9b,
                 "Damage": 200s

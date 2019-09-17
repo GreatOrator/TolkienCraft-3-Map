@@ -31,7 +31,7 @@ You have retrieved the artifact, you should return to Nerea and hopefully get th
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1535206500286L,
+        "TimePast": 1567708949441L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,13 +40,21 @@ You have retrieved the artifact, you should return to Nerea and hopefully get th
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 5b,
                 "Damage": 0s
             }
@@ -56,20 +64,15 @@ You have retrieved the artifact, you should return to Nerea and hopefully get th
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "props:props",
-                "Count": 1b,
-                "tag": {
-                    "display": {
-                        "Lore": [
-                            "§5This objects emits a dark aura"
-                        ],
-                        "Name": "§6Lost Artifact"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
                     },
-                    "CanPlaceOn": [
-                        "minecraft:bedrock"
-                    ]
+                    "customnpcs:itemscripteddata": {
+                    }
                 },
-                "Damage": 93s
+                "id": "tolkienmobs:item_artifact",
+                "Count": 1b,
+                "Damage": 0s
             }
         ]
     },

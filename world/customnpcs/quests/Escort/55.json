@@ -1,9 +1,11 @@
 {
     "CompleterNpc": "Munce",
     "NextQuestId": -1,
+    "QuestLocation3": "",
     "RandomReward": 0b,
+    "QuestLocation2": "",
     "QuestRepeat": 0,
-    "QuestCompletion": 1,
+    "QuestCompletion": 0,
     "Title": "Daring Rescue III",
     "Text": "Ayduin had been captured by the orcs and you were able to lead her to safety.  Time to head back to Munce at the forsaken Inn and let him know.",
     "QuestFactionPoints": {
@@ -16,14 +18,8 @@
     },
     "RewardExp": 100,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Integer": 180,
-            "Slot": 0
-        }
-    ],
     "ModRev": 18,
-    "Type": 1,
+    "Type": 3,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -32,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1495150615617L,
+        "TimePast": 1565316999676L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,18 +36,27 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 17b,
                 "Damage": 0s
             }
         ]
     },
     "CompleteText": "@p you return and with joyous news!",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "",
+    "QuestLocation": "Western Arch"
 }

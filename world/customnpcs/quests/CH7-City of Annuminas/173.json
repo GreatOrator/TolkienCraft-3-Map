@@ -46,13 +46,13 @@ Elrond has asked that you help your fellow Men, Aragorn son of Arathorn and Boro
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 6b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 22b,
                 "Damage": 0s
             }

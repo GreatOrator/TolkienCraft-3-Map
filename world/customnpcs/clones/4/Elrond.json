@@ -38,7 +38,7 @@
         "Scenes": [
             {
                 "Button": 0,
-                "Ticks": 81,
+                "Ticks": 88,
                 "Enabled": 1b,
                 "Name": "ElrondBye",
                 "Lines": "2 command tellraw @p {\"text\":\"Elrond: It is done, and they are beyond my aid.\",\"bold\":true}
@@ -156,7 +156,7 @@
             }
         ]
     },
-    "HurtByTimestamp": 835,
+    "HurtByTimestamp": 940,
     "pSpin": 0b,
     "NpcHurtSound": "minecraft:entity.player.hurt",
     "pTrail": 0,
@@ -510,9 +510,9 @@
     "NpcDeathSound": "minecraft:entity.player.hurt",
     "FactionID": 7,
     "Title": "Lord of Rivendell",
-    "TotalTicksAlive": 884806082L,
+    "TotalTicksAlive": 884806235L,
     "Rotation": [
-        349.3491f,
+        55.33264f,
         0.0f
     ],
     "ShowName": 0,

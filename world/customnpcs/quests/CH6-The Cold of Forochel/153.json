@@ -38,13 +38,13 @@ Thurdan instructed you to go to the Ranger-camp in Arnor to speak with the Range
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 37b,
                 "Damage": 0s
             }

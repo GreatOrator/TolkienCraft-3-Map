@@ -36,7 +36,7 @@ Aragorn has asked you to bring word of the two ways south he sees for the Compan
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1535219269923L,
+        "TimePast": 1568373636581L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,13 +44,21 @@ Aragorn has asked you to bring word of the two ways south he sees for the Compan
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 6b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 22b,
                 "Damage": 0s
             }

@@ -40,13 +40,13 @@ Your allies may be found in Hoarwell in the Lone-lands, Mitheithel in the South 
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 6b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 21b,
                 "Damage": 0s
             }

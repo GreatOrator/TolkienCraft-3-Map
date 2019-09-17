@@ -40,13 +40,13 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 8b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 40b,
                 "Damage": 0s
             }

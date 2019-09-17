@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "One man's trash is another's treasure!  Whattya got?",
+                "Title": "Yeah, I guess you might want this then?",
                 "DialogColor": 15131141,
                 "OptionType": 3
             }
@@ -23,13 +23,18 @@
             }
         }
     ],
+    "AvailabilityScoreboardType": 0,
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
+    "AvailabilityScoreboard2Value": 0,
+    "DialogId": 469,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
+    "AvailabilityScoreboardObjective": "",
     "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 0,
     "AvailabilityQuest3": 0,
+    "AvailabilityScoreboard2Objective": "",
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
@@ -40,17 +45,19 @@
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
+    "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "Junker I",
     "AvailabilityDialog": 0,
+    "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "",
+    "DialogText": "Some may call this junk, me, I call them treasures.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +74,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1527947870998L,
+        "TimePast": 1547595482782L,
         "Time": 0L,
         "Subject": ""
     }

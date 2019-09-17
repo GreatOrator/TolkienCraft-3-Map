@@ -42,13 +42,13 @@ Having defeated the Knight of Brimigak, You should return to Guthwine and let hi
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 3b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 11b,
                 "Damage": 0s
             }

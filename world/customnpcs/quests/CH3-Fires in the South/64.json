@@ -30,7 +30,7 @@ Manwyn has asked you to find one the stone-hearts the runes spoke of by searchin
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095561801L,
+        "TimePast": 1566418347830L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,17 +38,14 @@ Manwyn has asked you to find one the stone-hearts the runes spoke of by searchin
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:palantir_shard",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6This heart looks like it has seen better days"
-                        ],
-                        "Name": "§dWatcher Heart"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_watcherheart_cracked",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

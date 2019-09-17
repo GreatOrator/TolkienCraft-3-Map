@@ -29,7 +29,7 @@ Thurdan has written a letter to Talacnun explaining the threat Dreulhara poses. 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1535206950537L,
+        "TimePast": 1568373401786L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,17 +42,14 @@ Thurdan has written a letter to Talacnun explaining the threat Dreulhara poses. 
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcLetter",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§bThurdan's story about Dreulhara"
-                        ],
-                        "Name": "§6Thurdan's Letter"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_letter",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

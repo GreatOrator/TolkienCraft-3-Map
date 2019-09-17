@@ -29,7 +29,7 @@ Tolhe has asked you to pick some Hag Hops for his famous beer.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1538781620238L,
+        "TimePast": 1556819513603L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,98 +42,12 @@ Tolhe has asked you to pick some Hag Hops for his famous beer.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "forestry:pollenFertile",
-                "Count": 12b,
-                "tag": {
-                    "ench": [
-                    ],
-                    "display": {
-                        "Lore": [
-                            "§dCoveted by many barkeeps for the extraordinary mead it makes"
-                        ],
-                        "Name": "§cHag Hops"
-                    },
-                    "IsAnalyzed": 0b,
-                    "Genome": {
-                        "Chromosomes": [
-                            {
-                                "UID1": "forestry.treeMaple",
-                                "UID0": "forestry.treeMaple",
-                                "Slot": 0b
-                            },
-                            {
-                                "UID1": "forestry.growthLightlevel",
-                                "UID0": "forestry.growthLightlevel",
-                                "Slot": 1b
-                            },
-                            {
-                                "UID1": "forestry.heightAverage",
-                                "UID0": "forestry.heightAverage",
-                                "Slot": 2b
-                            },
-                            {
-                                "UID1": "forestry.saplingsLow",
-                                "UID0": "forestry.saplingsLow",
-                                "Slot": 3b
-                            },
-                            {
-                                "UID1": "forestry.fruitNone",
-                                "UID0": "forestry.fruitNone",
-                                "Slot": 4b
-                            },
-                            {
-                                "UID1": "forestry.yieldLowest",
-                                "UID0": "forestry.yieldLowest",
-                                "Slot": 5b
-                            },
-                            {
-                                "UID1": "forestry.plantTypeNone",
-                                "UID0": "forestry.plantTypeNone",
-                                "Slot": 6b
-                            },
-                            {
-                                "UID1": "forestry.sappinessLower",
-                                "UID0": "forestry.sappinessLower",
-                                "Slot": 7b
-                            },
-                            {
-                                "UID1": "forestry.territoryAverage",
-                                "UID0": "forestry.territoryAverage",
-                                "Slot": 8b
-                            },
-                            {
-                                "UID1": "forestry.leavesNone",
-                                "UID0": "forestry.leavesNone",
-                                "Slot": 9b
-                            },
-                            {
-                                "UID1": "forestry.maturationAverage",
-                                "UID0": "forestry.maturationAverage",
-                                "Slot": 10b
-                            },
-                            {
-                                "UID1": "forestry.i1d",
-                                "UID0": "forestry.i1d",
-                                "Slot": 11b
-                            },
-                            {
-                                "UID1": "forestry.i20d",
-                                "UID0": "forestry.i20d",
-                                "Slot": 12b
-                            },
-                            {
-                                "UID1": "forestry.i4d",
-                                "UID0": "forestry.i4d",
-                                "Slot": 13b
-                            },
-                            {
-                                "UID1": "forestry.fireproofFalse",
-                                "UID0": "forestry.fireproofFalse",
-                                "Slot": 14b
-                            }
-                        ]
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_specialflower",
+                "Count": 12b,
                 "Damage": 0s
             }
         ]

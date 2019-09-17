@@ -2,93 +2,153 @@
     "TraderCurrency": {
         "NpcMiscInv": [
             {
-                "Slot": 32b,
-                "id": "tolkientweaks:silver_coin",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 34b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 15b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 35b,
-                "id": "tolkientweaks:silver_coin",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
                 "Slot": 18b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 19b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 15b,
                 "Damage": 0s
             },
             {
                 "Slot": 20b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 21b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 22b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 15b,
                 "Damage": 0s
             },
             {
                 "Slot": 24b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 25b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 15b,
                 "Damage": 0s
             },
             {
                 "Slot": 26b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 27b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 28b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 15b,
                 "Damage": 0s
             },
             {
                 "Slot": 29b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 31b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 15b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 32b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 15b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 35b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]
@@ -99,18 +159,32 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:melon_seeds",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "harvestcraft:soggygarden",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tconstruct:mattock",
                 "Count": 1b,
                 "tag": {
@@ -183,72 +257,120 @@
             },
             {
                 "Slot": 3b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:pumpkin_seeds",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 4b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "harvestcraft:shadedgarden",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 6b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:nether_wart",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 7b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "harvestcraft:frostgarden",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 8b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "props:props",
                 "Count": 1b,
                 "Damage": 178s
             },
             {
                 "Slot": 9b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:reeds",
                 "Count": 4b,
                 "Damage": 0s
             },
             {
                 "Slot": 10b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "harvestcraft:aridgarden",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 11b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "props:props",
                 "Count": 1b,
                 "Damage": 862s
             },
             {
                 "Slot": 13b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "harvestcraft:tropicalgarden",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 14b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "props:props",
                 "Count": 1b,
                 "Damage": 863s
             },
             {
                 "Slot": 16b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "harvestcraft:windygarden",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 17b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "props:props",
                 "Count": 1b,
                 "Damage": 119s

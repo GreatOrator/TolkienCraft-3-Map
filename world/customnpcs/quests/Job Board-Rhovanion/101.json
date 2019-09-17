@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Charlice",
+    "CompleterNpc": "Bard",
     "NextQuestId": -1,
     "RandomReward": 1b,
     "QuestRepeat": 2,
@@ -18,8 +18,8 @@
     "QuestCommand": "",
     "QuestDialogs": [
         {
-            "Value": 25,
-            "Slot": "Skeleton"
+            "Value": 32,
+            "Slot": "warg"
         }
     ],
     "ModRev": 18,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501166301838L,
+        "TimePast": 1562865301225L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,42 +40,80 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 24b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 3b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 1s
             },
             {
                 "Slot": 4b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 2s
             },
             {
                 "Slot": 5b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 3s
             },
             {
                 "Slot": 6b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 4s

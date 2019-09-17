@@ -29,7 +29,7 @@ Now that you have recovered the mithril and the bandit’s key, Elssuli, one of 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1502981222194L,
+        "TimePast": 1567116529676L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,32 +42,26 @@ Now that you have recovered the mithril and the bandit’s key, Elssuli, one of 
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "allomancy:nuggetLerasium",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Token Bilbo took from his adventures in the Lonely Mountain"
-                        ],
-                        "Name": "§5Bilbo's Nugget"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_mithrilnugget",
+                "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "customnpcs:npcKey2",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Ruined key found on the body of a bandit captain"
-                        ],
-                        "Name": "§5Bandit's Key"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_wornkey",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

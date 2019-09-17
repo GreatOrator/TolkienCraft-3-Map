@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551570621L,
+        "TimePast": 1567119011396L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,17 +36,14 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcKey",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Key made by Elssuli from the items you collected"
-                        ],
-                        "Name": "§3Dungeon Key"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_fancykey",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]
@@ -55,17 +52,14 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcHammer",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6A hammer especially designed for shaping mitril"
-                        ],
-                        "Name": "§9Thrór's Hammer"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_fancyhammer",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

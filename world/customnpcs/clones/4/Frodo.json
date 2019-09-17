@@ -421,7 +421,7 @@
     "NpcDeathSound": "minecraft:entity.player.hurt",
     "FactionID": 7,
     "Title": "",
-    "TotalTicksAlive": 796537299L,
+    "TotalTicksAlive": 796537259L,
     "Rotation": [
         171.37299f,
         0.0f

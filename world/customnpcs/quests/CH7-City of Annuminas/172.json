@@ -29,7 +29,7 @@ Take the cloth back to Wynton on the shores of the lake near Annuminas.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1535212275816L,
+        "TimePast": 1568373604630L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,13 +38,21 @@ Take the cloth back to Wynton on the shores of the lake near Annuminas.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 22b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 6b,
                 "Damage": 0s
             }
@@ -54,17 +62,14 @@ Take the cloth back to Wynton on the shores of the lake near Annuminas.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "mca:Cloth",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§bSpecial cloth designed by the elves to carry magical items"
-                        ],
-                        "Name": "§6Elvish Cloth"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_magic_cloth",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

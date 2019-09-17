@@ -5,7 +5,7 @@
     "RandomReward": 0b,
     "QuestLocation2": "",
     "QuestRepeat": 0,
-    "QuestCompletion": 0,
+    "QuestCompletion": 1,
     "Title": "Into the Dungeon I",
     "Text": "With the key to the dungeons of Moria in hand, the time has come to move against the forces of the False King and try to rescue Cromhes.",
     "QuestFactionPoints": {
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525624633692L,
+        "TimePast": 1567121021037L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,5 +38,5 @@
     },
     "CompleteText": "Are you ready to leave, @p? Who knows how long we have before my father is moved once more.",
     "NextQuestTitle": "Into the Dungeon II",
-    "QuestLocation": "Entrance to Dungeons"
+    "QuestLocation": "Entrance to Dungeon"
 }

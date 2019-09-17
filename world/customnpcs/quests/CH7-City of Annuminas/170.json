@@ -30,7 +30,7 @@ Talacnun has decided that Dreulhara's forces should be engaged in Annúminas in 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1535207705041L,
+        "TimePast": 1568373416338L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,13 +38,21 @@ Talacnun has decided that Dreulhara's forces should be engaged in Annúminas in 
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 22b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 6b,
                 "Damage": 0s
             }

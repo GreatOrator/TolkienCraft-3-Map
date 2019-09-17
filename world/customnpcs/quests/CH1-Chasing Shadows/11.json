@@ -29,7 +29,7 @@ Elladan will be both pleased and troubled to see the bridle of the black horse, 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095540052L,
+        "TimePast": 1549380826495L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,25 +38,41 @@ Elladan will be both pleased and troubled to see the bridle of the black horse, 
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "allomancy:oreZinc",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "allomancy:orezinc",
                 "Count": 6b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:diamond_ore",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:gold_ore",
                 "Count": 7b,
                 "Damage": 0s
             },
             {
                 "Slot": 3b,
-                "id": "allomancy:oreTin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "allomancy:oretin",
                 "Count": 9b,
                 "Damage": 0s
             }
@@ -66,16 +82,14 @@ Elladan will be both pleased and troubled to see the bridle of the black horse, 
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "minecraft:saddle",
-                "Count": 1b,
-                "tag": {
-                    "display": {
-                        "Lore": [
-                            "§6Taken from the corpse of the Nazgûl Horse"
-                        ],
-                        "Name": "§9Black Steed's Bridle"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_darksaddle",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

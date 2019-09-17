@@ -1,15 +1,15 @@
 {
     "CompleterNpc": "Aliz Heudebrand",
     "NextQuestId": -1,
-    "QuestLocation3": "",
     "RandomReward": 0b,
-    "QuestLocation2": "",
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Betan's Rescue",
     "Text": "Betan Heudebrand, a Bree-land farmer, has been captured by marauding Orcs.
 
-Betan Heudebrand has asked you to help him escape from the Orc camp.",
+Betan Heudebrand has asked you to help him escape from the Orc camp.
+
+Kill any orcs nearby.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -20,8 +20,14 @@ Betan Heudebrand has asked you to help him escape from the Orc camp.",
     },
     "RewardExp": 100,
     "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 10,
+            "Slot": "mordor_orc"
+        }
+    ],
     "ModRev": 18,
-    "Type": 3,
+    "Type": 4,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -30,7 +36,7 @@ Betan Heudebrand has asked you to help him escape from the Orc camp.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551710317L,
+        "TimePast": 1563584361783L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,6 +44,12 @@ Betan Heudebrand has asked you to help him escape from the Orc camp.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:diamond_chestplate",
                 "Count": 1b,
                 "tag": {
@@ -59,19 +71,26 @@ Betan Heudebrand has asked you to help him escape from the Orc camp.",
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 5b,
                 "Damage": 0s
             }
         ]
     },
     "CompleteText": "I'm so thankful you rescued Betan!",
-    "NextQuestTitle": "",
-    "QuestLocation": "Bree-West Gate"
+    "NextQuestTitle": ""
 }

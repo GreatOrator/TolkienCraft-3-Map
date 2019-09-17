@@ -38,13 +38,13 @@ Manwyn is at Stoneyford, a village in the Gladden Fields near Mirkwood, somewher
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 8b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 3b,
                 "Damage": 0s
             }

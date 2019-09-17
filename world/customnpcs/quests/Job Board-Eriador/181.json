@@ -30,7 +30,7 @@ Castien has asked you to bring him a perfect tulip of exquisite beauty. No other
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1538772266402L,
+        "TimePast": 1565219467581L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,20 +38,13 @@ Castien has asked you to bring him a perfect tulip of exquisite beauty. No other
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "minecraft:red_flower",
-                "Count": 1b,
-                "tag": {
-                    "ench": [
-                    ],
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§dTulip of Unsurpassed Beauty"
-                        ],
-                        "Name": "§cAmazing Pink Tulip"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 7s
+                "id": "tolkienmobs:flower",
+                "Count": 1b,
+                "Damage": 6s
             }
         ]
     },

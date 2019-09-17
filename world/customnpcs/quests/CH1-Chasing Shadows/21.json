@@ -34,7 +34,7 @@ Barachen reported seeing one of the Onodrim somewhere in the Trollshaws, and Ell
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1527726336357L,
+        "TimePast": 1556214548995L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,13 +42,21 @@ Barachen reported seeing one of the Onodrim somewhere in the Trollshaws, and Ell
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 4b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 16b,
                 "Damage": 0s
             }

@@ -30,7 +30,7 @@ Elladan has asked you to follow the Nazgûl into the Trollshaws.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095538651L,
+        "TimePast": 1549381861518L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,16 +38,14 @@ Elladan has asked you to follow the Nazgûl into the Trollshaws.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "minecraft:saddle",
-                "Count": 1b,
-                "tag": {
-                    "display": {
-                        "Lore": [
-                            "§6Taken from the corpse of the Nazgûl Horse"
-                        ],
-                        "Name": "§9Black Steed's Bridle"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_darksaddle",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

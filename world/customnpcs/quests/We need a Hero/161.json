@@ -46,29 +46,18 @@ Merovech Hornwood"
         "MailItems": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcLetter",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Doesn't this guy sound a little crazy?"
-                        ],
-                        "Name": "§5§oLetter from Merovech"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 0s
-            },
-            {
-                "Slot": 1b,
-                "id": "tolkientweaks:silver_coin",
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             }
         ],
         "MailQuest": -1,
-        "TimePast": 1527947324502L,
-        "Time": 0L,
+        "TimePast": 252507L,
+        "Time": 1565220762287L,
         "Subject": "In need of a Hero"
     },
     "Rewards": {

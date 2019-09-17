@@ -431,7 +431,7 @@
     "NpcDeathSound": "minecraft:entity.player.hurt",
     "FactionID": 9,
     "Title": "Captain of the Guard",
-    "TotalTicksAlive": 3586L,
+    "TotalTicksAlive": 3525L,
     "Rotation": [
         262.47223f,
         0.0f

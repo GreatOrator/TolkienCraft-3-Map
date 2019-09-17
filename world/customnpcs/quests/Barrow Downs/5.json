@@ -30,7 +30,7 @@ Falsir is awaiting further word of your deeds outside of the Great Barrow.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551653369L,
+        "TimePast": 1563494907439L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,7 +38,11 @@ Falsir is awaiting further word of your deeds outside of the Great Barrow.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 5b,
                 "Damage": 0s
             }

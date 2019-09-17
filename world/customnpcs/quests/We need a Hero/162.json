@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1527947310702L,
+        "TimePast": 1565220992237L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,7 +36,11 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             }
@@ -44,21 +48,6 @@
     },
     "Items": {
         "NpcMiscInv": [
-            {
-                "Slot": 0b,
-                "id": "customnpcs:npcLetter",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Doesn't this guy sound a little crazy?"
-                        ],
-                        "Name": "§5§oLetter from Merovech"
-                    }
-                },
-                "Damage": 0s
-            }
         ]
     },
     "LeaveItems": 0b,

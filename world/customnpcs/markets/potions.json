@@ -2,93 +2,153 @@
     "TraderCurrency": {
         "NpcMiscInv": [
             {
-                "Slot": 35b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 8b,
-                "Damage": 0s
-            },
-            {
                 "Slot": 7b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 32b,
                 "Damage": 0s
             },
             {
                 "Slot": 10b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 32b,
                 "Damage": 0s
             },
             {
                 "Slot": 13b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 31b,
                 "Damage": 0s
             },
             {
                 "Slot": 18b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 13b,
                 "Damage": 0s
             },
             {
                 "Slot": 19b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 16b,
                 "Damage": 0s
             },
             {
                 "Slot": 20b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 30b,
                 "Damage": 0s
             },
             {
                 "Slot": 21b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 22b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 20b,
                 "Damage": 0s
             },
             {
                 "Slot": 23b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 30b,
                 "Damage": 0s
             },
             {
                 "Slot": 24b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 15b,
                 "Damage": 0s
             },
             {
                 "Slot": 25b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 26b,
-                "id": "tolkientweaks:gold_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 28b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 31b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 35b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 8b,
                 "Damage": 0s
             }
         ]
@@ -99,6 +159,10 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:potion",
                 "Count": 1b,
                 "tag": {
@@ -108,6 +172,10 @@
             },
             {
                 "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:potion",
                 "Count": 1b,
                 "tag": {
@@ -116,13 +184,11 @@
                 "Damage": 0s
             },
             {
-                "Slot": 17b,
-                "id": "minecraft:brewing_stand",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:potion",
                 "Count": 1b,
                 "tag": {
@@ -132,6 +198,10 @@
             },
             {
                 "Slot": 3b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:potion",
                 "Count": 1b,
                 "tag": {
@@ -141,6 +211,10 @@
             },
             {
                 "Slot": 4b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:potion",
                 "Count": 1b,
                 "tag": {
@@ -150,15 +224,23 @@
             },
             {
                 "Slot": 5b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:potion",
                 "Count": 1b,
                 "tag": {
-                    "Potion": "minecraft:strong_leaping"
+                    "Potion": "extrautils2:xu2.second.chance"
                 },
                 "Damage": 0s
             },
             {
                 "Slot": 6b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:potion",
                 "Count": 1b,
                 "tag": {
@@ -168,21 +250,33 @@
             },
             {
                 "Slot": 7b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:potion",
                 "Count": 1b,
                 "tag": {
-                    "Potion": "extrautils2:xu2.second.chance"
+                    "Potion": "tolkienmobs:ent_draught"
                 },
                 "Damage": 0s
             },
             {
                 "Slot": 8b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:dragon_breath",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 10b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:potion",
                 "Count": 1b,
                 "tag": {
@@ -192,18 +286,25 @@
             },
             {
                 "Slot": 13b,
-                "id": "xreliquary:potion",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:potion",
                 "Count": 1b,
                 "tag": {
-                    "effects": [
-                        {
-                            "duration": 2500,
-                            "potency": 1,
-                            "id": 3
-                        }
-                    ],
-                    "hasPotion": 1b
+                    "Potion": "tolkienmobs:long_personal_blacksmith"
                 },
+                "Damage": 0s
+            },
+            {
+                "Slot": 17b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:brewing_stand",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

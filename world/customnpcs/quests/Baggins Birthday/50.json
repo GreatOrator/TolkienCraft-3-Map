@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551633920L,
+        "TimePast": 1563416219310L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,23 +40,22 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 12b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "customnpcs:npcLetter",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Story told by a hobbit after Bilbo disappeared on his birthday."
-                        ],
-                        "Name": "§3Hobbit Story"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_storybook",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

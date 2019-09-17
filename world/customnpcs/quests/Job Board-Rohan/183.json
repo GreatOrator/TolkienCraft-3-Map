@@ -29,7 +29,7 @@ The herbs can be found along the riverside near Edhellond.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1538776303500L,
+        "TimePast": 1556590208106L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,19 +42,12 @@ The herbs can be found along the riverside near Edhellond.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcHeart",
-                "Count": 3b,
-                "tag": {
-                    "ench": [
-                    ],
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§dIngredient used in potion brewing"
-                        ],
-                        "Name": "§cPungent Herb"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_pungentherb",
+                "Count": 3b,
                 "Damage": 0s
             }
         ]

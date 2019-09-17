@@ -32,7 +32,7 @@ She has tasked you with retrieving an artifact from the High Fells of Rhudar far
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1534612491284L,
+        "TimePast": 1567709091894L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,14 +40,34 @@ She has tasked you with retrieving an artifact from the High Fells of Rhudar far
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_artifact",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

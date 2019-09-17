@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Missing Husband",
-    "Text": "Betan was last seen heading north along the road.
+    "Text": "Betan was last seen leaving the northern gate of Bree.
 
 Aliz Heudebrand has asked you to find her husband.",
     "QuestFactionPoints": {
@@ -30,7 +30,7 @@ Aliz Heudebrand has asked you to find her husband.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551712372L,
+        "TimePast": 1565186536385L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,18 +38,32 @@ Aliz Heudebrand has asked you to find her husband.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "thermalfoundation:tool.bow_diamond",
                 "Count": 1b,
                 "tag": {

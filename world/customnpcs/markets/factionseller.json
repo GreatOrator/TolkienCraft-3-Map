@@ -2,66 +2,73 @@
     "TraderCurrency": {
         "NpcMiscInv": [
             {
-                "Slot": 32b,
-                "id": "tolkientweaks:silver_coin",
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
-                "Slot": 35b,
-                "id": "tolkientweaks:gold_coin",
+                "Slot": 18b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_darksigil",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin1",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
-                "Slot": 26b,
-                "id": "customnpcs:npcSkull",
-                "Count": 32b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Dark symbol dropped by a minion."
-                        ],
-                        "Name": "§5Dark Sigil"
+                "Slot": 20b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 0s
-            },
-            {
-                "Slot": 11b,
-                "id": "customnpcs:npcSkull",
-                "Count": 32b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Dark symbol dropped by a minion."
-                        ],
-                        "Name": "§5Dark Sigil"
-                    }
-                },
-                "Damage": 0s
-            },
-            {
-                "Slot": 29b,
-                "id": "customnpcs:npcSkull",
-                "Count": 64b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Dark symbol dropped by a minion."
-                        ],
-                        "Name": "§5Dark Sigil"
-                    }
-                },
-                "Damage": 0s
-            },
-            {
-                "Slot": 14b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 7b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_darksigil",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 23b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]
@@ -71,64 +78,64 @@
     "TraderSold": {
         "NpcMiscInv": [
             {
-                "Slot": 17b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin1",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
-                "Slot": 8b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Used to increase faction standing at specific vendors"
-                        ],
-                        "Name": "§9Faction Token"
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 101s
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
-                "Slot": 11b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin1",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
-                "Slot": 14b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Used to increase faction standing at specific vendors"
-                        ],
-                        "Name": "§9Faction Token"
+                "Slot": 3b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 101s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
             }
         ]
     }
