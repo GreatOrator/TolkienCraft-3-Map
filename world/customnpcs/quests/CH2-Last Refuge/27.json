@@ -34,7 +34,7 @@ Glóin told you that if you search the goblins' cave in the Misty Mountains, you
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566336869352L,
+        "TimePast": 1569438664012L,
         "Time": 0L,
         "Subject": ""
     },
@@ -64,6 +64,6 @@ Glóin told you that if you search the goblins' cave in the Misty Mountains, you
     },
     "CompleteText": "Glóin is at his camp at the east-end of the pass that leads through the Misty Mountains.
 
-In defeating Ulmug, you find him accompanied by hostile Dourhand dwarves. Glóin should be made known of this development",
+Dourhand dwarves were with that blasted Goblin King?",
     "NextQuestTitle": ""
 }

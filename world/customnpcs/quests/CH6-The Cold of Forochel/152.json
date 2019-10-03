@@ -30,7 +30,7 @@ Cromhes instructed you to speak with Thurdan to learn how you can help him track
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1534612475437L,
+        "TimePast": 1569986751000L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,12 +38,20 @@ Cromhes instructed you to speak with Thurdan to learn how you can help him track
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkienmobs:item_coin_bronze",
                 "Count": 13b,
                 "Damage": 0s

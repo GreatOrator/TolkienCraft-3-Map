@@ -1,0 +1,109 @@
+{
+    "CompleterNpc": "Adalbert",
+    "NextQuestId": -1,
+    "RandomReward": 1b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Heading Home I",
+    "Text": "Adalbert and Ermengard Boffin are in their home in Bucklebury, and each of them wishes to speak with you.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 14,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 200,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 580,
+            "Slot": 0
+        },
+        {
+            "Integer": 581,
+            "Slot": 1
+        }
+    ],
+    "ModRev": 18,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1569984217416L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:trinket_ring",
+                "Count": 1b,
+                "tag": {
+                    "effect": "tolkienmobs:ent_draught"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:trinket_charm",
+                "Count": 1b,
+                "tag": {
+                    "effect": "minecraft:regeneration"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:trinket_amulet",
+                "Count": 1b,
+                "tag": {
+                    "effect": "tolkienmobs:personal_blacksmith"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:trinket_belt",
+                "Count": 1b,
+                "tag": {
+                    "effect": "minecraft:water_breathing"
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "Ah, Ermengard will calm down in time.",
+    "NextQuestTitle": ""
+}

@@ -1,0 +1,55 @@
+{
+    "CompleterNpc": "Petunia",
+    "NextQuestId": 209,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Lost Manuscript VI",
+    "Text": "The wind carried pages of Petunia’s manuscript into the Barrow-downs, and you should search for them. Petunia has also asked you to defeat Barrow-wights while you search in case they picked them up.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 14,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 16,
+            "Slot": "barrow_wight"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1569983105791L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_blankpaper",
+                "Count": 4b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "You have found the pages concerning Petunia’s swimming lesson & departing the Shire.",
+    "NextQuestTitle": "Lost Manuscript VII"
+}

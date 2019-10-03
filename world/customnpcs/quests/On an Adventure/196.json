@@ -1,0 +1,44 @@
+{
+    "CompleterNpc": "Tom Bombadil",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Making a New Friend IV",
+    "Text": "Tom Bombadil asked you to stand in the foam of the waterfall south of his house, if you want to learn about him.
+
+You stood in the waterfall that Tom suggested, and should now see what you were supposed to have learned from the experience.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 14,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 10,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1569806742207L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Tom seems delighted.",
+    "NextQuestTitle": "",
+    "QuestLocation": "Mysterious Glade"
+}

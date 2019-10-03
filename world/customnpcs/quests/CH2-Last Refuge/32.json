@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566265988574L,
+        "TimePast": 1569440902184L,
         "Time": 0L,
         "Subject": ""
     },
@@ -60,6 +60,6 @@
             }
         ]
     },
-    "CompleteText": "The Nazgûl left the dwarf-keep, commanding Dugorim to slay you. Fortunately, you were able to defeat Dugorim, but a fell spirit emerged from his corpse and cursed the Longbeards before vanishing. You should tell Glóin all that has transpired.",
+    "CompleteText": "You saw the Nazgûl was there and ran off? You say a fell spirit left his body as he died?!?!",
     "NextQuestTitle": ""
 }

@@ -92,6 +92,16 @@
                 "Damage": 0s
             },
             {
+                "Slot": 20b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 21b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
@@ -99,6 +109,16 @@
                 },
                 "id": "tolkienmobs:item_coin_gold",
                 "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 23b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 2b,
                 "Damage": 0s
             },
             {
@@ -112,6 +132,16 @@
                 "Damage": 0s
             },
             {
+                "Slot": 26b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 27b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
@@ -119,6 +149,16 @@
                 },
                 "id": "tolkienmobs:item_coin_gold",
                 "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 29b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 24b,
                 "Damage": 0s
             },
             {
@@ -133,6 +173,16 @@
             },
             {
                 "Slot": 33b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 35b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
                     }
@@ -168,6 +218,16 @@
                 "Damage": 5s
             },
             {
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:skull",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 3b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
@@ -176,6 +236,16 @@
                 "id": "woot:upgradeb",
                 "Count": 1b,
                 "Damage": 2s
+            },
+            {
+                "Slot": 5b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:skull",
+                "Count": 1b,
+                "Damage": 1s
             },
             {
                 "Slot": 6b,
@@ -188,6 +258,16 @@
                 "Damage": 11s
             },
             {
+                "Slot": 8b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:skull",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
                 "Slot": 9b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
@@ -196,6 +276,16 @@
                 "id": "woot:upgrade",
                 "Count": 1b,
                 "Damage": 5s
+            },
+            {
+                "Slot": 11b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:skull",
+                "Count": 1b,
+                "Damage": 4s
             },
             {
                 "Slot": 12b,
@@ -216,6 +306,16 @@
                 "id": "woot:upgrade",
                 "Count": 1b,
                 "Damage": 14s
+            },
+            {
+                "Slot": 17b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:skull",
+                "Count": 1b,
+                "Damage": 5s
             }
         ]
     }
