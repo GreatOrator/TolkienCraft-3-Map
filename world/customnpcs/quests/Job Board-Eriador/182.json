@@ -1,0 +1,78 @@
+{
+    "CompleterNpc": "Castien",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 2,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "The Perfect Tulip II",
+    "Text": "Castien is by the forge in Eriador, east along the Bruinen.
+
+Castien will be delighted to see that you have found a tulip of exquisite beauty.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 10,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 100,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1565219608482L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 27b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:flower",
+                "Count": 1b,
+                "Damage": 6s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Such a beauty! This tulip will do nicely, @p.You have my thanks, of course, and they are most heartfelt!",
+    "NextQuestTitle": ""
+}

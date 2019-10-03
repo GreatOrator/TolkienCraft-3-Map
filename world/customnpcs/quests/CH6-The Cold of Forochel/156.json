@@ -32,7 +32,7 @@ Dreulhara has escaped.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1517786933522L,
+        "TimePast": 1535206508337L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,13 +40,13 @@ Dreulhara has escaped.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 3b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 9b,
                 "Damage": 0s
             }

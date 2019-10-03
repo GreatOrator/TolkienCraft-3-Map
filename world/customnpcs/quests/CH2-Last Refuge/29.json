@@ -29,7 +29,7 @@ Glóin told you that to learn how to access the secret entrance to Gundabad's in
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095552748L,
+        "TimePast": 1566337647153L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,13 +38,21 @@ Glóin told you that to learn how to access the secret entrance to Gundabad's in
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 9b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 1b,
                 "Damage": 0s
             }
@@ -54,17 +62,14 @@ Glóin told you that to learn how to access the secret entrance to Gundabad's in
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcAncientScroll",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Seemingly fragile, surprising they survived so long."
-                        ],
-                        "Name": "§3Fortress Plans"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_fortressmap",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

@@ -1,0 +1,12 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+        ]
+    }
+}

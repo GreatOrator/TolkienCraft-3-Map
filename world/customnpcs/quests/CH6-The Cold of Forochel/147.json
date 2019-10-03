@@ -34,7 +34,7 @@ Having defeated the Knight of Brimigak, you return to Constable Underhill and le
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1517787947426L,
+        "TimePast": 1534612481934L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,13 +42,13 @@ Having defeated the Knight of Brimigak, you return to Constable Underhill and le
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 3b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 11b,
                 "Damage": 0s
             }

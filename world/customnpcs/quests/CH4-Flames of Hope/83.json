@@ -31,7 +31,7 @@ You should return with the key to Layles.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551578919L,
+        "TimePast": 1567119017063L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,17 +44,14 @@ You should return with the key to Layles.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcKey",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Key made by Elssuli from the items you collected"
-                        ],
-                        "Name": "§3Dungeon Key"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_fancykey",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

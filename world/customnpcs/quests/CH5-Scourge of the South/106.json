@@ -34,7 +34,7 @@ As a first step in his plan to renew Cromhes’ spirit, Thurdan has asked you to
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503079423641L,
+        "TimePast": 1567708443506L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,17 +42,14 @@ As a first step in his plan to renew Cromhes’ spirit, Thurdan has asked you to
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcFullWoodenShield",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Item stolen from Cromes while he was held captive"
-                        ],
-                        "Name": "§5Cromhes’ Shield"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_wornshield2",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

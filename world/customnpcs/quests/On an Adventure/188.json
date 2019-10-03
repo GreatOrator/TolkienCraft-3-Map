@@ -1,0 +1,69 @@
+{
+    "CompleterNpc": "Adalbert",
+    "NextQuestId": 189,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Missing Hobbit II",
+    "Text": "Petunia Clayhanger may be lost somewhere in the Old Forest, and Ermengard Clayhanger  told you of the hurons and wolves that might threaten her sister in the wood.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 14,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 10,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 8,
+            "Slot": "Wolf"
+        },
+        {
+            "Value": 8,
+            "Slot": "huron"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1569806997067L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 13b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "You've defeated all of the monsters!",
+    "NextQuestTitle": "Missing Hobbit III"
+}

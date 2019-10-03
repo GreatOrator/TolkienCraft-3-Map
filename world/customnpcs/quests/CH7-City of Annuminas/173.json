@@ -1,0 +1,63 @@
+{
+    "CompleterNpc": "Elrond",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Preparations I",
+    "Text": "Aragorn can be found in the main house and Boromir can be found in one of the guest rooms along the road that winds up the southern slope of the Vale of Imladris.
+
+Elrond has asked that you help your fellow Men, Aragorn son of Arathorn and Boromir of Gondor, prepare to leave on their dangerous -- and secret -- mission.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 150,
+        "OptionFactions1": 10,
+        "OptionFactions2": 8,
+        "OptionFaction1Points": 150,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 509,
+            "Slot": 0
+        },
+        {
+            "Integer": 516,
+            "Slot": 1
+        }
+    ],
+    "ModRev": 18,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1535234231721L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 22b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "Thank you for helping Aragorn and Boromir with their preparations, @p. The fate of all people is bound to the success of the mission they must undertake.",
+    "NextQuestTitle": ""
+}

@@ -36,7 +36,7 @@ Collect Cromhes’ sword from Castien.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503084059462L,
+        "TimePast": 1567633690843L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,17 +44,14 @@ Collect Cromhes’ sword from Castien.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcMithrilSword",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6The smith has done an amazing job on this sword"
-                        ],
-                        "Name": "§5Cromhes’ Sword (Repaired)"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_fancysword",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

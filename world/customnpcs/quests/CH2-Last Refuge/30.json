@@ -30,7 +30,7 @@ Glóin has asked you to retrieve a key-stone from an old dwarf-vault. The key-st
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095550049L,
+        "TimePast": 1566338170631L,
         "Time": 0L,
         "Subject": ""
     },
@@ -39,13 +39,21 @@ Glóin has asked you to retrieve a key-stone from an old dwarf-vault. The key-st
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 42b,
                 "Damage": 0s
             }
@@ -55,17 +63,14 @@ Glóin has asked you to retrieve a key-stone from an old dwarf-vault. The key-st
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "architecturecraft:largePulley",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Almost forgotton, this is the \"Key\" to opening a secret entrance"
-                        ],
-                        "Name": "§3Key-Stone"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_keystone",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

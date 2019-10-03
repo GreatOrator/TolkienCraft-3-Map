@@ -29,7 +29,7 @@ You found the brigand Giles, who stole Thonrum's blade. Unfortunately for him, t
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551607467L,
+        "TimePast": 1563068429357L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,18 +42,14 @@ You found the brigand Giles, who stole Thonrum's blade. Unfortunately for him, t
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tconstruct:wide_guard",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6All that remains of the dwarf-made sword"
-                        ],
-                        "Name": "§5Sword Hilt"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
                     },
-                    "Material": "knightslime"
+                    "customnpcs:itemscripteddata": {
+                    }
                 },
+                "id": "tolkienmobs:item_brokensword",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

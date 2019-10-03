@@ -29,7 +29,7 @@ Elrond transcribed the scroll into Westron, but told you to seek the aid of Dain
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1502981229899L,
+        "TimePast": 1567093397934L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,13 +38,21 @@ Elrond transcribed the scroll into Westron, but told you to seek the aid of Dain
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 23b,
                 "Damage": 0s
             }
@@ -54,17 +62,14 @@ Elrond transcribed the scroll into Westron, but told you to seek the aid of Dain
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcAncientScroll",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6A scroll translated by Elrond with instructions to get into the dungeons of Moria."
-                        ],
-                        "Name": "§5Translated Scroll"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_scroll2",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

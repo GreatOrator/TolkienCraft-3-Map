@@ -9,7 +9,7 @@
     "Title": "Adventure Lads IV",
     "Text": "Merovech Hornwood has asked us to search Fornost for a possible hidden treasure in a maybe hidden chamber in the sewers below.
 
-Search Fornost for possible entrances to the sewers below.",
+Search Fornost for possible entrances to the sewers below. He mentioned off-hand it would be marked by a skull on a tree, near a tower to the west of the entrance.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -30,7 +30,7 @@ Search Fornost for possible entrances to the sewers below.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1527958075278L,
+        "TimePast": 1565224168057L,
         "Time": 0L,
         "Subject": ""
     },

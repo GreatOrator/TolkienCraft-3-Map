@@ -29,7 +29,7 @@ Thurdan, also unable to translate the scroll, sent you to Rivendell to speak wit
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1502981224896L,
+        "TimePast": 1569805923801L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,13 +38,21 @@ Thurdan, also unable to translate the scroll, sent you to Rivendell to speak wit
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 20b,
                 "Damage": 0s
             }
@@ -54,17 +62,14 @@ Thurdan, also unable to translate the scroll, sent you to Rivendell to speak wit
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcAncientScroll",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6A tattered scroll, covered in small runes."
-                        ],
-                        "Name": "§5Ashen Scroll"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_scroll",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

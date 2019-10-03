@@ -1,0 +1,44 @@
+{
+    "CompleterNpc": "Petunia",
+    "NextQuestId": 193,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Missing Hobbit VI",
+    "Text": "Tom Bombadil can be found outside his house in the Old Forest.
+
+Petunia has asked you to go speak to Tom and ask him her questions.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 14,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 10,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1569531105603L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "You have come to the house of Tom Bombadil!",
+    "NextQuestTitle": "Making a New Friend I",
+    "QuestLocation": "Mysterious Glade"
+}

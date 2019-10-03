@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095551053L,
+        "TimePast": 1569440902184L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,18 +40,26 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 11b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 20b,
                 "Damage": 0s
             }
         ]
     },
-    "CompleteText": "The Nazgûl left the dwarf-keep, commanding Dugorim to slay you. Fortunately, you were able to defeat Dugorim, but a fell spirit emerged from his corpse and cursed the Longbeards before vanishing. You should tell Glóin all that has transpired.",
+    "CompleteText": "You saw the Nazgûl was there and ran off? You say a fell spirit left his body as he died?!?!",
     "NextQuestTitle": ""
 }

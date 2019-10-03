@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Secrets of the Watchers I",
-    "Text": "The Watchers are statues that guard the eastern exit from Moria.Manwyn believes that the secret of the Watchers can be revealed by investigating one of the pedestals they rest on. He has instructed you to carefully approach one of the Watchers and take a rubbing of the runes upon it. He warned you to be very careful of the fell and deadly Watchers.",
+    "Text": "The Watchers are statues that guard the eastern exit from Moria.Manwyn believes that the secret of the Watchers can be revealed by investigating one of the pedestals they rest on. He has instructed you to carefully approach one of the Watchers and take a rubbing of the runes upon it. He warned you to be very careful of the fell and deadly Watchers.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551511017L,
+        "TimePast": 1566418217433L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,17 +36,14 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcLetter",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Charcoal rubbing of the runes on the Watchers near Khazad-dûm"
-                        ],
-                        "Name": "§5Statue Rubbing"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_writtenpaper",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

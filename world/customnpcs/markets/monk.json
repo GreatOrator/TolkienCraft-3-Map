@@ -3,50 +3,102 @@
         "NpcMiscInv": [
             {
                 "Slot": 18b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 3b,
                 "Damage": 0s
             },
             {
                 "Slot": 19b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 32b,
                 "Damage": 0s
             },
             {
                 "Slot": 20b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 16b,
                 "Damage": 0s
             },
             {
                 "Slot": 21b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 10b,
                 "Damage": 0s
             },
             {
                 "Slot": 22b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 32b,
                 "Damage": 0s
             },
             {
                 "Slot": 23b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 16b,
                 "Damage": 0s
             },
             {
                 "Slot": 25b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 32b,
                 "Damage": 0s
             },
             {
                 "Slot": 26b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 16b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 28b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 32b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 31b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 32b,
                 "Damage": 0s
             }
         ]
@@ -57,12 +109,20 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "draconicevolution:dislocator",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "draconicevolution:dislocator",
                 "Count": 1b,
                 "tag": {
@@ -82,6 +142,10 @@
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "draconicevolution:dislocator",
                 "Count": 1b,
                 "tag": {
@@ -102,12 +166,20 @@
             },
             {
                 "Slot": 3b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:ender_pearl",
                 "Count": 16b,
                 "Damage": 0s
             },
             {
                 "Slot": 4b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "draconicevolution:dislocator",
                 "Count": 1b,
                 "tag": {
@@ -127,6 +199,10 @@
             },
             {
                 "Slot": 5b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "draconicevolution:dislocator",
                 "Count": 1b,
                 "tag": {
@@ -147,6 +223,10 @@
             },
             {
                 "Slot": 7b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "draconicevolution:dislocator",
                 "Count": 1b,
                 "tag": {
@@ -166,6 +246,10 @@
             },
             {
                 "Slot": 8b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "draconicevolution:dislocator",
                 "Count": 1b,
                 "tag": {
@@ -181,6 +265,54 @@
                     "Dimension": 50,
                     "Yaw": -89.399826f,
                     "DimentionName": "§2Eriador Housing"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 10b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "draconicevolution:dislocator",
+                "Count": 1b,
+                "tag": {
+                    "IsSet": 1b,
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "§6Return to Minas Tirith"
+                    },
+                    "X": 17491.564013694122d,
+                    "Pitch": -0.29996085f,
+                    "Y": 57.0d,
+                    "Z": 13354.943020322053d,
+                    "Dimension": 0,
+                    "Yaw": -91.350464f,
+                    "DimentionName": "overworld"
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "draconicevolution:dislocator",
+                "Count": 1b,
+                "tag": {
+                    "IsSet": 1b,
+                    "RepairCost": 0,
+                    "display": {
+                        "Name": "§6Return to Rohan"
+                    },
+                    "X": 14350.2769421541d,
+                    "Pitch": 1.65004f,
+                    "Y": 50.0d,
+                    "Z": 12644.616719900125d,
+                    "Dimension": 0,
+                    "Yaw": 2.3996341f,
+                    "DimentionName": "overworld"
                 },
                 "Damage": 0s
             }

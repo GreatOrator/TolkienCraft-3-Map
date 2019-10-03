@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1527988725028L,
+        "TimePast": 1539215488420L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,7 +36,7 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:gold_coin",
+                "id": "tolkienmobs:item_coin_gold",
                 "Count": 1b,
                 "Damage": 0s
             }

@@ -1,12 +1,12 @@
 {
-    "CompleterNpc": "Magnus",
+    "CompleterNpc": "Archestratidas",
     "NextQuestId": -1,
     "RandomReward": 1b,
     "QuestRepeat": 2,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "A Cauldron of Iron",
-    "Text": "[NPC] is working to forge an iron cauldron to fill with oil to be used against the forces of The White Hand as they try to maintain peace in [Location]. He has asked you to help collect the [Number] iron ore needed to help forge the cauldron.",
+    "Text": "Archestratidas is working to forge an iron cauldron to fill with oil to be used against the forces of The White Hand as they try to maintain peace in Dale. He has asked you to help collect the 36 iron ore needed to help forge the cauldron.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1500576603756L,
+        "TimePast": 1562863706770L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,42 +36,80 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 31b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 3b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 1s
             },
             {
                 "Slot": 4b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 2s
             },
             {
                 "Slot": 5b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 3s
             },
             {
                 "Slot": 6b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 4s
@@ -80,6 +118,16 @@
     },
     "Items": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:iron_ore",
+                "Count": 36b,
+                "Damage": 0s
+            }
         ]
     },
     "LeaveItems": 0b,

@@ -1,0 +1,54 @@
+{
+    "CompleterNpc": "Pink Tulip",
+    "NextQuestId": 182,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 2,
+    "QuestCompletion": 0,
+    "Title": "The Perfect Tulip I",
+    "Text": "Castien is by the forge in Eriador, east along the Bruinen.
+
+Castien has asked you to bring him a perfect tulip of exquisite beauty. No other kind will do.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1565219467581L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:flower",
+                "Count": 1b,
+                "Damage": 6s
+            }
+        ]
+    },
+    "CompleteText": "Found a perfect lily",
+    "NextQuestTitle": "The Perfect Tulip II",
+    "QuestLocation": "Hunt for the perfect Tulip"
+}

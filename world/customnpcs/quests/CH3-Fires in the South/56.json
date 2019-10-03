@@ -30,7 +30,7 @@ Elrond warned you of a growing evil within Angmar and asked you to speak with Ar
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095571249L,
+        "TimePast": 1569805855945L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,13 +38,21 @@ Elrond warned you of a growing evil within Angmar and asked you to speak with Ar
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 18b,
                 "Damage": 0s
             }

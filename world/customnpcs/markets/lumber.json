@@ -3,162 +3,270 @@
         "NpcMiscInv": [
             {
                 "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:gold_coin",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 4b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 7b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 4b,
                 "Damage": 0s
             },
             {
                 "Slot": 8b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 16b,
                 "Damage": 0s
             },
             {
                 "Slot": 10b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 11b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 14b,
                 "Damage": 0s
             },
             {
                 "Slot": 13b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 14b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 14b,
                 "Damage": 0s
             },
             {
                 "Slot": 16b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 4b,
                 "Damage": 0s
             },
             {
                 "Slot": 17b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 14b,
                 "Damage": 0s
             },
             {
                 "Slot": 18b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 23b,
                 "Damage": 0s
             },
             {
                 "Slot": 19b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:silver_coin",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 20b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:silver_coin",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 21b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 23b,
                 "Damage": 0s
             },
             {
                 "Slot": 22b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:silver_coin",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 24b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 25b,
                 "Damage": 0s
             },
             {
                 "Slot": 25b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:silver_coin",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 27b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 25b,
                 "Damage": 0s
             },
             {
                 "Slot": 28b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:silver_coin",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 29b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:silver_coin",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 30b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 27b,
                 "Damage": 0s
             },
             {
                 "Slot": 31b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:silver_coin",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 32b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:silver_coin",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 33b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:brons_coin",
                 "Count": 29b,
                 "Damage": 0s
             },
             {
                 "Slot": 34b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:silver_coin",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 35b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:silver_coin",
                 "Count": 1b,
                 "Damage": 0s
@@ -171,18 +279,32 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "props:props",
                 "Count": 1b,
                 "Damage": 578s
             },
             {
                 "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "forestry:logs.3",
                 "Count": 64b,
                 "Damage": 2s
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tconstruct:lumberaxe",
                 "Count": 1b,
                 "tag": {
@@ -252,84 +374,130 @@
             },
             {
                 "Slot": 3b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "props:props",
                 "Count": 1b,
                 "Damage": 579s
             },
             {
                 "Slot": 4b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "forestry:logs.0",
                 "Count": 64b,
                 "Damage": 2s
             },
             {
                 "Slot": 6b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "props:props",
                 "Count": 1b,
                 "Damage": 576s
             },
             {
                 "Slot": 7b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "forestry:logs.3",
                 "Count": 64b,
                 "Damage": 0s
             },
             {
                 "Slot": 8b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:coal",
                 "Count": 64b,
                 "Damage": 1s
             },
             {
                 "Slot": 9b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "props:props",
                 "Count": 1b,
                 "Damage": 577s
             },
             {
                 "Slot": 10b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "forestry:logs.fireproof.4",
                 "Count": 64b,
                 "Damage": 0s
             },
             {
                 "Slot": 11b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "forestry:logs.fireproof.1",
                 "Count": 64b,
                 "Damage": 1s
             },
             {
                 "Slot": 12b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "props:props",
                 "Count": 1b,
                 "Damage": 510s
             },
             {
-                "Slot": 13b,
-                "id": "arsmagica2:witchwood_log",
-                "Count": 64b,
-                "Damage": 0s
-            },
-            {
                 "Slot": 14b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "forestry:logs.fireproof.2",
                 "Count": 64b,
                 "Damage": 1s
             },
             {
                 "Slot": 15b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "props:props",
                 "Count": 1b,
                 "Damage": 511s
             },
             {
                 "Slot": 16b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "forestry:logs.5",
                 "Count": 64b,
                 "Damage": 1s
             },
             {
                 "Slot": 17b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "forestry:logs.fireproof.2",
                 "Count": 64b,
                 "Damage": 3s

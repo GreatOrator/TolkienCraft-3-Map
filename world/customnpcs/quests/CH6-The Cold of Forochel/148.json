@@ -38,7 +38,7 @@ Aeschreas the Stout suggested that you might find the Knight of Brimigak in the 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1517677202957L,
+        "TimePast": 1534612481135L,
         "Time": 0L,
         "Subject": ""
     },
@@ -46,13 +46,13 @@ Aeschreas the Stout suggested that you might find the Knight of Brimigak in the 
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 3b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 11b,
                 "Damage": 0s
             }

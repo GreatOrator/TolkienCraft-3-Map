@@ -30,7 +30,7 @@ You have rescued Cromhes, but at a terrible cost, The False King, Brimgak, appea
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525624688095L,
+        "TimePast": 1569805910294L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,13 +38,21 @@ You have rescued Cromhes, but at a terrible cost, The False King, Brimgak, appea
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 12b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 16b,
                 "Damage": 0s
             }

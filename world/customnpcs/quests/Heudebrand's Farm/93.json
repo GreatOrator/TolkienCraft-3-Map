@@ -36,7 +36,7 @@ On behalf of her husband, Aliz Heudebrand has offered you a reward if you would 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551710970L,
+        "TimePast": 1563580980329L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,13 +44,21 @@ On behalf of her husband, Aliz Heudebrand has offered you a reward if you would 
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 11b,
                 "Damage": 0s
             }

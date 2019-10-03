@@ -30,7 +30,7 @@ Rurain has sent you to find and lend aid to the survivors of Cromhes' company wh
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1502981249147L,
+        "TimePast": 1569805898687L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,13 +38,21 @@ Rurain has sent you to find and lend aid to the survivors of Cromhes' company wh
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 18b,
                 "Damage": 0s
             }

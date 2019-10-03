@@ -24,7 +24,8 @@
     "TransformHasAI": 0b,
     "AttackStrenght": 5,
     "PersistenceRequired": 0b,
-    "id": "customnpcs.CustomNpc",
+    "id": "customnpcs:customnpc",
+    "IsStatue": 0b,
     "MovingPatern": 0,
     "NpcLines": {
         "Lines": [
@@ -36,6 +37,25 @@
     "LinkedNpcName": "",
     "NpcScenes": {
         "Scenes": [
+            {
+                "Button": 0,
+                "Ticks": 348,
+                "Enabled": 1b,
+                "Name": "BrimigakBattleD",
+                "Lines": "2 command tellraw @p {\"text\":\"Cromhes: Base coward!\",\"bold\":true}
+5 move tp 13568 15 8914
+8 command tellraw @p {\"text\":\"Nerea Aubertin: Oh, you have done well, young ones!\",\"italic\":true}
+9 command tellraw @p {\"text\":\"Cromhes: Old woman, who are you? What are you doing here?\",\"bold\":true}
+12 command tellraw @p {\"text\":\"Nerea Aubertin: Your questions will be answered in time!\",\"italic\":true}
+15 command tellraw @p {\"text\":\"Nerea Aubertin: But for now, know that you have done me a great favour!\",\"italic\":true}
+18 command tellraw @p {\"text\":\"Nerea Aubertin: A great favour indeed...\",\"italic\":true}
+19 move tp 13564 10 8914
+20 command tellraw @p {\"text\":\"Cromhes: She...She has taken the palantír!\",\"bold\":true}
+22 command tellraw @p {\"text\":\"Cromhes: It is gone and with no way to follow her!\",\"bold\":true}
+26 command tellraw @p {\"text\":\"Cromhes: I fear that we shall hear from that old woman again, and sooner than we would wish it!\",\"bold\":true}
+30 command noppes dialog read @p 373
+"
+            }
         ]
     },
     "HitSound": "minecraft:entity.arrow.hit",
@@ -61,6 +81,10 @@
     "BurnInSun": 0b,
     "StandingState": 1,
     "AttackInvisible": 0b,
+    "NpcInteractNPCLines": {
+        "Lines": [
+        ]
+    },
     "HurtTime": 0s,
     "WalkingRange": 10,
     "ShotCount": 1,
@@ -84,7 +108,6 @@
     "DeathTime": 0s,
     "pImpact": 0,
     "MoveState": 0,
-    "TargetType": 0,
     "pRender3D": 1b,
     "Motion": [
         0.0d,
@@ -107,7 +130,6 @@
         "Lines": [
         ]
     },
-    "SpecialAggroRange": 14,
     "Fire": -1s,
     "ArmorItems": [
         {
@@ -131,32 +153,12 @@
             }
         ]
     },
-    "HurtByTimestamp": 889,
+    "HurtByTimestamp": 3500,
     "pSpin": 0b,
     "NpcHurtSound": "minecraft:entity.player.hurt",
     "pTrail": 0,
     "CreatureType": 0,
     "Attributes": [
-        {
-            "Base": 1.0d,
-            "Name": "am2.burnoutReduction"
-        },
-        {
-            "Base": 1.0d,
-            "Name": "am2.manaRegenModifier"
-        },
-        {
-            "Base": 0.0d,
-            "Name": "am2.maxBurnoutBonus"
-        },
-        {
-            "Base": 0.0d,
-            "Name": "am2.maxManaBonus"
-        },
-        {
-            "Base": 1.0d,
-            "Name": "am2.xpMultiplier"
-        },
         {
             "Base": 2000.0d,
             "Name": "generic.maxHealth"
@@ -178,12 +180,20 @@
             "Name": "generic.armorToughness"
         },
         {
+            "Base": 1.0d,
+            "Name": "forge.swimSpeed"
+        },
+        {
             "Base": 32.0d,
             "Name": "generic.followRange"
         },
         {
             "Base": 5.0d,
             "Name": "generic.attackDamage"
+        },
+        {
+            "Base": 2.5d,
+            "Name": "generic.flyingSpeed"
         }
     ],
     "Invulnerable": 0b,
@@ -198,6 +208,10 @@
     "Weapons": [
         {
             "Slot": 2b,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            },
             "id": "tolkientweaks:palantir",
             "Count": 1b,
             "Damage": 0s
@@ -211,29 +225,26 @@
     "ForgeCaps": {
         "tinkertoolleveling:entityxp": [
         ],
-        "llibrary:ExtendedEntityDataCapability": {
-        },
-        "arsmagica2:ExtendedProp": {
-            "AM2": {
-                "CurrentBurnout": 0.0f,
-                "MarkX": 0.0d,
-                "HealCooldown": 0,
-                "TK_Distance": 8.0f,
-                "Shrunk": 0b,
-                "MarkY": 0.0d,
-                "MarkZ": 0.0d,
-                "FallProtection": 0.0f,
-                "AffinityHealCooldown": 0,
-                "CurrentLevel": 1,
-                "Contingency": {
-                    "Type": "null"
-                },
-                "CurrentSummons": 0,
-                "MarkDimensionId": -512,
-                "CurrentXP": 0.0f,
-                "Inverted": 0b,
-                "ManaShielding": 0.0f,
-                "CurrentMana": 500.85f
+        "llibrary:extendedentitydatacapability": {
+            "Ice And Fire - Player Property Tracker": {
+                "DismountedDragon": 0b,
+                "GauntletDamage": 0
+            },
+            "Ice And Fire - Siren Property Tracker": {
+                "CharmedBySiren": 0b,
+                "SirenID": 0
+            },
+            "Ice And Fire - Frozen Property Tracker": {
+                "TicksUntilUnfrozen": 0,
+                "IsFrozen": 0b
+            },
+            "Ice And Fire - Chain Property Tracker": {
+                "ConnectedEntities": [
+                ]
+            },
+            "Ice And Fire - Stone Property Tracker": {
+                "StoneBreakLvl": 0,
+                "TurnedToStone": 0b
             }
         }
     },
@@ -380,6 +391,10 @@
     "CanLeap": 0b,
     "TransformIsActive": 0b,
     "ForgeData": {
+        "cnpcmarkdata": {
+            "marks": [
+            ]
+        },
         "PlayerPersisted": {
         }
     },
@@ -414,13 +429,14 @@
     "NpcDeathSound": "minecraft:entity.player.hurt",
     "FactionID": 15,
     "Title": "",
-    "TotalTicksAlive": 9396L,
+    "TotalTicksAlive": 64303L,
     "Rotation": [
         290.0f,
         0.0f
     ],
-    "ShowName": 0,
+    "ShowName": 1,
     "npcInteracting": 1b,
+    "UpdateBlocked": 0b,
     "AvoidsWater": 0b,
     "NoLivingAnimation": 0b,
     "SpawnCycle": 3

@@ -1,0 +1,64 @@
+{
+    "CompleterNpc": "Elrond",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Test of Character I",
+    "Text": "Elrond is in the library of his house in Rivendell.
+
+Elrond Halfelven has summoned you to speak with him on some urgent matter.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 150,
+        "OptionFactions1": 10,
+        "OptionFactions2": 8,
+        "OptionFaction1Points": 150,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1568373669379L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 22b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "Welcome, @p. I am pleased to see you well.",
+    "NextQuestTitle": "",
+    "QuestLocation": "Elrond’s Library"
+}

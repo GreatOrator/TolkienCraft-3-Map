@@ -3,234 +3,343 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 11b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 11b,
                 "Damage": 0s
             },
             {
-                "Slot": 33b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "Slot": 4b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
-            },
-            {
-                "Slot": 3b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 13b,
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 11b,
                 "Damage": 0s
             },
             {
-                "Slot": 4b,
-                "id": "tolkientweaks:brons_coin",
+                "Slot": 5b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 11b,
                 "Damage": 0s
             },
             {
                 "Slot": 6b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 12b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 7b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 11b,
                 "Damage": 0s
             },
             {
-                "Slot": 9b,
-                "id": "tolkientweaks:brons_coin",
+                "Slot": 7b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 12b,
                 "Damage": 0s
             },
             {
+                "Slot": 8b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 11b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 10b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 12b,
                 "Damage": 0s
             },
             {
                 "Slot": 12b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 12b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 13b,
                 "Damage": 0s
             },
             {
                 "Slot": 13b,
-                "id": "tolkientweaks:gold_coin",
-                "Count": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 12b,
                 "Damage": 0s
             },
             {
                 "Slot": 15b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 11b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 13b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 17b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 18b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
                 "Slot": 19b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
                 "Slot": 21b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
                 "Slot": 22b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 23b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
                 "Slot": 24b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
                 "Slot": 25b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 26b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
                 "Slot": 27b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
                 "Slot": 28b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 29b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
                 "Slot": 30b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
                 "Slot": 31b,
-                "id": "thermalfoundation:coin",
-                "Count": 3b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 33b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 35b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 3b,
+                "Damage": 0s
             }
         ]
     },
@@ -240,69 +349,173 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "xreliquary:mob_ingredient",
                 "Count": 1b,
-                "Damage": 6s
+                "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "xreliquary:mob_ingredient",
-                "Count": 1b,
-                "Damage": 12s
-            },
-            {
-                "Slot": 3b,
-                "id": "xreliquary:mob_ingredient",
-                "Count": 1b,
-                "Damage": 7s
-            },
-            {
-                "Slot": 4b,
-                "id": "xreliquary:mob_ingredient",
-                "Count": 1b,
-                "Damage": 16s
-            },
-            {
-                "Slot": 6b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "xreliquary:mob_ingredient",
                 "Count": 1b,
                 "Damage": 11s
             },
             {
-                "Slot": 7b,
-                "id": "xreliquary:mob_ingredient",
-                "Count": 1b,
-                "Damage": 3s
-            },
-            {
-                "Slot": 9b,
-                "id": "xreliquary:mob_ingredient",
-                "Count": 1b,
-                "Damage": 8s
-            },
-            {
-                "Slot": 10b,
-                "id": "xreliquary:mob_ingredient",
-                "Count": 1b,
-                "Damage": 4s
-            },
-            {
-                "Slot": 12b,
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "xreliquary:mob_ingredient",
                 "Count": 1b,
                 "Damage": 10s
             },
             {
-                "Slot": 13b,
-                "id": "draconicevolution:draconium_dust",
-                "Count": 9b,
-                "Damage": 0s
+                "Slot": 3b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:mob_ingredient",
+                "Count": 1b,
+                "Damage": 1s
             },
             {
-                "Slot": 15b,
+                "Slot": 4b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:mob_ingredient",
+                "Count": 1b,
+                "Damage": 3s
+            },
+            {
+                "Slot": 5b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "xreliquary:mob_ingredient",
                 "Count": 1b,
                 "Damage": 9s
+            },
+            {
+                "Slot": 6b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:mob_ingredient",
+                "Count": 1b,
+                "Damage": 6s
+            },
+            {
+                "Slot": 7b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:mob_ingredient",
+                "Count": 1b,
+                "Damage": 12s
+            },
+            {
+                "Slot": 8b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:mob_ingredient",
+                "Count": 1b,
+                "Damage": 13s
+            },
+            {
+                "Slot": 9b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:mob_ingredient",
+                "Count": 1b,
+                "Damage": 7s
+            },
+            {
+                "Slot": 10b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:mob_ingredient",
+                "Count": 1b,
+                "Damage": 8s
+            },
+            {
+                "Slot": 11b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:mob_ingredient",
+                "Count": 1b,
+                "Damage": 14s
+            },
+            {
+                "Slot": 12b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:mob_ingredient",
+                "Count": 1b,
+                "Damage": 16s
+            },
+            {
+                "Slot": 13b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:mob_ingredient",
+                "Count": 1b,
+                "Damage": 4s
+            },
+            {
+                "Slot": 15b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:mob_ingredient",
+                "Count": 1b,
+                "Damage": 2s
+            },
+            {
+                "Slot": 16b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "xreliquary:mob_ingredient",
+                "Count": 1b,
+                "Damage": 5s
+            },
+            {
+                "Slot": 17b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "draconicevolution:draconium_dust",
+                "Count": 9b,
+                "Damage": 0s
             }
         ]
     }

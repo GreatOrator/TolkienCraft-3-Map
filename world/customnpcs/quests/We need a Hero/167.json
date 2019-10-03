@@ -29,7 +29,7 @@ Time to show Merovech what you found.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1527975239636L,
+        "TimePast": 1565221041092L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,19 +38,31 @@ Time to show Merovech what you found.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:gold_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 14b,
                 "Damage": 0s
             }
@@ -60,6 +72,10 @@ Time to show Merovech what you found.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:hype_horn",
                 "Count": 1b,
                 "tag": {

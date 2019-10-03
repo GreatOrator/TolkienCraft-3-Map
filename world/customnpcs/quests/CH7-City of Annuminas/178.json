@@ -1,0 +1,69 @@
+{
+    "CompleterNpc": "Boromir",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Preparations - Boromir II",
+    "Text": "Aragorn can be found in the main house and Boromir can be found in one of the guest rooms along the road that winds up the southern slope of the Vale of Imladris.
+
+The guards at the southern entrance to the Vale of Imladris are atop the road that winds up the southern slope from the guest rooms.
+
+Boromir has asked you to see if the guards at the southern entrance to the Vale of Imladris require the strength of his arm in the valley's defence.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 150,
+        "OptionFactions1": 10,
+        "OptionFactions2": 8,
+        "OptionFaction1Points": 150,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 514,
+            "Slot": 0
+        }
+    ],
+    "ModRev": 18,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1568373655835L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 22b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "What did you say, @p? The Elves have turned down my offer of aid?",
+    "NextQuestTitle": ""
+}

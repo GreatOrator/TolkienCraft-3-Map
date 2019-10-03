@@ -32,7 +32,7 @@ Reclaim Cromhes’ sword and shield from Pelleas in Mitheithel.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503078846367L,
+        "TimePast": 1569985943258L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,32 +40,26 @@ Reclaim Cromhes’ sword and shield from Pelleas in Mitheithel.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcRapier",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Item stolen from Cromes while he was held captive"
-                        ],
-                        "Name": "§5Cromhes’ Sword"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_wornsword",
+                "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "customnpcs:npcFullBronzeShield",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6This shield hails from an unknown origin though it belongs to Cromhes"
-                        ],
-                        "Name": "§5Cromhes’ Shield (Repaired)"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_fancyshield2",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

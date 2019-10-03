@@ -17,7 +17,7 @@
         "DecreaseFaction2Points": 0b
     },
     "RewardExp": 0,
-    "QuestCommand": "",
+    "QuestCommand": "noppes scene start Rescued",
     "ModRev": 18,
     "Type": 3,
     "QuestMail": {
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1495205777237L,
+        "TimePast": 1565316484944L,
         "Time": 0L,
         "Subject": ""
     },

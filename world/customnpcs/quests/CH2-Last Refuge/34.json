@@ -31,7 +31,7 @@ Near one of the entrances to Carn Dûm you encountered wights. You should defeat
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095553700L,
+        "TimePast": 1569805934975L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,13 +40,21 @@ Near one of the entrances to Carn Dûm you encountered wights. You should defeat
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 42b,
                 "Damage": 0s
             }
@@ -56,17 +64,12 @@ Near one of the entrances to Carn Dûm you encountered wights. You should defeat
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcSkull",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Dark symbol dropped by a minion."
-                        ],
-                        "Name": "§5Dark Sigil"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_darksigil",
+                "Count": 12b,
                 "Damage": 0s
             }
         ]

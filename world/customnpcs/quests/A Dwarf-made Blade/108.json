@@ -34,7 +34,7 @@ Lucious Warrer seemed a bit nervous, you should go back and talk to him again.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551588867L,
+        "TimePast": 1563068458023L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,7 +42,11 @@ Lucious Warrer seemed a bit nervous, you should go back and talk to him again.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 5b,
                 "Damage": 0s
             }

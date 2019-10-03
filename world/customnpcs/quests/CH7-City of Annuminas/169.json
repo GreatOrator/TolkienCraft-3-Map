@@ -1,0 +1,60 @@
+{
+    "CompleterNpc": "Talacnun",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Hero of Middle-earth II",
+    "Text": "Talacnun is at the Ranger-camp at Arnor on the eastern shore of the lake near Annuminas.
+
+Thurdan has written a letter to Talacnun explaining the threat Dreulhara poses. He has asked you deliver it to Talacnun.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 150,
+        "OptionFactions1": 8,
+        "OptionFactions2": 10,
+        "OptionFaction1Points": 150,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1568373401786L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_letter",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Thurdan has written his thoughts down in a letter? Very well, let me see it...",
+    "NextQuestTitle": ""
+}

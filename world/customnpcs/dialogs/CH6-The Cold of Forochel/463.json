@@ -23,13 +23,18 @@
             }
         }
     ],
+    "AvailabilityScoreboardType": 0,
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
+    "AvailabilityScoreboard2Value": 0,
+    "DialogId": 463,
     "AvailabilityQuest": 1,
     "AvailabilityDialog4": 0,
+    "AvailabilityScoreboardObjective": "",
     "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 2,
     "AvailabilityQuest3": 0,
+    "AvailabilityScoreboard2Objective": "",
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
@@ -40,10 +45,12 @@
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
     "OptionFaction1Points": 100,
+    "AvailabilityScoreboardValue": 0,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "Dreulhara’s Hope I",
     "AvailabilityDialog": 0,
+    "AvailabilityScoreboard2Type": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
@@ -69,7 +76,7 @@ The Angmarim presence in Annúminas is most disturbing, and hearing the news you
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1517710671227L,
+        "TimePast": 1569986634490L,
         "Time": 0L,
         "Subject": ""
     }

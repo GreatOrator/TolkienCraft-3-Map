@@ -29,7 +29,7 @@ Guthwine felt he could repair Cromhes' shirt, but the sword and shield were beyo
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503078840166L,
+        "TimePast": 1567632369609L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,32 +42,26 @@ Guthwine felt he could repair Cromhes' shirt, but the sword and shield were beyo
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcRapier",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Item stolen from Cromes while he was held captive"
-                        ],
-                        "Name": "§5Cromhes’ Sword"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_wornsword",
+                "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "customnpcs:npcFullWoodenShield",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Item stolen from Cromes while he was held captive"
-                        ],
-                        "Name": "§5Cromhes’ Shield"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_wornshield2",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

@@ -1,0 +1,58 @@
+{
+    "CompleterNpc": "Gareld",
+    "NextQuestId": 186,
+    "RandomReward": 0b,
+    "QuestRepeat": 2,
+    "QuestCompletion": 1,
+    "IgnoreNBT": 0b,
+    "Title": "Hag Hops I",
+    "Text": "Hag Hops grow in the marsh east of Rohan. The Ancient Diviner is in Rohan, west of the Nindalf.
+
+Tolhe has asked you to pick some Hag Hops for his famous beer.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1556819513603L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_specialflower",
+                "Count": 12b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 1b,
+    "CompleteText": "You've collected all the hops he needed!",
+    "NextQuestTitle": "Hag Hops II"
+}

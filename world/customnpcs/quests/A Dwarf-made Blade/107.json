@@ -32,7 +32,7 @@ Thonrum has told you that he thinks his latest blade was stolen by one of the Ma
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551588021L,
+        "TimePast": 1563068453457L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,7 +40,11 @@ Thonrum has told you that he thinks his latest blade was stolen by one of the Ma
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 15b,
                 "Damage": 0s
             }

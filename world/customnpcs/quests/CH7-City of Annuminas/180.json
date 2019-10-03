@@ -1,0 +1,62 @@
+{
+    "CompleterNpc": "Elrond",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "The Fellowship Departs II",
+    "Text": "Elrond is in the library of his house.
+
+You have seen the Company off on their secret errand and should now speak with Elrond.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 1500,
+        "OptionFactions1": 10,
+        "OptionFactions2": 8,
+        "OptionFaction1Points": 1500,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 150,
+    "QuestCommand": "/noppes scene reset ElrondBye",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1535236869718L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 42b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "All our hopes now rest upon the nine members of the company: Nine Walkers to stand against the Nine Riders of the Enemy. May they come to no harm and return in safety, their task completed.",
+    "NextQuestTitle": "",
+    "QuestLocation": "Elrond’s Library"
+}

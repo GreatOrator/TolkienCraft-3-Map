@@ -4,7 +4,6 @@
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 1,
-    "IgnoreNBT": 0b,
     "Title": "Ancient Evil I",
     "Text": "The Great Barrow is beneath the barrow near the camp you met Falsir. The first key fragment is guarded by two wights in the Great Barrow maze. The second key fragment is held by a Gaunt-lord elsewhere in the Great Barrow. Falsir will be waiting at the camp for your return.
 
@@ -19,8 +18,22 @@ Falsir has asked you to find two fragments of a key that opens the way into the 
     },
     "RewardExp": 0,
     "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 1,
+            "Slot": "Burhat"
+        },
+        {
+            "Value": 1,
+            "Slot": "Ranler"
+        },
+        {
+            "Value": 1,
+            "Slot": "Tahrub"
+        }
+    ],
     "ModRev": 18,
-    "Type": 0,
+    "Type": 4,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -29,32 +42,14 @@ Falsir has asked you to find two fragments of a key that opens the way into the 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501727568452L,
+        "TimePast": 1563495996645L,
         "Time": 0L,
         "Subject": ""
     },
-    "IgnoreDamage": 1b,
     "Rewards": {
         "NpcMiscInv": [
         ]
     },
-    "Items": {
-        "NpcMiscInv": [
-            {
-                "Slot": 0b,
-                "id": "customnpcs:npcKey",
-                "Count": 2b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Name": "Key Fragment"
-                    }
-                },
-                "Damage": 0s
-            }
-        ]
-    },
-    "LeaveItems": 1b,
     "CompleteText": "Return to Falsir with the key fragments",
     "NextQuestTitle": "Ancient Evil II"
 }

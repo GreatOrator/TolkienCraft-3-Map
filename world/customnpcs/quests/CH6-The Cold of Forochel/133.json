@@ -30,7 +30,7 @@ Cromhes is at Mitheithel in Eriador, far to the south of Rivendell.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1517587544730L,
+        "TimePast": 1534612495090L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,13 +38,13 @@ Cromhes is at Mitheithel in Eriador, far to the south of Rivendell.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 5b,
                 "Damage": 0s
             }

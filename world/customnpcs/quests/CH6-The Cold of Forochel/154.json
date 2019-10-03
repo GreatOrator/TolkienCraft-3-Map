@@ -32,7 +32,7 @@ Find and stop Dreulhara.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1517788164423L,
+        "TimePast": 1535206500986L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,13 +40,13 @@ Find and stop Dreulhara.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 18b,
                 "Damage": 0s
             }

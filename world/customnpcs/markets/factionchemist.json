@@ -2,115 +2,194 @@
     "TraderCurrency": {
         "NpcMiscInv": [
             {
-                "Slot": 2b,
-                "id": "tolkientweaks:silver_coin",
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 10b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 10b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 20b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 18b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 19b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
-            },
-            {
-                "Slot": 20b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 5b,
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 1b,
                 "Damage": 0s
             },
             {
-                "Slot": 5b,
-                "id": "tolkientweaks:silver_coin",
-                "Count": 2b,
+                "Slot": 20b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 22b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
-            },
-            {
-                "Slot": 23b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 10b,
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 1b,
                 "Damage": 0s
             },
             {
-                "Slot": 8b,
-                "id": "tolkientweaks:silver_coin",
-                "Count": 4b,
+                "Slot": 23b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 25b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
-            },
-            {
-                "Slot": 26b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 20b,
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 28b,
-                "id": "thermalfoundation:coin",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 1b,
+                "Damage": 0s
             },
             {
                 "Slot": 29b,
-                "id": "thermalfoundation:coin",
-                "Count": 3b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Use this at certain faction sellers to purchase powerful items."
-                        ],
-                        "Name": "§3Faction Coin"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 70s
+                "id": "tolkienmobs:item_coin2",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 30b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 32b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 33b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
             }
         ]
     },
@@ -119,52 +198,236 @@
     "TraderSold": {
         "NpcMiscInv": [
             {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:itemrockcrystalsimple",
+                "Count": 1b,
+                "tag": {
+                    "astralsorcery": {
+                        "crystalProperties": {
+                            "collectiveCapability": 100,
+                            "size": 400,
+                            "fract": 0,
+                            "purity": 100,
+                            "sizeOverride": -1
+                        }
+                    }
+                },
+                "Damage": 0s
+            },
+            {
                 "Slot": 1b,
-                "id": "arsmagica2:item_ore",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:blockcustomore",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
-                "id": "arsmagica2:infinity_orb",
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:blockcollectorcrystal",
                 "Count": 1b,
+                "tag": {
+                    "astralsorcery": {
+                        "constellationName": "astralsorcery.constellation.discidia",
+                        "crystalProperties": {
+                            "collectiveCapability": 100,
+                            "size": 400,
+                            "fract": 0,
+                            "purity": 100,
+                            "sizeOverride": -1
+                        },
+                        "collectorType": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:itemcelestialcrystal",
+                "Count": 1b,
+                "tag": {
+                    "astralsorcery": {
+                        "crystalProperties": {
+                            "collectiveCapability": 100,
+                            "size": 900,
+                            "fract": 0,
+                            "purity": 100,
+                            "sizeOverride": -1
+                        }
+                    }
+                },
                 "Damage": 0s
             },
             {
                 "Slot": 4b,
-                "id": "arsmagica2:item_ore",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:blockcustomore",
                 "Count": 1b,
                 "Damage": 1s
             },
             {
                 "Slot": 5b,
-                "id": "arsmagica2:infinity_orb",
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:blockcelestialcollectorcrystal",
                 "Count": 1b,
-                "Damage": 1s
+                "tag": {
+                    "astralsorcery": {
+                        "constellationName": "astralsorcery.constellation.discidia",
+                        "crystalProperties": {
+                            "collectiveCapability": 100,
+                            "size": 900,
+                            "fract": 0,
+                            "purity": 100,
+                            "sizeOverride": -1
+                        },
+                        "collectorType": 1
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:itemshiftingstar",
+                "Count": 1b,
+                "tag": {
+                    "astralsorcery": {
+                    }
+                },
+                "Damage": 0s
             },
             {
                 "Slot": 7b,
-                "id": "arsmagica2:item_ore",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:blockcustomsandore",
                 "Count": 1b,
-                "Damage": 7s
-            },
-            {
-                "Slot": 8b,
-                "id": "arsmagica2:infinity_orb",
-                "Count": 1b,
-                "Damage": 2s
+                "Damage": 0s
             },
             {
                 "Slot": 10b,
-                "id": "arsmagica2:item_ore",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:itemcraftingcomponent",
                 "Count": 1b,
-                "Damage": 6s
+                "Damage": 3s
             },
             {
                 "Slot": 11b,
-                "id": "arsmagica2:mana_potion_bundle",
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:blockcollectorcrystal",
                 "Count": 1b,
-                "Damage": 1027s
+                "tag": {
+                    "astralsorcery": {
+                        "constellationName": "astralsorcery.constellation.horologium",
+                        "crystalProperties": {
+                            "collectiveCapability": 100,
+                            "size": 400,
+                            "fract": 0,
+                            "purity": 100,
+                            "sizeOverride": -1
+                        },
+                        "collectorType": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:itemusabledust",
+                "Count": 10b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:blockcelestialcollectorcrystal",
+                "Count": 1b,
+                "tag": {
+                    "astralsorcery": {
+                        "constellationName": "astralsorcery.constellation.horologium",
+                        "crystalProperties": {
+                            "collectiveCapability": 100,
+                            "size": 900,
+                            "fract": 0,
+                            "purity": 100,
+                            "sizeOverride": -1
+                        },
+                        "collectorType": 1
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 15b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:itemusabledust",
+                "Count": 10b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 16b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:itemcraftingcomponent",
+                "Count": 10b,
+                "Damage": 4s
             }
         ]
     }

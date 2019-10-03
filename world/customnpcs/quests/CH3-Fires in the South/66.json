@@ -34,7 +34,7 @@ Manwyn has sent you to Dol Guldur to wrest a stone-heart from a sorcerer of Angm
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095565103L,
+        "TimePast": 1569447193934L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,17 +42,14 @@ Manwyn has sent you to Dol Guldur to wrest a stone-heart from a sorcerer of Angm
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:palantir_shard",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6This heart has a disturbing and fearful energy."
-                        ],
-                        "Name": "§5Stone-heart"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_watcherheart",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

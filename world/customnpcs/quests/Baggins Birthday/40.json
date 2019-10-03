@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551624766L,
+        "TimePast": 1563469055537L,
         "Time": 0L,
         "Subject": ""
     },
@@ -35,20 +35,22 @@
     "Rewards": {
         "NpcMiscInv": [
             {
-                "Slot": 0b,
-                "id": "arsmagica2:lectern",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
                 "Slot": 1b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 34b,
                 "Damage": 0s
             }
@@ -58,17 +60,14 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "minecraft:book",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§5Gift Created by Gaffer Gamgee for Bilbo's Birthday"
-                        ],
-                        "Name": "§6Bilbo's Story"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_storybook2",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

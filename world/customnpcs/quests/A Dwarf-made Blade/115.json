@@ -7,9 +7,9 @@
     "Title": "A Sword for a Life II",
     "Text": "Threatened by Giles, a lackey of a brigand named Pierce, that he must provide him a sword or his family would be harmed, Lucious Warrer stole Thonrum's blade.
 
-Thonrum Ironsword has agreed to forge a new blade for Lucious Warrer, but in exchange, Thonrum has given you three items to take to Lucious for him to repair. The dwarf said that if he likes Lucious’ work, he will call it even on the cost of the two swords he is having to make.
+Thonrum urged you to go to Pierce's brigand camp and try to convince the brigand-captain not to harm Lucious' daughter.
 
-Thonrum urged you to go to Pierce's brigand camp and try to convince the brigand-captain not to harm Lucious' daughter.",
+The camp is somewhere to the north-west of Dale.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -22,12 +22,12 @@ Thonrum urged you to go to Pierce's brigand camp and try to convince the brigand
     "QuestCommand": "",
     "QuestDialogs": [
         {
-            "Value": 4,
-            "Slot": "Brigand"
-        },
-        {
             "Value": 1,
             "Slot": "Pierce"
+        },
+        {
+            "Value": 10,
+            "Slot": "tmbrigand"
         }
     ],
     "ModRev": 18,
@@ -40,7 +40,7 @@ Thonrum urged you to go to Pierce's brigand camp and try to convince the brigand
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1501551590817L,
+        "TimePast": 1563070791118L,
         "Time": 0L,
         "Subject": ""
     },
@@ -48,7 +48,11 @@ Thonrum urged you to go to Pierce's brigand camp and try to convince the brigand
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 36b,
                 "Damage": 0s
             }

@@ -31,7 +31,7 @@ Elrond instructed you to take Cromhes’ sword to his chief smith, Castien, to b
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503078868016L,
+        "TimePast": 1567633067173L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,17 +44,14 @@ Elrond instructed you to take Cromhes’ sword to his chief smith, Castien, to b
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcRapier",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Item stolen from Cromes while he was held captive"
-                        ],
-                        "Name": "§5Cromhes’ Sword"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_wornsword",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

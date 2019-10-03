@@ -365,7 +365,7 @@
     "NpcDeathSound": "minecraft:entity.player.hurt",
     "FactionID": 15,
     "Title": "Lich King",
-    "TotalTicksAlive": 44482L,
+    "TotalTicksAlive": 44388L,
     "Rotation": [
         -185.87411f,
         0.0f

@@ -32,7 +32,7 @@ Your allies may be found in Hoarwell in the Lone-lands, Mitheithel in the South 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1517678622998L,
+        "TimePast": 1569986448229L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,13 +40,21 @@ Your allies may be found in Hoarwell in the Lone-lands, Mitheithel in the South 
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 6b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 21b,
                 "Damage": 0s
             }

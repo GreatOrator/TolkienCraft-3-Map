@@ -29,7 +29,7 @@ You should return to Guthwine to collect Cromhes’ shirt to see if he has any t
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503078854769L,
+        "TimePast": 1567632524665L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,17 +38,14 @@ You should return to Guthwine to collect Cromhes’ shirt to see if he has any t
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcMithrilChest",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6After repairs Cromhes' armor looks amazing"
-                        ],
-                        "Name": "§5Cromhes’ Armor (Repaired)"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_fancyarmor",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]
@@ -57,32 +54,26 @@ You should return to Guthwine to collect Cromhes’ shirt to see if he has any t
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcRapier",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Item stolen from Cromes while he was held captive"
-                        ],
-                        "Name": "§5Cromhes’ Sword"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_wornsword",
+                "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "customnpcs:npcFullBronzeShield",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6This shield hails from an unknown origin though it belongs to Cromhes"
-                        ],
-                        "Name": "§5Cromhes’ Shield (Repaired)"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_fancyshield2",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

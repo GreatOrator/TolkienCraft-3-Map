@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095564503L,
+        "TimePast": 1569805832427L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,13 +36,21 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 51b,
                 "Damage": 0s
             }
@@ -52,17 +60,14 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "customnpcs:npcLetter",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Charcoal rubbing of the runes on the Watchers near Khazad-dûm"
-                        ],
-                        "Name": "§5Statue Rubbing"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_writtenpaper",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]

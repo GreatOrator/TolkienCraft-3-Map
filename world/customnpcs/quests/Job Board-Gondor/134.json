@@ -31,7 +31,7 @@ Mathena has asked for your help in crafting the traditional tribute baskets wove
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1506621380676L,
+        "TimePast": 1557358022120L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,13 +40,21 @@ Mathena has asked for your help in crafting the traditional tribute baskets wove
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 10b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 9b,
                 "Damage": 0s
             }
@@ -56,36 +64,30 @@ Mathena has asked for your help in crafting the traditional tribute baskets wove
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "props:props",
-                "Count": 3b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Baskets woven to pay tribute"
-                        ],
-                        "Name": "§2Woven Basket"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 30s
+                "id": "tolkienmobs:item_wovenbasket",
+                "Count": 3b,
+                "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "tconstruct:materials",
-                "Count": 3b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6Finely woven cloth for decoration"
-                        ],
-                        "Name": "§2Fine Cloth"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
-                "Damage": 15s
+                "id": "tolkienmobs:item_fancycloth",
+                "Count": 3b,
+                "Damage": 0s
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "minecraft:reeds",
                 "Count": 3b,
                 "Damage": 0s

@@ -29,7 +29,7 @@ Elladan is waiting to hear what Glorfindel's beryl revealed: that the missing Na
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525626306158L,
+        "TimePast": 1565806735546L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,18 +38,36 @@ Elladan is waiting to hear what Glorfindel's beryl revealed: that the missing Na
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 1s
             },
             {
                 "Slot": 1b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 2s
             },
             {
                 "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "lootbags:itemlootbag",
                 "Count": 1b,
                 "Damage": 3s
@@ -60,34 +78,25 @@ Elladan is waiting to hear what Glorfindel's beryl revealed: that the missing Na
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:west_token",
-                "Count": 3b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§eProof of killing the troll."
-                        ],
-                        "Name": "§3Cave completion Token"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_cavecomplete",
+                "Count": 3b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
-                "id": "arsmagica2:item_ore",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§eMagical gem loaned to you to help on your search"
-                        ],
-                        "Name": "§3Glorfindel's Beryl"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
                     },
-                    "CUSTOM": 1b
+                    "customnpcs:itemscripteddata": {
+                    }
                 },
-                "Damage": 2s
+                "id": "tolkienmobs:item_beryl",
+                "Count": 1b,
+                "Damage": 0s
             }
         ]
     },

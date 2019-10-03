@@ -3,50 +3,82 @@
         "NpcMiscInv": [
             {
                 "Slot": 18b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 18b,
                 "Damage": 0s
             },
             {
                 "Slot": 20b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 3b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 6b,
                 "Damage": 0s
             },
             {
                 "Slot": 21b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 35b,
                 "Damage": 0s
             },
             {
                 "Slot": 23b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 7b,
                 "Damage": 0s
             },
             {
                 "Slot": 24b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 26b,
-                "id": "tolkientweaks:brons_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 27b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkientweaks:silver_coin",
                 "Count": 5b,
                 "Damage": 0s
             },
             {
                 "Slot": 29b,
-                "id": "tolkientweaks:brons_coin",
-                "Count": 3b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 20b,
                 "Damage": 0s
             }
         ]
@@ -57,50 +89,89 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "embers:shardEmber",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "embers:crystal_ember",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 2b,
-                "id": "embers:itemPipe",
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "embers:glimmer_shard",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 3b,
-                "id": "embers:crystalEmber",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "embers:ember_cluster",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 5b,
-                "id": "embers:itemPump",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "embers:ancient_motive_core",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 6b,
-                "id": "embers:blendCaminite",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "embers:shard_ember",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 8b,
-                "id": "embers:emberGauge",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "embers:archaic_brick",
                 "Count": 1b,
                 "Damage": 0s
             },
             {
                 "Slot": 9b,
-                "id": "embers:nuggetDawnstone",
-                "Count": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "embers:ingot_dawnstone",
+                "Count": 12b,
                 "Damage": 0s
             },
             {
                 "Slot": 11b,
-                "id": "embers:itemGauge",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:spawn_egg",
                 "Count": 1b,
+                "tag": {
+                    "EntityTag": {
+                        "id": "embers:ancient_golem"
+                    }
+                },
                 "Damage": 0s
             }
         ]

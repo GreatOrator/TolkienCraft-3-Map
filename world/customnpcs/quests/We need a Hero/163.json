@@ -30,7 +30,7 @@ Merovech Hornwood resides in Brandy Hall at Bucklebury to the north-west of Bree
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1527947488510L,
+        "TimePast": 1565221018541L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,7 +38,11 @@ Merovech Hornwood resides in Brandy Hall at Bucklebury to the north-west of Bree
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
                 "Count": 1b,
                 "Damage": 0s
             }

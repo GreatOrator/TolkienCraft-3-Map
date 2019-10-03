@@ -29,7 +29,7 @@ You should return to Manwyn with the stone-heart that you discovered.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095562553L,
+        "TimePast": 1566418398487L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,17 +38,12 @@ You should return to Manwyn with the stone-heart that you discovered.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:silver_coin",
-                "Count": 6b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 1b,
-                "id": "bloodmagic:ItemUpgradeTrainer",
-                "Count": 1b,
-                "tag": {
-                    "key": "BloodMagic.upgrade.quenched"
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
                 },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 6b,
                 "Damage": 0s
             }
         ]
@@ -57,17 +52,14 @@ You should return to Manwyn with the stone-heart that you discovered.",
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "tolkientweaks:palantir_shard",
-                "Count": 1b,
-                "tag": {
-                    "RepairCost": 0,
-                    "display": {
-                        "Lore": [
-                            "§6This heart looks like it has seen better days"
-                        ],
-                        "Name": "§dWatcher Heart"
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
                     }
                 },
+                "id": "tolkienmobs:item_watcherheart_cracked",
+                "Count": 1b,
                 "Damage": 0s
             }
         ]
