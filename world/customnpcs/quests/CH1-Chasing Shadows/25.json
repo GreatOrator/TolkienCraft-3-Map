@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1503095534100L,
+        "TimePast": 1570231397194L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,33 +36,23 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkienmobs:item_coin_silver",
                 "Count": 2b,
                 "Damage": 0s
             },
             {
                 "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
                 "id": "tolkienmobs:item_coin_bronze",
                 "Count": 20b,
                 "Damage": 0s
-            },
-            {
-                "Slot": 2b,
-                "id": "thut_bling:bling",
-                "Count": 1b,
-                "tag": {
-                    "ench": [
-                        {
-                            "lvl": 2s,
-                            "id": 0s
-                        }
-                    ],
-                    "RepairCost": 1,
-                    "display": {
-                        "Name": "§5Freldrin"
-                    }
-                },
-                "Damage": 2s
             }
         ]
     },

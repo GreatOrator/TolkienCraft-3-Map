@@ -32,6 +32,16 @@
                 "Damage": 0s
             },
             {
+                "Slot": 9b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 20b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 10b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
@@ -42,13 +52,23 @@
                 "Damage": 0s
             },
             {
+                "Slot": 13b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 11b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 16b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
                     }
                 },
-                "id": "tolkienmobs:item_coin_bronze",
-                "Count": 20b,
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 11b,
                 "Damage": 0s
             },
             {
@@ -132,6 +152,16 @@
                 "Damage": 0s
             },
             {
+                "Slot": 27b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 28b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
@@ -162,6 +192,16 @@
                 "Damage": 0s
             },
             {
+                "Slot": 31b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 7b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 32b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
@@ -187,8 +227,8 @@
                     "customnpcs:itemscripteddata": {
                     }
                 },
-                "id": "tolkienmobs:item_coin_silver",
-                "Count": 4b,
+                "id": "tolkienmobs:item_coin2",
+                "Count": 7b,
                 "Damage": 0s
             }
         ]
@@ -340,6 +380,16 @@
                 "Damage": 0s
             },
             {
+                "Slot": 9b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "astralsorcery:itemcraftingcomponent",
+                "Count": 10b,
+                "Damage": 4s
+            },
+            {
                 "Slot": 10b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
@@ -385,6 +435,115 @@
                 "Damage": 0s
             },
             {
+                "Slot": 13b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tconstruct:shortbow",
+                "Count": 1b,
+                "tag": {
+                    "StatsOriginal": {
+                        "AttackSpeedMultiplier": 1.0f,
+                        "MiningSpeed": 5.75f,
+                        "DrawSpeed": 0.55f,
+                        "FreeModifiers": 3,
+                        "ProjectileBonusDamage": 2.5f,
+                        "Durability": 885,
+                        "HarvestLevel": 4,
+                        "Attack": 10.0f,
+                        "Range": 1.7f
+                    },
+                    "Stats": {
+                        "AttackSpeedMultiplier": 1.0f,
+                        "MiningSpeed": 5.75f,
+                        "DrawSpeed": 0.71500003f,
+                        "FreeModifiers": 0,
+                        "ProjectileBonusDamage": 2.5f,
+                        "Durability": 885,
+                        "HarvestLevel": 4,
+                        "Attack": 10.0f,
+                        "Range": 1.7f
+                    },
+                    "Special": {
+                        "Categories": [
+                            "tool",
+                            "launcher"
+                        ]
+                    },
+                    "TinkerData": {
+                        "UsedModifiers": 6,
+                        "Materials": [
+                            "netherrack",
+                            "dragonsteel_ice",
+                            "vine"
+                        ],
+                        "Modifiers": [
+                            "toolleveling",
+                            "haste",
+                            "creative",
+                            "mending_moss"
+                        ]
+                    },
+                    "Modifiers": [
+                        {
+                            "identifier": "hellish",
+                            "color": -4698289,
+                            "level": 1
+                        },
+                        {
+                            "identifier": "aridiculous",
+                            "color": -4698289,
+                            "level": 1
+                        },
+                        {
+                            "identifier": "sharp",
+                            "color": -4463363,
+                            "level": 1
+                        },
+                        {
+                            "identifier": "frost2",
+                            "color": -4463363,
+                            "level": 1
+                        },
+                        {
+                            "identifier": "toolleveling",
+                            "color": 16777215,
+                            "level": 1
+                        },
+                        {
+                            "identifier": "haste",
+                            "current": 150,
+                            "color": 9502720,
+                            "level": 3,
+                            "max": 150,
+                            "extraInfo": "149 / 150"
+                        },
+                        {
+                            "identifier": "creative",
+                            "color": 0,
+                            "level": 3
+                        },
+                        {
+                            "identifier": "mending_moss",
+                            "color": 4434738,
+                            "level": 3
+                        }
+                    ],
+                    "Traits": [
+                        "hellish",
+                        "aridiculous",
+                        "sharp",
+                        "frost2",
+                        "toolleveling",
+                        "mending_moss"
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
                 "Slot": 14b,
                 "ForgeCaps": {
                     "astralsorcery:cap_item_amulet_holder": {
@@ -422,12 +581,117 @@
             {
                 "Slot": 16b,
                 "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
                     "customnpcs:itemscripteddata": {
                     }
                 },
-                "id": "astralsorcery:itemcraftingcomponent",
-                "Count": 10b,
-                "Damage": 4s
+                "id": "tconstruct:lumberaxe",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3s,
+                            "id": 35s
+                        }
+                    ],
+                    "StatsOriginal": {
+                        "AttackSpeedMultiplier": 1.0f,
+                        "MiningSpeed": 5.25f,
+                        "FreeModifiers": 3,
+                        "Durability": 2150,
+                        "HarvestLevel": 4,
+                        "Attack": 12.3f
+                    },
+                    "Stats": {
+                        "AttackSpeedMultiplier": 1.0f,
+                        "MiningSpeed": 22.113016f,
+                        "FreeModifiers": 3,
+                        "Durability": 2150,
+                        "HarvestLevel": 4,
+                        "Attack": 12.3f
+                    },
+                    "Special": {
+                        "Categories": [
+                            "tool",
+                            "harvest",
+                            "aoe"
+                        ]
+                    },
+                    "TinkerData": {
+                        "UsedModifiers": 4,
+                        "Materials": [
+                            "endstone",
+                            "dragonsteel_ice",
+                            "ardite",
+                            "treatedwood"
+                        ],
+                        "Modifiers": [
+                            "toolleveling",
+                            "haste",
+                            "creative",
+                            "luck"
+                        ]
+                    },
+                    "Modifiers": [
+                        {
+                            "identifier": "enderference",
+                            "color": -2041712,
+                            "level": 1
+                        },
+                        {
+                            "identifier": "frost2",
+                            "color": -4463363,
+                            "level": 1
+                        },
+                        {
+                            "identifier": "stonebound",
+                            "color": -3063280,
+                            "level": 1
+                        },
+                        {
+                            "identifier": "ecological",
+                            "color": -10144478,
+                            "level": 1
+                        },
+                        {
+                            "identifier": "toolleveling",
+                            "color": 16777215,
+                            "level": 1
+                        },
+                        {
+                            "identifier": "haste",
+                            "current": 150,
+                            "color": 9502720,
+                            "level": 3,
+                            "max": 150,
+                            "extraInfo": "149 / 150"
+                        },
+                        {
+                            "identifier": "creative",
+                            "color": 0,
+                            "level": 4
+                        },
+                        {
+                            "identifier": "luck",
+                            "current": 360,
+                            "color": 2970082,
+                            "level": 3,
+                            "max": 360,
+                            "modifierUsed": 1b,
+                            "extraInfo": "359 / 360"
+                        }
+                    ],
+                    "Traits": [
+                        "enderference",
+                        "frost2",
+                        "stonebound",
+                        "ecological",
+                        "toolleveling",
+                        "luck"
+                    ]
+                },
+                "Damage": 0s
             }
         ]
     }

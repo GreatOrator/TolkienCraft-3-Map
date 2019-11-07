@@ -1,0 +1,712 @@
+{
+    "TraderCurrency": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 10b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 15b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 18b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 19b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 20b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 21b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 22b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 23b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 24b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 25b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 26b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 8b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 27b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 28b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 29b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 30b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 31b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 32b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 6b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 33b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 34b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 35b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 64b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "TraderIgnoreDamage": 0b,
+    "TraderIgnoreNBT": 0b,
+    "TraderSold": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_life_drain",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_second_wind",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_petal_shell",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_wild_fire",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_sky_soarer",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_radiance",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_magnetism",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_sense_animals",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_time_stop",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 9b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_shatter",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 10b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_dandelion_winds",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 11b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_sense_danger",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 12b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_rampant_growth",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 13b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_growth_infusion",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 14b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_geas",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 15b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_sanctuary",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 16b,
+                "ForgeCaps": {
+                    "astralsorcery:cap_item_amulet_holder": {
+                    },
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:spell_dust",
+                "Count": 1b,
+                "tag": {
+                    "spell_holder": {
+                        "spell_0": "spell_harvest",
+                        "selectedSlot": 0,
+                        "lastCooldown": 0,
+                        "cooldown": 0
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 17b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "roots:terra_moss",
+                "Count": 16b,
+                "Damage": 0s
+            }
+        ]
+    }
+}

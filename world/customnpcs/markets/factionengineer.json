@@ -12,6 +12,16 @@
                 "Damage": 0s
             },
             {
+                "Slot": 16b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_gold",
+                "Count": 12b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 18b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
@@ -82,6 +92,16 @@
                 "Damage": 0s
             },
             {
+                "Slot": 25b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin2",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
                 "Slot": 26b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
@@ -132,13 +152,13 @@
                 "Damage": 0s
             },
             {
-                "Slot": 31b,
+                "Slot": 34b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
                     }
                 },
                 "id": "tolkienmobs:item_coin2",
-                "Count": 1b,
+                "Count": 10b,
                 "Damage": 0s
             },
             {
@@ -230,6 +250,16 @@
                 "Damage": 0s
             },
             {
+                "Slot": 7b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "draconicevolution:tool_upgrade",
+                "Count": 1b,
+                "Damage": 11s
+            },
+            {
                 "Slot": 8b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
@@ -257,7 +287,7 @@
                 },
                 "id": "draconicevolution:tool_upgrade",
                 "Count": 1b,
-                "Damage": 11s
+                "Damage": 2s
             },
             {
                 "Slot": 11b,
@@ -280,14 +310,14 @@
                 "Damage": 3s
             },
             {
-                "Slot": 13b,
+                "Slot": 16b,
                 "ForgeCaps": {
                     "customnpcs:itemscripteddata": {
                     }
                 },
-                "id": "draconicevolution:tool_upgrade",
+                "id": "tconstruct:materials",
                 "Count": 1b,
-                "Damage": 2s
+                "Damage": 50s
             },
             {
                 "Slot": 17b,

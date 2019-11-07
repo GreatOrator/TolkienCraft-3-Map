@@ -203,7 +203,7 @@
                         "Name": "1 Dolmed Way"
                     },
                     "Bound": "Bound to [x:815 ,y:97 ,z:1202]",
-                    "KeyCode": 1985813564
+                    "KeyCode": 46693867
                 },
                 "Damage": 0s
             },
@@ -220,10 +220,10 @@
                 "tag": {
                     "RepairCost": 0,
                     "display": {
-                        "Name": "1 Gladwhen Way"
+                        "Name": "1 Gladwhen Lane"
                     },
                     "Bound": "Bound to [x:822 ,y:101 ,z:948]",
-                    "KeyCode": 728669103
+                    "KeyCode": 118739261
                 },
                 "Damage": 0s
             },
@@ -240,10 +240,10 @@
                 "tag": {
                     "RepairCost": 0,
                     "display": {
-                        "Name": "1 Tawarwaith Place"
+                        "Name": "1 Tawarwaith Way"
                     },
                     "Bound": "Bound to [x:1183 ,y:110 ,z:347]",
-                    "KeyCode": 1399060134
+                    "KeyCode": 451807620
                 },
                 "Damage": 0s
             },
@@ -263,7 +263,7 @@
                         "Name": "2 Dolmed Way"
                     },
                     "Bound": "Bound to [x:666 ,y:94 ,z:1103]",
-                    "KeyCode": 936823023
+                    "KeyCode": 818494180
                 },
                 "Damage": 0s
             },
@@ -280,10 +280,10 @@
                 "tag": {
                     "RepairCost": 0,
                     "display": {
-                        "Name": "2 Gladwhen Way"
+                        "Name": "2 Gladwhen Lane"
                     },
                     "Bound": "Bound to [x:863 ,y:102 ,z:1000]",
-                    "KeyCode": 919239450
+                    "KeyCode": 784580060
                 },
                 "Damage": 0s
             },
@@ -303,7 +303,7 @@
                         "Name": "3 Dolmed Way"
                     },
                     "Bound": "Bound to [x:685 ,y:95 ,z:821]",
-                    "KeyCode": 353896882
+                    "KeyCode": 1068792190
                 },
                 "Damage": 0s
             },
@@ -320,10 +320,10 @@
                 "tag": {
                     "RepairCost": 0,
                     "display": {
-                        "Name": "3 Gladwhen Way"
+                        "Name": "3 Gladwhen Lane"
                     },
                     "Bound": "Bound to [x:991 ,y:101 ,z:1035]",
-                    "KeyCode": 901293467
+                    "KeyCode": 277822237
                 },
                 "Damage": 0s
             },
@@ -363,7 +363,7 @@
                         "Name": "1 Adanedhel Place"
                     },
                     "Bound": "Bound to [x:1328 ,y:83 ,z:1318]",
-                    "KeyCode": 364572016
+                    "KeyCode": 1127085818
                 },
                 "Damage": 0s
             }

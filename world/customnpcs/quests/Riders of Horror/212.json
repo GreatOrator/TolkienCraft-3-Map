@@ -1,0 +1,60 @@
+{
+    "CompleterNpc": "Dolin Foebreaker",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Riders of the Plains",
+    "Text": "The Warg-riders near Khazad Dum have been harassing the Dwarves camped near Moria. With the Wargs thinned, it is now time to strike at the riders.
+
+Orcs can be found at the edge of the forest, south-east of Lothlorien.
+
+Dolin Foebreaker wants you to defeat the orcs training to become new Warg-riders.
+",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 13,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 16,
+            "Slot": "mordor_orc"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1570211705965L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "The orcs were defeated before new mounts could arrive. Very good tactical strike. Now there is but one more thing to do.",
+    "NextQuestTitle": ""
+}
