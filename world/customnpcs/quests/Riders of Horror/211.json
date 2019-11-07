@@ -1,0 +1,60 @@
+{
+    "CompleterNpc": "Dolin Foebreaker",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Wargish Threat",
+    "Text": "The Warg-riders near Khazad Dum have been harassing the Dwarves camped near Moria in recent months.
+
+Wargs can be found at the edge of the forest, south-east of Lothlorien.
+
+Dolin Foebreaker wants you to thin the numbers of the Wargs so there will be fewer Warg-riders to trouble the dwarves.
+",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 13,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 16,
+            "Slot": "warg"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1570211703696L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "If there are no Wargs to ride, there will be no Warg-riders to raid.",
+    "NextQuestTitle": ""
+}

@@ -1,0 +1,49 @@
+{
+    "CompleterNpc": "Dwalthal Hammerbeard",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Tunnel Blockade",
+    "Text": "The goblins that Dwalthal Hammerbeard has asked you to clear can be found in the Water Works
+
+
+Dwalthal Hammerbeard, the librarian of the Water Works expedition, has asked you to aid him by clearing the road leading to the 21st Hall of goblins.
+",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 13,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 16,
+            "Slot": "goblin"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1570223846565L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Excellent! With that path clear again, it will be much easier to deliver supplies to the Twenty-first Hall.",
+    "NextQuestTitle": ""
+}

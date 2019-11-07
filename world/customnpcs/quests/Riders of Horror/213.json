@@ -1,0 +1,70 @@
+{
+    "CompleterNpc": "Dolin Foebreaker",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Strategic Strike",
+    "Text": "The Wargs and the riders have been defeated. Now, it is time to destroy the training camp itself.
+
+Orcs can be found at the edge of the forest, south-east of Lothlorien.
+
+Dolin Foebreaker wants you to return to their camp, but this time wishes you to dismantle the training walls the Warg-riders use to train.
+",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 13,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 50,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 8,
+            "Slot": "Cobblestone"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1570211707654L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_silver",
+                "Count": 4b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "tolkienmobs:item_coin_bronze",
+                "Count": 13b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "With the walls destroyed, we will have little to fear from the Warg-riders.",
+    "NextQuestTitle": ""
+}
